@@ -581,9 +581,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Other swatches:
 
-  | Color       |                     Preview                      | Contrast                     | HEX       | RGB                |
-  | ----------- | :----------------------------------------------: | ---------------------------- | --------- | ------------------ |
-  | indigo 240° | [![indigo 240°][indigo 240° image]][indigo 240°] | [1.80][indigo 240° contrast] | `#0000ff` | `rgb(0, 128, 255)` |
+  | Color       |                     Preview                      | Contrast                     | HEX       | RGB              |
+  | ----------- | :----------------------------------------------: | ---------------------------- | --------- | ---------------- |
+  | indigo 240° | [![indigo 240°][indigo 240° image]][indigo 240°] | [1.80][indigo 240° contrast] | `#0000ff` | `rgb(0, 0, 255)` |
 
   [INDIGO 0 contrast]: https://colourcontrast.cc/edf2ff/212529
   [INDIGO 0 image]: https://www.htmlcsscolor.com/preview/32x32/edf2ff.png
@@ -737,22 +737,64 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 </details>
 <details>
   <summary>PINK</summary>
+
+  Open color swatches:
+
+  | Color  |              Preview              | Contrast                 | HEX       | RGB                  |
+  | ------ | :-------------------------------: | ------------------------ | --------- | -------------------- |
+  | PINK 0 | [![PINK 0][PINK 0 image]][PINK 0] | [13.99][PINK 0 contrast] | `#fff0f6` | `rgb(255, 240, 246)` |
+  | PINK 1 | [![PINK 1][PINK 1 image]][PINK 1] | [12.41][PINK 1 contrast] | `#ffdeeb` | `rgb(255, 222, 235)` |
+  | PINK 2 | [![PINK 2][PINK 2 image]][PINK 2] | [10.16][PINK 2 contrast] | `#fcc2d7` | `rgb(252, 194, 215)` |
+  | PINK 3 | [![PINK 3][PINK 3 image]][PINK 3] | [8.08][PINK 3 contrast]  | `#faa2c1` | `rgb(250, 162, 193)` |
+  | PINK 4 | [![PINK 4][PINK 4 image]][PINK 4] | [6.46][PINK 4 contrast]  | `#f783ac` | `rgb(247, 131, 172)` |
+  | PINK 5 | [![PINK 5][PINK 5 image]][PINK 5] | [5.14][PINK 5 contrast]  | `#f06595` | `rgb(240, 101, 149)` |
+  | PINK 6 | [![PINK 6][PINK 6 image]][PINK 6] | [4.14][PINK 6 contrast]  | `#e64980` | `rgb(230, 73, 128)`  |
+  | PINK 7 | [![PINK 7][PINK 7 image]][PINK 7] | [3.34][PINK 7 contrast]  | `#d6336c` | `rgb(214, 51, 108)`  |
+  | PINK 8 | [![PINK 8][PINK 8 image]][PINK 8] | [2.73][PINK 8 contrast]  | `#c2255c` | `rgb(194, 37, 92)`   |
+  | PINK 9 | [![PINK 9][PINK 9 image]][PINK 9] | [2.14][PINK 9 contrast]  | `#a61e4d` | `rgb(166, 30, 77)`   |
+
+  Other swatches:
+
+  | Color     |                  Preview                   | Contrast                   | HEX       | RGB                |
+  | --------- | :----------------------------------------: | -------------------------- | --------- | ------------------ |
+  | pink 330° | [![pink 330°][pink 330° image]][pink 330°] | [4.09][pink 330° contrast] | `#ff0080` | `rgb(255, 0, 128)` |
+
+  [PINK 0 contrast]: https://colourcontrast.cc/fff0f6/212529
+  [PINK 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff0f6.png
+  [PINK 0]: https://www.htmlcsscolor.com/hex/fff0f6
+  [PINK 1 contrast]: https://colourcontrast.cc/ffdeeb/212529
+  [PINK 1 image]: https://www.htmlcsscolor.com/preview/32x32/ffdeeb.png
+  [PINK 1]: https://www.htmlcsscolor.com/hex/ffdeeb
+  [PINK 2 contrast]: https://colourcontrast.cc/fcc2d7/212529
+  [PINK 2 image]: https://www.htmlcsscolor.com/preview/32x32/fcc2d7.png
+  [PINK 2]: https://www.htmlcsscolor.com/hex/fcc2d7
+  [PINK 3 contrast]: https://colourcontrast.cc/faa2c1/212529
+  [PINK 3 image]: https://www.htmlcsscolor.com/preview/32x32/faa2c1.png
+  [PINK 3]: https://www.htmlcsscolor.com/hex/faa2c1
+  [PINK 4 contrast]: https://colourcontrast.cc/f783ac/212529
+  [PINK 4 image]: https://www.htmlcsscolor.com/preview/32x32/f783ac.png
+  [PINK 4]: https://www.htmlcsscolor.com/hex/f783ac
+  [PINK 5 contrast]: https://colourcontrast.cc/f06595/212529
+  [PINK 5 image]: https://www.htmlcsscolor.com/preview/32x32/f06595.png
+  [PINK 5]: https://www.htmlcsscolor.com/hex/f06595
+  [PINK 6 contrast]: https://colourcontrast.cc/e64980/212529
+  [PINK 6 image]: https://www.htmlcsscolor.com/preview/32x32/e64980.png
+  [PINK 6]: https://www.htmlcsscolor.com/hex/e64980
+  [PINK 7 contrast]: https://colourcontrast.cc/d6336c/212529
+  [PINK 7 image]: https://www.htmlcsscolor.com/preview/32x32/d6336c.png
+  [PINK 7]: https://www.htmlcsscolor.com/hex/d6336c
+  [PINK 8 contrast]: https://colourcontrast.cc/c2255c/212529
+  [PINK 8 image]: https://www.htmlcsscolor.com/preview/32x32/c2255c.png
+  [PINK 8]: https://www.htmlcsscolor.com/hex/c2255c
+  [PINK 9 contrast]: https://colourcontrast.cc/a61e4d/212529
+  [PINK 9 image]: https://www.htmlcsscolor.com/preview/32x32/a61e4d.png
+  [PINK 9]: https://www.htmlcsscolor.com/hex/a61e4d
+  [pink 330° contrast]: https://colourcontrast.cc/ff0080/212529
+  [pink 330° image]: https://www.htmlcsscolor.com/preview/32x32/ff0080.png
+  [pink 330°]: https://www.htmlcsscolor.com/hex/ff0080
 </details>
 
 AA large - 3
 AA normal - 4.5
 AAA large - 4.5
 AAA normal - 7
-
-pink
-    #ff0080     4.09    https://colourcontrast.cc/ff0080/212529
-    PINK 0      13.99   https://colourcontrast.cc/fff0f6/212529
-    PINK 1      12.41   https://colourcontrast.cc/ffdeeb/212529
-    PINK 2      10.16   https://colourcontrast.cc/fcc2d7/212529
-    PINK 3      8.08    https://colourcontrast.cc/faa2c1/212529
-    PINK 4      6.46    https://colourcontrast.cc/f783ac/212529
-    PINK 5      5.14    https://colourcontrast.cc/f06595/212529
-    PINK 6      4.14    https://colourcontrast.cc/e64980/212529
-    PINK 7      3.34    https://colourcontrast.cc/d6336c/212529
-    PINK 8      2.73    https://colourcontrast.cc/c2255c/212529
-    PINK 9      2.14    https://colourcontrast.cc/a61e4d/212529
