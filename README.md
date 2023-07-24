@@ -11,13 +11,13 @@ Normal colors:
 | ANSI Color | Color    | Preview                                 | Contrast                  | HEX       | RGB                  |
 | ---------- | -------- | :-------------------------------------: | ------------------------- | --------- | -------------------- |
 | black      | GRAY 9   | [![GRAY 9][GRAY 9 image]][GRAY 9]       | [1.00][GRAY 9 contrast]   | `#212529` | `rgb(33, 37, 41)`    |
-| red        | RED 6    | [![RED 6][RED 6 image]][RED 6]          | [4.70][RED 6 contrast]    | `#fa5252` | `rgb(250, 82, 82)`   |
-| green      | GREEN 6  | [![GREEN 6][GREEN 6 image]][GREEN 6]    | [6.53][GREEN 6 contrast]  | `#40c057` | `rgb(64, 192, 87)`   |
-| yellow     | YELLOW 6 | [![YELLOW 6][YELLOW 6 image]][YELLOW 6] | [8.28][YELLOW 6 contrast] | `#fab005` | `rgb(250, 176, 5)`   |
 | blue       | INDIGO 6 | [![INDIGO 6][INDIGO 6 image]][INDIGO 6] | [3.57][INDIGO 6 contrast] | `#4c6ef5` | `rgb(76, 110, 245)`  |
-| magenta    | GRAPE 6  | [![GRAPE 6][GRAPE 6 image]][GRAPE 6]    | [3.83][GRAPE 6 contrast]  | `#be4bdb` | `rgb(190, 75, 219)`  |
 | cyan       | CYAN 6   | [![CYAN 6][CYAN 6 image]][CYAN 6]       | [5.53][CYAN 6 contrast]   | `#15aabf` | `rgb(21, 170, 191)`  |
+| green      | GREEN 6  | [![GREEN 6][GREEN 6 image]][GREEN 6]    | [6.53][GREEN 6 contrast]  | `#40c057` | `rgb(64, 192, 87)`   |
+| magenta    | GRAPE 6  | [![GRAPE 6][GRAPE 6 image]][GRAPE 6]    | [3.83][GRAPE 6 contrast]  | `#be4bdb` | `rgb(190, 75, 219)`  |
+| red        | RED 6    | [![RED 6][RED 6 image]][RED 6]          | [4.70][RED 6 contrast]    | `#fa5252` | `rgb(250, 82, 82)`   |
 | white      | GRAY 4   | [![GRAY 4][GRAY 4 image]][GRAY 4]       | [10.32][GRAY 4 contrast]  | `#ced4da` | `rgb(206, 212, 218)` |
+| yellow     | YELLOW 6 | [![YELLOW 6][YELLOW 6 image]][YELLOW 6] | [8.28][YELLOW 6 contrast] | `#fab005` | `rgb(250, 176, 5)`   |
 
 Bright colors:
 
@@ -235,12 +235,12 @@ Bright colors:
   Because there is no color wheel for gray (hues in HSL/HSV color models), then
   HTML colors are used as reference:
 
-  * **GRAY** 0 is the lightest tint and therefore is chosen as the foreground
+  * **GRAY 0** is the lightest tint and therefore is chosen as the foreground
     color and as the bright white color
   * **GRAY** 4 is the nearest tint to HTML light gray and therefore is chosen as
     the normal white color
 
-    * GRAY 3 is very light tint, rather white than light gray
+    * GRAY 3 is rather white than light gray
     * GRAY 5 is the middle color and near to GRAY 6 (low contrast)
 
   * **GRAY 6** is the nearest tint to HTML gray and therefore is chosen as the
