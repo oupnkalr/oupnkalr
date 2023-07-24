@@ -47,10 +47,10 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   | Color      |                    Preview                    | Contrast                     | HEX       | RGB                  |
   | ---------- | :-------------------------------------------: | ---------------------------- | --------- | -------------------- |
-  | black      |        [![black][black image]][black]         | [1.36][black contrast]       | `#000000` | `rgb(0, 0, 0)`       |
-  | gray       |          [![gray][gray image]][gray]          | [3.91][gray contrast]        | `#808080` | `rgb(128, 128, 128)` |
+  | black      | [![black][black image]][black]                | [1.36][black contrast]       | `#000000` | `rgb(0, 0, 0)`       |
+  | gray       | [![gray][gray image]][gray]                   | [3.91][gray contrast]        | `#808080` | `rgb(128, 128, 128)` |
   | light gray | [![light gray][light gray image]][light gray] | [10.30][light gray contrast] | `#d3d3d3` | `rgb(211, 211, 211)` |
-  | white      |        [![white][white image]][white]         | [15.43][white contrast]      | `#ffffff` | `rgb(255, 255, 255)` |
+  | white      | [![white][white image]][white]                | [15.43][white contrast]      | `#ffffff` | `rgb(255, 255, 255)` |
 
   1.83 GRAY 8
 
@@ -178,7 +178,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | Color      |                    Preview                    | Contrast                    | HEX       | RGB                |
   | ---------- | :-------------------------------------------: | --------------------------- | --------- | ------------------ |
   | orange 30° | [![orange 30°][orange 30° image]][orange 30°] | [6.13][orange 30° contrast] | `#ff8000` | `rgb(255, 128, 0)` |
-  | orange     |       [![orange][orange image]][orange]       | [7.81][orange contrast]     | `#ff8000` | `rgb(255, 165, 0)` |
+  | orange     | [![orange][orange image]][orange]             | [7.81][orange contrast]     | `#ff8000` | `rgb(255, 165, 0)` |
 
   [ORANGE 0 contrast]: https://colourcontrast.cc/fff4e6/212529
   [ORANGE 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff4e6.png
@@ -277,6 +277,61 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 </details>
 <details>
   <summary>LIME</summary>
+
+  Open color swatches:
+
+  | Color  |              Preview              | Contrast                 | HEX       | RGB                  |
+  | ------ | :-------------------------------: | ------------------------ | --------- | -------------------- |
+  | LIME 0 | [![LIME 0][LIME 0 image]][LIME 0] | [14.60][LIME 0 contrast] | `#f4fce3` | `rgb(244, 252, 227)` |
+  | LIME 1 | [![LIME 1][LIME 1 image]][LIME 1] | [13.94][LIME 1 contrast] | `#e9fac8` | `rgb(233, 250, 200)` |
+  | LIME 2 | [![LIME 2][LIME 2 image]][LIME 2] | [13.01][LIME 2 contrast] | `#ffec99` | `rgb(255, 236, 153)` |
+  | LIME 3 | [![LIME 3][LIME 3 image]][LIME 3] | [11.30][LIME 3 contrast] | `#c0eb75` | `rgb(192, 235, 117)` |
+  | LIME 4 | [![LIME 4][LIME 4 image]][LIME 4] | [10.12][LIME 4 contrast] | `#a9e34b` | `rgb(169, 227, 75)`  |
+  | LIME 5 | [![LIME 5][LIME 5 image]][LIME 5] | [8.90][LIME 5 contrast]  | `#94d82d` | `rgb(148, 216, 45)`  |
+  | LIME 6 | [![LIME 6][LIME 6 image]][LIME 6] | [7.58][LIME 6 contrast]  | `#82c91e` | `rgb(130, 201, 30)`  |
+  | LIME 7 | [![LIME 7][LIME 7 image]][LIME 7] | [6.33][LIME 7 contrast]  | `#74b816` | `rgb(116, 184, 22)`  |
+  | LIME 8 | [![LIME 8][LIME 8 image]][LIME 8] | [5.27][LIME 8 contrast]  | `#66a80f` | `rgb(102, 168, 15)`  |
+  | LIME 9 | [![LIME 9][LIME 9 image]][LIME 9] | [4.18][LIME 9 contrast]  | `#5c940d` | `rgb(92, 148, 13)`   |
+
+  HTML swatches:
+
+  | Color    |                 Preview                 | Contrast                   | HEX       | RGB              |
+  | -------- | :-------------------------------------: | -------------------------- | --------- | ---------------- |
+  | lime 60° | [![lime 60°][lime 60° image]][lime 60°] | [11.24][lime 60° contrast] | `#00ff00` | `rgb(0, 255, 0)` |
+
+  [LIME 0 contrast]: https://colourcontrast.cc/f4fce3/212529
+  [LIME 0 image]: https://www.htmlcsscolor.com/preview/32x32/f4fce3.png
+  [LIME 0]: https://www.htmlcsscolor.com/hex/f4fce3
+  [LIME 1 contrast]: https://colourcontrast.cc/e9fac8/212529
+  [LIME 1 image]: https://www.htmlcsscolor.com/preview/32x32/e9fac8.png
+  [LIME 1]: https://www.htmlcsscolor.com/hex/e9fac8
+  [LIME 2 contrast]: https://colourcontrast.cc/d8f5a2/212529
+  [LIME 2 image]: https://www.htmlcsscolor.com/preview/32x32/d8f5a2.png
+  [LIME 2]: https://www.htmlcsscolor.com/hex/d8f5a2
+  [LIME 3 contrast]: https://colourcontrast.cc/c0eb75/212529
+  [LIME 3 image]: https://www.htmlcsscolor.com/preview/32x32/c0eb75.png
+  [LIME 3]: https://www.htmlcsscolor.com/hex/c0eb75
+  [LIME 4 contrast]: https://colourcontrast.cc/a9e34b/212529
+  [LIME 4 image]: https://www.htmlcsscolor.com/preview/32x32/a9e34b.png
+  [LIME 4]: https://www.htmlcsscolor.com/hex/a9e34b
+  [LIME 5 contrast]: https://colourcontrast.cc/94d82d/212529
+  [LIME 5 image]: https://www.htmlcsscolor.com/preview/32x32/94d82d.png
+  [LIME 5]: https://www.htmlcsscolor.com/hex/94d82d
+  [LIME 6 contrast]: https://colourcontrast.cc/82c91e/212529
+  [LIME 6 image]: https://www.htmlcsscolor.com/preview/32x32/82c91e.png
+  [LIME 6]: https://www.htmlcsscolor.com/hex/82c91e
+  [LIME 7 contrast]: https://colourcontrast.cc/74b816/212529
+  [LIME 7 image]: https://www.htmlcsscolor.com/preview/32x32/74b816.png
+  [LIME 7]: https://www.htmlcsscolor.com/hex/74b816
+  [LIME 8 contrast]: https://colourcontrast.cc/66a80f/212529
+  [LIME 8 image]: https://www.htmlcsscolor.com/preview/32x32/66a80f.png
+  [LIME 8]: https://www.htmlcsscolor.com/hex/66a80f
+  [LIME 9 contrast]: https://colourcontrast.cc/5c940d/212529
+  [LIME 9 image]: https://www.htmlcsscolor.com/preview/32x32/5c940d.png
+  [LIME 9]: https://www.htmlcsscolor.com/hex/5c940d
+  [lime 90° contrast]: https://colourcontrast.cc/00ff00/212529
+  [lime 90° image]: https://www.htmlcsscolor.com/preview/32x32/00ff00.png
+  [lime 90°]: https://www.htmlcsscolor.com/hex/00ff00
 </details>
 <details>
   <summary>GREEN</summary>
@@ -411,16 +466,3 @@ green
     GREEN 7     5.61    https://colourcontrast.cc/37b24d/212529
     GREEN 8     4.48    https://colourcontrast.cc/2f9e44/212529
     GREEN 9     3.53    https://colourcontrast.cc/2b8a3e/212529
-
-lime
-    #80ff00     11.92   https://colourcontrast.cc/80ff00/212529
-    LIME 0      14.60   https://colourcontrast.cc/f4fce3/212529
-    LIME 1      13.94   https://colourcontrast.cc/e9fac8/212529
-    LIME 2      12.86   https://colourcontrast.cc/d8f5a2/212529
-    LIME 3      11.30   https://colourcontrast.cc/c0eb75/212529
-    LIME 4      10.12   https://colourcontrast.cc/a9e34b/212529
-    LIME 5      8.90    https://colourcontrast.cc/94d82d/212529
-    LIME 6      7.58    https://colourcontrast.cc/82c91e/212529
-    LIME 7      6.33    https://colourcontrast.cc/74b816/212529
-    LIME 8      5.27    https://colourcontrast.cc/66a80f/212529
-    LIME 9      4.18    https://colourcontrast.cc/5c940d/212529
