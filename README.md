@@ -43,6 +43,12 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | BLUE 8 | [![BLUE 8][BLUE 8 image]][BLUE 8] | [3.07][BLUE 8 contrast]  | `#1971c2` | `rgb(25, 113, 194)`  |
   | BLUE 9 | [![BLUE 9][BLUE 9 image]][BLUE 9] | [2.53][BLUE 9 contrast]  | `#1864ab` | `rgb(24, 100, 171)`  |
 
+  Other swatches:
+
+  | Color     |                  Preview                   | Contrast                   | HEX       | RGB                |
+  | --------- | :----------------------------------------: | -------------------------- | --------- | ------------------ |
+  | blue 210° | [![blue 210°][blue 210° image]][blue 210°] | [4.06][blue 210° contrast] | `#0080ff` | `rgb(0, 128, 255)` |
+
   [BLUE 0 contrast]: https://colourcontrast.cc/e7f5ff/212529
   [BLUE 0 image]: https://www.htmlcsscolor.com/preview/32x32/e7f5ff.png
   [BLUE 0]: https://www.htmlcsscolor.com/hex/e7f5ff
@@ -73,6 +79,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [BLUE 9 contrast]: https://colourcontrast.cc/1864ab/212529
   [BLUE 9 image]: https://www.htmlcsscolor.com/preview/32x32/1864ab.png
   [BLUE 9]: https://www.htmlcsscolor.com/hex/1864ab
+  [blue 210° contrast]: https://colourcontrast.cc/0080ff/212529
+  [blue 210° image]: https://www.htmlcsscolor.com/preview/32x32/0080ff.png
+  [blue 210°]: https://www.htmlcsscolor.com/hex/0080ff
 </details>
 <details>
   <summary>CYAN</summary>
@@ -91,6 +100,12 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | CYAN 7 | [![CYAN 7][CYAN 7 image]][CYAN 7] | [4.49][CYAN 7 contrast]  | `#1098ad` | `rgb(16, 152, 173)`  |
   | CYAN 8 | [![CYAN 8][CYAN 8 image]][CYAN 8] | [3.55][CYAN 8 contrast]  | `#0c8599` | `rgb(12, 133, 153)`  |
   | CYAN 9 | [![CYAN 9][CYAN 9 image]][CYAN 9] | [2.76][CYAN 9 contrast]  | `#0b7285` | `rgb(11, 114, 133)`  |
+
+  Other swatches:
+
+  | Color     |                  Preview                   | Contrast                    | HEX       | RGB                |
+  | --------- | :----------------------------------------: | --------------------------- | --------- | ------------------ |
+  | cyan 180° | [![cyan 180°][cyan 180° image]][cyan 180°] | [12.30][cyan 180° contrast] | `#00ffff` | `rgb(0, 255, 255)` |
 
   [CYAN 0 contrast]: https://colourcontrast.cc/e3fafc/212529
   [CYAN 0 image]: https://www.htmlcsscolor.com/preview/32x32/e3fafc.png
@@ -122,6 +137,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [CYAN 9 contrast]: https://colourcontrast.cc/0b7285/212529
   [CYAN 9 image]: https://www.htmlcsscolor.com/preview/32x32/0b7285.png
   [CYAN 9]: https://www.htmlcsscolor.com/hex/0b7285
+  [cyan 180° contrast]: https://colourcontrast.cc/00ffff/212529
+  [cyan 180° image]: https://www.htmlcsscolor.com/preview/32x32/00ffff.png
+  [cyan 180°]: https://www.htmlcsscolor.com/hex/00ffff
 </details>
 <details>
   <summary>GRAPE</summary>
@@ -140,6 +158,12 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | GRAPE 7 | [![GRAPE 7][GRAPE 7 image]][GRAPE 7] | [3.18][GRAPE 7 contrast]  | `#ae3ec9` | `rgb(174, 62, 201)`  |
   | GRAPE 8 | [![GRAPE 8][GRAPE 8 image]][GRAPE 8] | [2.65][GRAPE 8 contrast]  | `#9c36b5` | `rgb(156, 54, 181)`  |
   | GRAPE 9 | [![GRAPE 9][GRAPE 9 image]][GRAPE 9] | [2.12][GRAPE 9 contrast]  | `#862e9c` | `rgb(134, 46, 156)`  |
+
+  Other swatches:
+
+  | Color      |                    Preview                    | Contrast                    | HEX       | RGB                |
+  | ---------- | :-------------------------------------------: | --------------------------- | --------- | ------------------ |
+  | grape 300° | [![grape 300°][grape 300° image]][grape 300°] | [4.92][grape 300° contrast] | `#ff00ff` | `rgb(255, 0, 255)` |
 
   [GRAPE 0 contrast]: https://colourcontrast.cc/f8f0fc/212529
   [GRAPE 0 image]: https://www.htmlcsscolor.com/preview/32x32/f8f0fc.png
@@ -171,6 +195,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [GRAPE 9 contrast]: https://colourcontrast.cc/862e9c/212529
   [GRAPE 9 image]: https://www.htmlcsscolor.com/preview/32x32/862e9c.png
   [GRAPE 9]: https://www.htmlcsscolor.com/hex/862e9c
+  [grape 300° contrast]: https://colourcontrast.cc/ff00ff/212529
+  [grape 300° image]: https://www.htmlcsscolor.com/preview/32x32/ff00ff.png
+  [grape 300°]: https://www.htmlcsscolor.com/hex/ff00ff
 </details>
 <details>
   <summary>GRAY</summary>
@@ -189,6 +216,13 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | GRAY 7 | [![GRAY 7][GRAY 7 image]][GRAY 7] | [1.89][GRAY 7 contrast]  | `#495057` | `rgb(73, 80, 87)`    |
   | GRAY 8 | [![GRAY 8][GRAY 8 image]][GRAY 8] | [1.34][GRAY 8 contrast]  | `#343a40` | `rgb(52, 58, 64)`    |
   | GRAY 9 | [![GRAY 9][GRAY 9 image]][GRAY 9] | [1.00][GRAY 9 contrast]  | `#212529` | `rgb(33, 37, 41)`    |
+
+  HTML swatches:
+
+  | Color      |                    Preview                    | Contrast                     | HEX       | RGB                  |
+  | ---------- | :-------------------------------------------: | ---------------------------- | --------- | -------------------- |
+  | gray       |          [![gray][gray image]][gray]          | [3.91][gray contrast]        | `#808080` | `rgb(128, 128, 128)` |
+  | light gray | [![light gray][light gray image]][light gray] | [10.30][light gray contrast] | `#d3d3d3` | `rgb(211, 211, 211)` |
 
   [GRAY 0 contrast]: https://colourcontrast.cc/f8f9fa/212529
   [GRAY 0 image]: https://www.htmlcsscolor.com/preview/32x32/f8f9fa.png
@@ -220,6 +254,12 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [GRAY 9 contrast]: https://colourcontrast.cc/212529/212529
   [GRAY 9 image]: https://www.htmlcsscolor.com/preview/32x32/212529.png
   [GRAY 9]: https://www.htmlcsscolor.com/hex/212529
+  [gray contrast]: https://colourcontrast.cc/808080/212529
+  [gray image]: https://www.htmlcsscolor.com/preview/32x32/808080.png
+  [gray]: https://www.htmlcsscolor.com/hex/808080
+  [light gray contrast]: https://colourcontrast.cc/d3d3d3/212529
+  [light gray image]: https://www.htmlcsscolor.com/preview/32x32/d3d3d3.png
+  [light gray]: https://www.htmlcsscolor.com/hex/d3d3d3
 </details>
 <details>
   <summary>GREEN</summary>
@@ -238,6 +278,12 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | GREEN 7 | [![GREEN 7][GREEN 7 image]][GREEN 7] | [5.61][GREEN 7 contrast]  | `#37b24d` | `rgb(55, 178, 77)`   |
   | GREEN 8 | [![GREEN 8][GREEN 8 image]][GREEN 8] | [4.48][GREEN 8 contrast]  | `#2f9e44` | `rgb(47, 158, 68)`   |
   | GREEN 9 | [![GREEN 9][GREEN 9 image]][GREEN 9] | [3.53][GREEN 9 contrast]  | `#2b8a3e` | `rgb(43, 138, 62)`   |
+
+  Other swatches:
+
+  | Color      |                    Preview                    | Contrast                     | HEX       | RGB              |
+  | ---------- | :-------------------------------------------: | ---------------------------- | --------- | ---------------- |
+  | green 120° | [![green 120°][green 120° image]][green 120°] | [11.24][green 120° contrast] | `#00ff00` | `rgb(0, 255, 0)` |
 
   [GREEN 0 contrast]: https://colourcontrast.cc/ebfbee/212529
   [GREEN 0 image]: https://www.htmlcsscolor.com/preview/32x32/ebfbee.png
@@ -269,6 +315,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [GREEN 9 contrast]: https://colourcontrast.cc/2b8a3e/212529
   [GREEN 9 image]: https://www.htmlcsscolor.com/preview/32x32/2b8a3e.png
   [GREEN 9]: https://www.htmlcsscolor.com/hex/2b8a3e
+  [green 120° contrast]: https://colourcontrast.cc/00ff00/212529
+  [green 120° image]: https://www.htmlcsscolor.com/preview/32x32/00ff00.png
+  [green 120°]: https://www.htmlcsscolor.com/hex/00ff00
 </details>
 <details>
   <summary>INDIGO</summary>
@@ -287,6 +336,12 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | INDIGO 7 | [![INDIGO 7][INDIGO 7 image]][INDIGO 7] | [3.10][INDIGO 7 contrast]  | `#4263eb` | `rgb(66, 99, 235)`   |
   | INDIGO 8 | [![INDIGO 8][INDIGO 8 image]][INDIGO 8] | [2.72][INDIGO 8 contrast]  | `#3b5bdb` | `rgb(59, 91, 219)`   |
   | INDIGO 9 | [![INDIGO 9][INDIGO 9 image]][INDIGO 9] | [2.28][INDIGO 9 contrast]  | `#364fc7` | `rgb(54, 79, 199)`   |
+
+  Other swatches:
+
+  | Color       |                     Preview                      | Contrast                     | HEX       | RGB              |
+  | ----------- | :----------------------------------------------: | ---------------------------- | --------- | ---------------- |
+  | indigo 240° | [![indigo 240°][indigo 240° image]][indigo 240°] | [1.80][indigo 240° contrast] | `#0000ff` | `rgb(0, 0, 255)` |
 
   [INDIGO 0 contrast]: https://colourcontrast.cc/edf2ff/212529
   [INDIGO 0 image]: https://www.htmlcsscolor.com/preview/32x32/edf2ff.png
@@ -318,6 +373,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [INDIGO 9 contrast]: https://colourcontrast.cc/364fc7/212529
   [INDIGO 9 image]: https://www.htmlcsscolor.com/preview/32x32/364fc7.png
   [INDIGO 9]: https://www.htmlcsscolor.com/hex/364fc7
+  [indigo 240° contrast]: https://colourcontrast.cc/0000ff/212529
+  [indigo 240° image]: https://www.htmlcsscolor.com/preview/32x32/0000ff.png
+  [indigo 240°]: https://www.htmlcsscolor.com/hex/0000ff
 </details>
 <details>
   <summary>LIME</summary>
@@ -336,6 +394,12 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | LIME 7 | [![LIME 7][LIME 7 image]][LIME 7] | [6.33][LIME 7 contrast]  | `#74b816` | `rgb(116, 184, 22)`  |
   | LIME 8 | [![LIME 8][LIME 8 image]][LIME 8] | [5.27][LIME 8 contrast]  | `#66a80f` | `rgb(102, 168, 15)`  |
   | LIME 9 | [![LIME 9][LIME 9 image]][LIME 9] | [4.18][LIME 9 contrast]  | `#5c940d` | `rgb(92, 148, 13)`   |
+
+  Other swatches:
+
+  | Color    |                 Preview                 | Contrast                   | HEX       | RGB                |
+  | -------- | :-------------------------------------: | -------------------------- | --------- | ------------------ |
+  | lime 90° | [![lime 90°][lime 90° image]][lime 90°] | [11.92][lime 90° contrast] | `#80ff00` | `rgb(128, 255, 0)` |
 
   [LIME 0 contrast]: https://colourcontrast.cc/f4fce3/212529
   [LIME 0 image]: https://www.htmlcsscolor.com/preview/32x32/f4fce3.png
@@ -367,6 +431,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [LIME 9 contrast]: https://colourcontrast.cc/5c940d/212529
   [LIME 9 image]: https://www.htmlcsscolor.com/preview/32x32/5c940d.png
   [LIME 9]: https://www.htmlcsscolor.com/hex/5c940d
+  [lime 90° contrast]: https://colourcontrast.cc/80ff00/212529
+  [lime 90° image]: https://www.htmlcsscolor.com/preview/32x32/80ff00.png
+  [lime 90°]: https://www.htmlcsscolor.com/hex/80ff00
 </details>
 <details>
   <summary>ORANGE</summary>
@@ -385,6 +452,12 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | ORANGE 7 | [![ORANGE 7][ORANGE 7 image]][ORANGE 7] | [5.07][ORANGE 7 contrast]  | `#f76707` | `rgb(247, 103, 7)`   |
   | ORANGE 8 | [![ORANGE 8][ORANGE 8 image]][ORANGE 8] | [4.31][ORANGE 8 contrast]  | `#e8590c` | `rgb(232, 89, 12)`   |
   | ORANGE 9 | [![ORANGE 9][ORANGE 9 image]][ORANGE 9] | [3.59][ORANGE 9 contrast]  | `#d9480f` | `rgb(217, 72, 15)`   |
+
+  Other swatches:
+
+  | Color      |                    Preview                    | Contrast                    | HEX       | RGB                |
+  | ---------- | :-------------------------------------------: | --------------------------- | --------- | ------------------ |
+  | orange 30° | [![orange 30°][orange 30° image]][orange 30°] | [6.13][orange 30° contrast] | `#ff8000` | `rgb(255, 128, 0)` |
 
   [ORANGE 0 contrast]: https://colourcontrast.cc/fff4e6/212529
   [ORANGE 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff4e6.png
@@ -416,6 +489,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [ORANGE 9 contrast]: https://colourcontrast.cc/d9480f/212529
   [ORANGE 9 image]: https://www.htmlcsscolor.com/preview/32x32/d9480f.png
   [ORANGE 9]: https://www.htmlcsscolor.com/hex/d9480f
+  [orange 30° contrast]: https://colourcontrast.cc/ff8000/212529
+  [orange 30° image]: https://www.htmlcsscolor.com/preview/32x32/ff8000.png
+  [orange 30°]: https://www.htmlcsscolor.com/hex/ff8000
 </details>
 <details>
   <summary>PINK</summary>
@@ -434,6 +510,12 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | PINK 7 | [![PINK 7][PINK 7 image]][PINK 7] | [3.34][PINK 7 contrast]  | `#d6336c` | `rgb(214, 51, 108)`  |
   | PINK 8 | [![PINK 8][PINK 8 image]][PINK 8] | [2.73][PINK 8 contrast]  | `#c2255c` | `rgb(194, 37, 92)`   |
   | PINK 9 | [![PINK 9][PINK 9 image]][PINK 9] | [2.14][PINK 9 contrast]  | `#a61e4d` | `rgb(166, 30, 77)`   |
+
+  Other swatches:
+
+  | Color     |                  Preview                   | Contrast                   | HEX       | RGB                |
+  | --------- | :----------------------------------------: | -------------------------- | --------- | ------------------ |
+  | pink 330° | [![pink 330°][pink 330° image]][pink 330°] | [4.09][pink 330° contrast] | `#ff0080` | `rgb(255, 0, 128)` |
 
   [PINK 0 contrast]: https://colourcontrast.cc/fff0f6/212529
   [PINK 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff0f6.png
@@ -465,6 +547,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [PINK 9 contrast]: https://colourcontrast.cc/a61e4d/212529
   [PINK 9 image]: https://www.htmlcsscolor.com/preview/32x32/a61e4d.png
   [PINK 9]: https://www.htmlcsscolor.com/hex/a61e4d
+  [pink 330° contrast]: https://colourcontrast.cc/ff0080/212529
+  [pink 330° image]: https://www.htmlcsscolor.com/preview/32x32/ff0080.png
+  [pink 330°]: https://www.htmlcsscolor.com/hex/ff0080
 </details>
 <details>
   <summary>RED</summary>
@@ -483,6 +568,12 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | RED 7 | [![RED 7][RED 7 image]][RED 7] | [4.01][RED 7 contrast]  | `#f03e3e` | `rgb(240, 62, 62)`   |
   | RED 8 | [![RED 8][RED 8 image]][RED 8] | [3.42][RED 8 contrast]  | `#e03131` | `rgb(224, 49, 49)`   |
   | RED 9 | [![RED 9][RED 9 image]][RED 9] | [2.83][RED 9 contrast]  | `#c92a2a` | `rgb(201, 42, 42)`   |
+
+  Other swatches:
+
+  | Color  |              Preview              | Contrast                | HEX       | RGB              |
+  | ------ | :-------------------------------: | ----------------------- | --------- | ---------------- |
+  | red 0° | [![red 0°][red 0° image]][red 0°] | [3.86][red 0° contrast] | `#ff0000` | `rgb(255, 0, 0)` |
 
   [RED 0 contrast]: https://colourcontrast.cc/fff5f5/212529
   [RED 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff5f5.png
@@ -514,6 +605,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [RED 9 contrast]: https://colourcontrast.cc/c92a2a/212529
   [RED 9 image]: https://www.htmlcsscolor.com/preview/32x32/c92a2a.png
   [RED 9]: https://www.htmlcsscolor.com/hex/c92a2a
+  [red 0° contrast]: https://colourcontrast.cc/ff0000/212529
+  [red 0° image]: https://www.htmlcsscolor.com/preview/32x32/ff0000.png
+  [red 0°]: https://www.htmlcsscolor.com/hex/ff0000
 </details>
 <details>
   <summary>TEAL</summary>
@@ -532,6 +626,12 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | TEAL 7 | [![TEAL 7][TEAL 7 image]][TEAL 7] | [4.95][TEAL 7 contrast]  | `#0ca678` | `rgb(12, 166, 120)`  |
   | TEAL 8 | [![TEAL 8][TEAL 8 image]][TEAL 8] | [3.91][TEAL 8 contrast]  | `#099268` | `rgb(9, 146, 104)`   |
   | TEAL 9 | [![TEAL 9][TEAL 9 image]][TEAL 9] | [3.08][TEAL 9 contrast]  | `#087f5b` | `rgb(8, 127, 91)`    |
+
+  Other swatches:
+
+  | Color     |                  Preview                   | Contrast                    | HEX       | RGB                |
+  | --------- | :----------------------------------------: | --------------------------- | --------- | ------------------ |
+  | teal 150° | [![teal 150°][teal 150° image]][teal 150°] | [11.47][teal 150° contrast] | `#00ff80` | `rgb(0, 255, 128)` |
 
   [TEAL 0 contrast]: https://colourcontrast.cc/e6fcf5/212529
   [TEAL 0 image]: https://www.htmlcsscolor.com/preview/32x32/e6fcf5.png
@@ -563,6 +663,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [TEAL 9 contrast]: https://colourcontrast.cc/087f5b/212529
   [TEAL 9 image]: https://www.htmlcsscolor.com/preview/32x32/087f5b.png
   [TEAL 9]: https://www.htmlcsscolor.com/hex/087f5b
+  [teal 150° contrast]: https://colourcontrast.cc/00ff80/212529
+  [teal 150° image]: https://www.htmlcsscolor.com/preview/32x32/00ff80.png
+  [teal 150°]: https://www.htmlcsscolor.com/hex/00ff80
 </details>
 <details>
   <summary>VIOLET</summary>
@@ -581,6 +684,12 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | VIOLET 7 | [![VIOLET 7][VIOLET 7 image]][VIOLET 7] | [2.78][VIOLET 7 contrast]  | `#7048e8` | `rgb(112, 72, 232)`  |
   | VIOLET 8 | [![VIOLET 8][VIOLET 8 image]][VIOLET 8] | [2.45][VIOLET 8 contrast]  | `#6741d9` | `rgb(103, 65, 217)`  |
   | VIOLET 9 | [![VIOLET 9][VIOLET 9 image]][VIOLET 9] | [2.17][VIOLET 9 contrast]  | `#5f3dc4` | `rgb(95, 61, 196)`   |
+
+  Other swatches:
+
+  | Color       |                     Preview                      | Contrast                     | HEX       | RGB                |
+  | ----------- | :----------------------------------------------: | ---------------------------- | --------- | ------------------ |
+  | violet 270° | [![violet 270°][violet 270° image]][violet 270°] | [2.47][violet 270° contrast] | `#8000ff` | `rgb(128, 0, 255)` |
 
   [VIOLET 0 contrast]: https://colourcontrast.cc/f3f0ff/212529
   [VIOLET 0 image]: https://www.htmlcsscolor.com/preview/32x32/f3f0ff.png
@@ -612,6 +721,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [VIOLET 9 contrast]: https://colourcontrast.cc/5f3dc4/212529
   [VIOLET 9 image]: https://www.htmlcsscolor.com/preview/32x32/5f3dc4.png
   [VIOLET 9]: https://www.htmlcsscolor.com/hex/5f3dc4
+  [violet 270° contrast]: https://colourcontrast.cc/8000ff/212529
+  [violet 270° image]: https://www.htmlcsscolor.com/preview/32x32/8000ff.png
+  [violet 270°]: https://www.htmlcsscolor.com/hex/8000ff
 </details>
 <details>
   <summary>YELLOW</summary>
@@ -630,6 +742,12 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | YELLOW 7 | [![YELLOW 7][YELLOW 7 image]][YELLOW 7] | [7.23][YELLOW 7 contrast]  | `#f59f00` | `rgb(245, 159, 0)`   |
   | YELLOW 8 | [![YELLOW 8][YELLOW 8 image]][YELLOW 8] | [6.21][YELLOW 8 contrast]  | `#f08c00` | `rgb(240, 140, 0)`   |
   | YELLOW 9 | [![YELLOW 9][YELLOW 9 image]][YELLOW 9] | [5.14][YELLOW 9 contrast]  | `#e67700` | `rgb(230, 119, 0)`   |
+
+  Other swatches:
+
+  | Color      |                    Preview                    | Contrast                     | HEX       | RGB                |
+  | ---------- | :-------------------------------------------: | ---------------------------- | --------- | ------------------ |
+  | yellow 60° | [![yellow 60°][yellow 60° image]][yellow 60°] | [14.37][yellow 60° contrast] | `#ffff00` | `rgb(255, 255, 0)` |
 
   [YELLOW 0 contrast]: https://colourcontrast.cc/fff9db/212529
   [YELLOW 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff9db.png
@@ -661,4 +779,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [YELLOW 9 contrast]: https://colourcontrast.cc/e67700/212529
   [YELLOW 9 image]: https://www.htmlcsscolor.com/preview/32x32/e67700.png
   [YELLOW 9]: https://www.htmlcsscolor.com/hex/e67700
+  [yellow 60° contrast]: https://colourcontrast.cc/ffff00/212529
+  [yellow 60° image]: https://www.htmlcsscolor.com/preview/32x32/ffff00.png
+  [yellow 60°]: https://www.htmlcsscolor.com/hex/ffff00
 </details>
