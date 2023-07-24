@@ -400,7 +400,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | TEAL 3 | [![TEAL 3][TEAL 3 image]][TEAL 3] | [9.99][TEAL 3 contrast]  | `#63e6be` | `rgb(99, 230, 190)`  |
   | TEAL 4 | [![TEAL 4][TEAL 4 image]][TEAL 4] | [8.57][TEAL 4 contrast]  | `#38d9a9` | `rgb(56, 217, 169)`  |
   | TEAL 5 | [![TEAL 5][TEAL 5 image]][TEAL 5] | [7.25][TEAL 5 contrast]  | `#20c997` | `rgb(32, 201, 151)`  |
-  | TEAL 6 | [![TEAL 6][TEAL 6 image]][TEAL 6] | [6.05][TEAL 6 contrast]  | `#12b887` | `rgb(18, 184, 134)`  |
+  | TEAL 6 | [![TEAL 6][TEAL 6 image]][TEAL 6] | [6.05][TEAL 6 contrast]  | `#12b886` | `rgb(18, 184, 134)`  |
   | TEAL 7 | [![TEAL 7][TEAL 7 image]][TEAL 7] | [4.95][TEAL 7 contrast]  | `#0ca678` | `rgb(12, 166, 120)`  |
   | TEAL 8 | [![TEAL 8][TEAL 8 image]][TEAL 8] | [3.91][TEAL 8 contrast]  | `#099268` | `rgb(9, 146, 104)`   |
   | TEAL 9 | [![TEAL 9][TEAL 9 image]][TEAL 9] | [3.08][TEAL 9 contrast]  | `#087f5b` | `rgb(8, 127, 91)`    |
@@ -429,9 +429,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [TEAL 5 contrast]: https://colourcontrast.cc/20c997/212529
   [TEAL 5 image]: https://www.htmlcsscolor.com/preview/32x32/20c997.png
   [TEAL 5]: https://www.htmlcsscolor.com/hex/20c997
-  [TEAL 6 contrast]: https://colourcontrast.cc/12b887/212529
-  [TEAL 6 image]: https://www.htmlcsscolor.com/preview/32x32/12b887.png
-  [TEAL 6]: https://www.htmlcsscolor.com/hex/12b887
+  [TEAL 6 contrast]: https://colourcontrast.cc/12b886/212529
+  [TEAL 6 image]: https://www.htmlcsscolor.com/preview/32x32/12b886.png
+  [TEAL 6]: https://www.htmlcsscolor.com/hex/12b886
   [TEAL 7 contrast]: https://colourcontrast.cc/0ca678/212529
   [TEAL 7 image]: https://www.htmlcsscolor.com/preview/32x32/0ca678.png
   [TEAL 7]: https://www.htmlcsscolor.com/hex/0ca678
@@ -454,7 +454,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | ------ | :-------------------------------: | ------------------------ | --------- | -------------------- |
   | CYAN 0 | [![CYAN 0][CYAN 0 image]][CYAN 0] | [14.21][CYAN 0 contrast] | `#e3fafc` | `rgb(227, 250, 252)` |
   | CYAN 1 | [![CYAN 1][CYAN 1 image]][CYAN 1] | [13.18][CYAN 1 contrast] | `#c5f6fa` | `rgb(197, 246, 250)` |
-  | CYAN 2 | [![CYAN 2][CYAN 2 image]][CYAN 2] | [11.23][CYAN 2 contrast] | `#99e9fa` | `rgb(153, 233, 242)` |
+  | CYAN 2 | [![CYAN 2][CYAN 2 image]][CYAN 2] | [11.31][CYAN 2 contrast] | `#99e9f2` | `rgb(153, 233, 242)` |
   | CYAN 3 | [![CYAN 3][CYAN 3 image]][CYAN 3] | [9.30][CYAN 3 contrast]  | `#66d9e8` | `rgb(102, 217, 232)` |
   | CYAN 4 | [![CYAN 4][CYAN 4 image]][CYAN 4] | [7.76][CYAN 4 contrast]  | `#3bc9db` | `rgb(59, 201, 219)`  |
   | CYAN 5 | [![CYAN 5][CYAN 5 image]][CYAN 5] | [6.48][CYAN 5 contrast]  | `#22b8cf` | `rgb(34, 184, 207)`  |
@@ -475,9 +475,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [CYAN 1 contrast]: https://colourcontrast.cc/c5f6fa/212529
   [CYAN 1 image]: https://www.htmlcsscolor.com/preview/32x32/c5f6fa.png
   [CYAN 1]: https://www.htmlcsscolor.com/hex/c5f6fa
-  [CYAN 2 contrast]: https://colourcontrast.cc/99e9fa/212529
-  [CYAN 2 image]: https://www.htmlcsscolor.com/preview/32x32/99e9fa.png
-  [CYAN 2]: https://www.htmlcsscolor.com/hex/99e9fa
+  [CYAN 2 contrast]: https://colourcontrast.cc/99e9f2/212529
+  [CYAN 2 image]: https://www.htmlcsscolor.com/preview/32x32/99e9f2.png
+  [CYAN 2]: https://www.htmlcsscolor.com/hex/99e9f2
   [CYAN 3 contrast]: https://colourcontrast.cc/66d9e8/212529
   [CYAN 3 image]: https://www.htmlcsscolor.com/preview/32x32/66d9e8.png
   [CYAN 3]: https://www.htmlcsscolor.com/hex/66d9e8
@@ -505,6 +505,61 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 </details>
 <details>
   <summary>BLUE</summary>
+
+  Open color swatches:
+
+  | Color  |              Preview              | Contrast                 | HEX       | RGB                  |
+  | ------ | :-------------------------------: | ------------------------ | --------- | -------------------- |
+  | BLUE 0 | [![BLUE 0][BLUE 0 image]][BLUE 0] | [13.89][BLUE 0 contrast] | `#e7f5ff` | `rgb(231, 245, 255)` |
+  | BLUE 1 | [![BLUE 1][BLUE 1 image]][BLUE 1] | [12.49][BLUE 1 contrast] | `#d0ebff` | `rgb(208, 235, 255)` |
+  | BLUE 2 | [![BLUE 2][BLUE 2 image]][BLUE 2] | [10.19][BLUE 2 contrast] | `#a5d8ff` | `rgb(165, 216, 255)` |
+  | BLUE 3 | [![BLUE 3][BLUE 3 image]][BLUE 3] | [7.85][BLUE 3 contrast]  | `#74c0fc` | `rgb(116, 192, 252)` |
+  | BLUE 4 | [![BLUE 4][BLUE 4 image]][BLUE 4] | [6.23][BLUE 4 contrast]  | `#4dabf7` | `rgb(77, 171, 247)`  |
+  | BLUE 5 | [![BLUE 5][BLUE 5 image]][BLUE 5] | [5.16][BLUE 5 contrast]  | `#339af0` | `rgb(51, 154, 240)`  |
+  | BLUE 6 | [![BLUE 6][BLUE 6 image]][BLUE 6] | [4.34][BLUE 6 contrast]  | `#228be6` | `rgb(34, 139, 230)`  |
+  | BLUE 7 | [![BLUE 7][BLUE 7 image]][BLUE 7] | [3.68][BLUE 7 contrast]  | `#1c7ed6` | `rgb(28, 126, 214)`  |
+  | BLUE 8 | [![BLUE 8][BLUE 8 image]][BLUE 8] | [3.07][BLUE 8 contrast]  | `#1971c2` | `rgb(25, 113, 194)`  |
+  | BLUE 9 | [![BLUE 9][BLUE 9 image]][BLUE 9] | [2.53][BLUE 9 contrast]  | `#1864ab` | `rgb(24, 100, 171)`  |
+
+  Other swatches:
+
+  | Color     |                  Preview                   | Contrast                   | HEX       | RGB                |
+  | --------- | :----------------------------------------: | -------------------------- | --------- | ------------------ |
+  | blue 210° | [![blue 210°][blue 210° image]][blue 210°] | [4.06][blue 210° contrast] | `#0080ff` | `rgb(0, 128, 255)` |
+
+  [BLUE 0 contrast]: https://colourcontrast.cc/e7f5ff/212529
+  [BLUE 0 image]: https://www.htmlcsscolor.com/preview/32x32/e7f5ff.png
+  [BLUE 0]: https://www.htmlcsscolor.com/hex/e7f5ff
+  [BLUE 1 contrast]: https://colourcontrast.cc/d0ebff/212529
+  [BLUE 1 image]: https://www.htmlcsscolor.com/preview/32x32/d0ebff.png
+  [BLUE 1]: https://www.htmlcsscolor.com/hex/d0ebff
+  [BLUE 2 contrast]: https://colourcontrast.cc/a5d8ff/212529
+  [BLUE 2 image]: https://www.htmlcsscolor.com/preview/32x32/a5d8ff.png
+  [BLUE 2]: https://www.htmlcsscolor.com/hex/a5d8ff
+  [BLUE 3 contrast]: https://colourcontrast.cc/74c0fc/212529
+  [BLUE 3 image]: https://www.htmlcsscolor.com/preview/32x32/74c0fc.png
+  [BLUE 3]: https://www.htmlcsscolor.com/hex/74c0fc
+  [BLUE 4 contrast]: https://colourcontrast.cc/4dabf7/212529
+  [BLUE 4 image]: https://www.htmlcsscolor.com/preview/32x32/4dabf7.png
+  [BLUE 4]: https://www.htmlcsscolor.com/hex/4dabf7
+  [BLUE 5 contrast]: https://colourcontrast.cc/339af0/212529
+  [BLUE 5 image]: https://www.htmlcsscolor.com/preview/32x32/339af0.png
+  [BLUE 5]: https://www.htmlcsscolor.com/hex/339af0
+  [BLUE 6 contrast]: https://colourcontrast.cc/228be6/212529
+  [BLUE 6 image]: https://www.htmlcsscolor.com/preview/32x32/228be6.png
+  [BLUE 6]: https://www.htmlcsscolor.com/hex/228be6
+  [BLUE 7 contrast]: https://colourcontrast.cc/1c7ed6/212529
+  [BLUE 7 image]: https://www.htmlcsscolor.com/preview/32x32/1c7ed6.png
+  [BLUE 7]: https://www.htmlcsscolor.com/hex/1c7ed6
+  [BLUE 8 contrast]: https://colourcontrast.cc/1971c2/212529
+  [BLUE 8 image]: https://www.htmlcsscolor.com/preview/32x32/1971c2.png
+  [BLUE 8]: https://www.htmlcsscolor.com/hex/1971c2
+  [BLUE 9 contrast]: https://colourcontrast.cc/1864ab/212529
+  [BLUE 9 image]: https://www.htmlcsscolor.com/preview/32x32/1864ab.png
+  [BLUE 9]: https://www.htmlcsscolor.com/hex/1864ab
+  [blue 210° contrast]: https://colourcontrast.cc/0080ff/212529
+  [blue 210° image]: https://www.htmlcsscolor.com/preview/32x32/0080ff.png
+  [blue 210°]: https://www.htmlcsscolor.com/hex/0080ff
 </details>
 <details>
   <summary>INDIGO</summary>
@@ -577,14 +632,4 @@ indigo
     INDIGO 9    2.28    https://colourcontrast.cc/364fc7/212529
 
 blue
-    #0080ff     4.06    https://colourcontrast.cc/0080ff/212529
-    BLUE 0      13.89   https://colourcontrast.cc/e7f5ff/212529
-    BLUE 1      12.49   https://colourcontrast.cc/d0ebff/212529
-    BLUE 2      10.19   https://colourcontrast.cc/a5d8ff/212529
-    BLUE 3      7.85    https://colourcontrast.cc/74c0fc/212529
-    BLUE 4      6.23    https://colourcontrast.cc/4dabf7/212529
-    BLUE 5      5.16    https://colourcontrast.cc/339af0/212529
-    BLUE 6      4.34    https://colourcontrast.cc/228be6/212529
-    BLUE 7      3.68    https://colourcontrast.cc/1c7ed6/212529
-    BLUE 8      3.07    https://colourcontrast.cc/1971c2/212529
     BLUE 9      2.53    https://colourcontrast.cc/1864ab/212529
