@@ -7,7 +7,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 ## Colors
 
 | ANSI Color     | Color  | Preview                           | HEX       |
-| -------------- | ------ | --------------------------------- | --------- |
+| -------------- | ------ | :-------------------------------: | --------- |
 | black          | GRAY 9 | [![GRAY 9][gray 9 image]][gray 9] | `#212529` |
 | red            |        |                                   |           |
 | green          |        |                                   |           |
@@ -30,7 +30,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   <summary>GRAY</summary>
 
   | Color  | Preview                           | HEX       |
-  | ------ | --------------------------------- | --------- |
+  | ------ | :-------------------------------: | --------- |
   | GRAY 0 | [![GRAY 0][gray 0 image]][gray 0] | `#f8f9fa` |
   | GRAY 1 | [![GRAY 1][gray 1 image]][gray 1] | `#f1f3f5` |
   | GRAY 2 | [![GRAY 2][gray 2 image]][gray 2] | `#e9ecef` |
