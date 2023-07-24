@@ -280,7 +280,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | ------ | :-------------------------------: | ------------------------ | --------- | -------------------- |
   | LIME 0 | [![LIME 0][LIME 0 image]][LIME 0] | [14.60][LIME 0 contrast] | `#f4fce3` | `rgb(244, 252, 227)` |
   | LIME 1 | [![LIME 1][LIME 1 image]][LIME 1] | [13.94][LIME 1 contrast] | `#e9fac8` | `rgb(233, 250, 200)` |
-  | LIME 2 | [![LIME 2][LIME 2 image]][LIME 2] | [13.01][LIME 2 contrast] | `#ffec99` | `rgb(255, 236, 153)` |
+  | LIME 2 | [![LIME 2][LIME 2 image]][LIME 2] | [13.01][LIME 2 contrast] | `#d8f5a2` | `rgb(255, 236, 153)` |
   | LIME 3 | [![LIME 3][LIME 3 image]][LIME 3] | [11.30][LIME 3 contrast] | `#c0eb75` | `rgb(192, 235, 117)` |
   | LIME 4 | [![LIME 4][LIME 4 image]][LIME 4] | [10.12][LIME 4 contrast] | `#a9e34b` | `rgb(169, 227, 75)`  |
   | LIME 5 | [![LIME 5][LIME 5 image]][LIME 5] | [8.90][LIME 5 contrast]  | `#94d82d` | `rgb(148, 216, 45)`  |
@@ -400,7 +400,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | TEAL 3 | [![TEAL 3][TEAL 3 image]][TEAL 3] | [9.99][TEAL 3 contrast]  | `#63e6be` | `rgb(99, 230, 190)`  |
   | TEAL 4 | [![TEAL 4][TEAL 4 image]][TEAL 4] | [8.57][TEAL 4 contrast]  | `#38d9a9` | `rgb(56, 217, 169)`  |
   | TEAL 5 | [![TEAL 5][TEAL 5 image]][TEAL 5] | [7.25][TEAL 5 contrast]  | `#20c997` | `rgb(32, 201, 151)`  |
-  | TEAL 6 | [![TEAL 6][TEAL 6 image]][TEAL 6] | [6.04][TEAL 6 contrast]  | `#12b887` | `rgb(18, 184, 134)`  |
+  | TEAL 6 | [![TEAL 6][TEAL 6 image]][TEAL 6] | [6.05][TEAL 6 contrast]  | `#12b887` | `rgb(18, 184, 134)`  |
   | TEAL 7 | [![TEAL 7][TEAL 7 image]][TEAL 7] | [4.95][TEAL 7 contrast]  | `#0ca678` | `rgb(12, 166, 120)`  |
   | TEAL 8 | [![TEAL 8][TEAL 8 image]][TEAL 8] | [3.91][TEAL 8 contrast]  | `#099268` | `rgb(9, 146, 104)`   |
   | TEAL 9 | [![TEAL 9][TEAL 9 image]][TEAL 9] | [3.08][TEAL 9 contrast]  | `#087f5b` | `rgb(8, 127, 91)`    |
@@ -447,6 +447,61 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 </details>
 <details>
   <summary>CYAN</summary>
+
+  Open color swatches:
+
+  | Color  |              Preview              | Contrast                 | HEX       | RGB                  |
+  | ------ | :-------------------------------: | ------------------------ | --------- | -------------------- |
+  | CYAN 0 | [![CYAN 0][CYAN 0 image]][CYAN 0] | [14.21][CYAN 0 contrast] | `#e3fafc` | `rgb(227, 250, 252)` |
+  | CYAN 1 | [![CYAN 1][CYAN 1 image]][CYAN 1] | [13.18][CYAN 1 contrast] | `#c5f6fa` | `rgb(197, 246, 250)` |
+  | CYAN 2 | [![CYAN 2][CYAN 2 image]][CYAN 2] | [11.23][CYAN 2 contrast] | `#99e9fa` | `rgb(153, 233, 242)` |
+  | CYAN 3 | [![CYAN 3][CYAN 3 image]][CYAN 3] | [9.30][CYAN 3 contrast]  | `#66d9e8` | `rgb(102, 217, 232)` |
+  | CYAN 4 | [![CYAN 4][CYAN 4 image]][CYAN 4] | [7.76][CYAN 4 contrast]  | `#3bc9db` | `rgb(59, 201, 219)`  |
+  | CYAN 5 | [![CYAN 5][CYAN 5 image]][CYAN 5] | [6.48][CYAN 5 contrast]  | `#22b8cf` | `rgb(34, 184, 207)`  |
+  | CYAN 6 | [![CYAN 6][CYAN 6 image]][CYAN 6] | [5.53][CYAN 6 contrast]  | `#15aabf` | `rgb(21, 170, 191)`  |
+  | CYAN 7 | [![CYAN 7][CYAN 7 image]][CYAN 7] | [4.49][CYAN 7 contrast]  | `#1098ad` | `rgb(16, 152, 173)`  |
+  | CYAN 8 | [![CYAN 8][CYAN 8 image]][CYAN 8] | [3.55][CYAN 8 contrast]  | `#0c8599` | `rgb(12, 133, 153)`  |
+  | CYAN 9 | [![CYAN 9][CYAN 9 image]][CYAN 9] | [2.76][CYAN 9 contrast]  | `#0b7285` | `rgb(11, 114, 133)`  |
+
+  Other swatches:
+
+  | Color     |                  Preview                   | Contrast                    | HEX       | RGB                |
+  | --------- | :----------------------------------------: | --------------------------- | --------- | ------------------ |
+  | cyan 180° | [![cyan 180°][cyan 180° image]][cyan 180°] | [12.30][cyan 180° contrast] | `#00ffff` | `rgb(0, 255, 255)` |
+
+  [CYAN 0 contrast]: https://colourcontrast.cc/e3fafc/212529
+  [CYAN 0 image]: https://www.htmlcsscolor.com/preview/32x32/e3fafc.png
+  [CYAN 0]: https://www.htmlcsscolor.com/hex/e3fafc
+  [CYAN 1 contrast]: https://colourcontrast.cc/c5f6fa/212529
+  [CYAN 1 image]: https://www.htmlcsscolor.com/preview/32x32/c5f6fa.png
+  [CYAN 1]: https://www.htmlcsscolor.com/hex/c5f6fa
+  [CYAN 2 contrast]: https://colourcontrast.cc/99e9fa/212529
+  [CYAN 2 image]: https://www.htmlcsscolor.com/preview/32x32/99e9fa.png
+  [CYAN 2]: https://www.htmlcsscolor.com/hex/99e9fa
+  [CYAN 3 contrast]: https://colourcontrast.cc/66d9e8/212529
+  [CYAN 3 image]: https://www.htmlcsscolor.com/preview/32x32/66d9e8.png
+  [CYAN 3]: https://www.htmlcsscolor.com/hex/66d9e8
+  [CYAN 4 contrast]: https://colourcontrast.cc/3bc9db/212529
+  [CYAN 4 image]: https://www.htmlcsscolor.com/preview/32x32/3bc9db.png
+  [CYAN 4]: https://www.htmlcsscolor.com/hex/3bc9db
+  [CYAN 5 contrast]: https://colourcontrast.cc/22b8cf/212529
+  [CYAN 5 image]: https://www.htmlcsscolor.com/preview/32x32/22b8cf.png
+  [CYAN 5]: https://www.htmlcsscolor.com/hex/22b8cf
+  [CYAN 6 contrast]: https://colourcontrast.cc/15aabf/212529
+  [CYAN 6 image]: https://www.htmlcsscolor.com/preview/32x32/15aabf.png
+  [CYAN 6]: https://www.htmlcsscolor.com/hex/15aabf
+  [CYAN 7 contrast]: https://colourcontrast.cc/1098ad/212529
+  [CYAN 7 image]: https://www.htmlcsscolor.com/preview/32x32/1098ad.png
+  [CYAN 7]: https://www.htmlcsscolor.com/hex/1098ad
+  [CYAN 8 contrast]: https://colourcontrast.cc/0c8599/212529
+  [CYAN 8 image]: https://www.htmlcsscolor.com/preview/32x32/0c8599.png
+  [CYAN 8]: https://www.htmlcsscolor.com/hex/0c8599
+  [CYAN 9 contrast]: https://colourcontrast.cc/0b7285/212529
+  [CYAN 9 image]: https://www.htmlcsscolor.com/preview/32x32/0b7285.png
+  [CYAN 9]: https://www.htmlcsscolor.com/hex/0b7285
+  [cyan 180° contrast]: https://colourcontrast.cc/00ffff/212529
+  [cyan 180° image]: https://www.htmlcsscolor.com/preview/32x32/00ffff.png
+  [cyan 180°]: https://www.htmlcsscolor.com/hex/00ffff
 </details>
 <details>
   <summary>BLUE</summary>
@@ -533,16 +588,3 @@ blue
     BLUE 7      3.68    https://colourcontrast.cc/1c7ed6/212529
     BLUE 8      3.07    https://colourcontrast.cc/1971c2/212529
     BLUE 9      2.53    https://colourcontrast.cc/1864ab/212529
-
-cyan
-    #00ffff     12.30   https://colourcontrast.cc/00ffff/212529
-    CYAN 0      14.21   https://colourcontrast.cc/e3fafc/212529
-    CYAN 1      13.18   https://colourcontrast.cc/c5f6fa/212529
-    CYAN 2      11.23   https://colourcontrast.cc/99e9f2/212529
-    CYAN 3      9.30    https://colourcontrast.cc/66d9e8/212529
-    CYAN 4      7.76    https://colourcontrast.cc/3bc9db/212529
-    CYAN 5      6.48    https://colourcontrast.cc/22b8cf/212529
-    CYAN 6      5.53    https://colourcontrast.cc/15aabf/212529
-    CYAN 7      4.49    https://colourcontrast.cc/1098ad/212529
-    CYAN 8      3.55    https://colourcontrast.cc/0c8599/212529
-    CYAN 9      2.76    https://colourcontrast.cc/0b7285/212529
