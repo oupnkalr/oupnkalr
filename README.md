@@ -47,10 +47,10 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   | Color      |                    Preview                    | Contrast                     | HEX       | RGB                  |
   | ---------- | :-------------------------------------------: | ---------------------------- | --------- | -------------------- |
-  | black      | [![black][black image]][black]                | [1.36][black contrast]       | `#000000` | `rgb(0, 0, 0)`       |
-  | gray       | [![gray][gray image]][gray]                   | [3.91][gray contrast]        | `#808080` | `rgb(128, 128, 128)` |
+  | black      |        [![black][black image]][black]         | [1.36][black contrast]       | `#000000` | `rgb(0, 0, 0)`       |
+  | gray       |          [![gray][gray image]][gray]          | [3.91][gray contrast]        | `#808080` | `rgb(128, 128, 128)` |
   | light gray | [![light gray][light gray image]][light gray] | [10.30][light gray contrast] | `#d3d3d3` | `rgb(211, 211, 211)` |
-  | white      | [![white][white image]][white]                | [15.43][white contrast]      | `#ffffff` | `rgb(255, 255, 255)` |
+  | white      |        [![white][white image]][white]         | [15.43][white contrast]      | `#ffffff` | `rgb(255, 255, 255)` |
 
   1.83 GRAY 8
 
@@ -178,7 +178,6 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | Color      |                    Preview                    | Contrast                    | HEX       | RGB                |
   | ---------- | :-------------------------------------------: | --------------------------- | --------- | ------------------ |
   | orange 30° | [![orange 30°][orange 30° image]][orange 30°] | [6.13][orange 30° contrast] | `#ff8000` | `rgb(255, 128, 0)` |
-  | orange     | [![orange][orange image]][orange]             | [7.81][orange contrast]     | `#ff8000` | `rgb(255, 165, 0)` |
 
   [ORANGE 0 contrast]: https://colourcontrast.cc/fff4e6/212529
   [ORANGE 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff4e6.png
@@ -213,9 +212,6 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [orange 30° contrast]: https://colourcontrast.cc/ff8000/212529
   [orange 30° image]: https://www.htmlcsscolor.com/preview/32x32/ff8000.png
   [orange 30°]: https://www.htmlcsscolor.com/hex/ff8000
-  [orange contrast]: https://colourcontrast.cc/ffa500/212529
-  [orange image]: https://www.htmlcsscolor.com/preview/32x32/ffa500.png
-  [orange]: https://www.htmlcsscolor.com/hex/ffa500
 </details>
 <details>
   <summary>YELLOW</summary>
@@ -295,9 +291,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   HTML swatches:
 
-  | Color    |                 Preview                 | Contrast                   | HEX       | RGB              |
-  | -------- | :-------------------------------------: | -------------------------- | --------- | ---------------- |
-  | lime 60° | [![lime 60°][lime 60° image]][lime 60°] | [11.24][lime 60° contrast] | `#00ff00` | `rgb(0, 255, 0)` |
+  | Color    |                 Preview                 | Contrast                   | HEX       | RGB                |
+  | -------- | :-------------------------------------: | -------------------------- | --------- | ------------------ |
+  | lime 90° | [![lime 90°][lime 90° image]][lime 90°] | [11.24][lime 90° contrast] | `#80ff00` | `rgb(128, 255, 0)` |
 
   [LIME 0 contrast]: https://colourcontrast.cc/f4fce3/212529
   [LIME 0 image]: https://www.htmlcsscolor.com/preview/32x32/f4fce3.png
@@ -329,12 +325,70 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [LIME 9 contrast]: https://colourcontrast.cc/5c940d/212529
   [LIME 9 image]: https://www.htmlcsscolor.com/preview/32x32/5c940d.png
   [LIME 9]: https://www.htmlcsscolor.com/hex/5c940d
-  [lime 90° contrast]: https://colourcontrast.cc/00ff00/212529
-  [lime 90° image]: https://www.htmlcsscolor.com/preview/32x32/00ff00.png
-  [lime 90°]: https://www.htmlcsscolor.com/hex/00ff00
+  [lime 90° contrast]: https://colourcontrast.cc/80ff00/212529
+  [lime 90° image]: https://www.htmlcsscolor.com/preview/32x32/80ff00.png
+  [lime 90°]: https://www.htmlcsscolor.com/hex/80ff00
 </details>
 <details>
   <summary>GREEN</summary>
+
+  Open color swatches:
+
+  | Color  |              Preview              | Contrast                 | HEX       | RGB                  |
+  | ------ | :-------------------------------: | ------------------------ | --------- | -------------------- |
+  | GREEN 0 | [![GREEN 0][GREEN 0 image]][GREEN 0] | [14.60][GREEN 0 contrast] | `#f4fce3` | `rgb(244, 252, 227)` |
+  | GREEN 1 | [![GREEN 1][GREEN 1 image]][GREEN 1] | [13.94][GREEN 1 contrast] | `#e9fac8` | `rgb(233, 250, 200)` |
+  | GREEN 2 | [![GREEN 2][GREEN 2 image]][GREEN 2] | [13.01][GREEN 2 contrast] | `#ffec99` | `rgb(255, 236, 153)` |
+  | GREEN 3 | [![GREEN 3][GREEN 3 image]][GREEN 3] | [11.30][GREEN 3 contrast] | `#c0eb75` | `rgb(192, 235, 117)` |
+  | GREEN 4 | [![GREEN 4][GREEN 4 image]][GREEN 4] | [10.12][GREEN 4 contrast] | `#a9e34b` | `rgb(169, 227, 75)`  |
+  | GREEN 5 | [![GREEN 5][GREEN 5 image]][GREEN 5] | [8.90][GREEN 5 contrast]  | `#94d82d` | `rgb(148, 216, 45)`  |
+  | GREEN 6 | [![GREEN 6][GREEN 6 image]][GREEN 6] | [7.58][GREEN 6 contrast]  | `#82c91e` | `rgb(130, 201, 30)`  |
+  | GREEN 7 | [![GREEN 7][GREEN 7 image]][GREEN 7] | [6.33][GREEN 7 contrast]  | `#74b816` | `rgb(116, 184, 22)`  |
+  | GREEN 8 | [![GREEN 8][GREEN 8 image]][GREEN 8] | [5.27][GREEN 8 contrast]  | `#66a80f` | `rgb(102, 168, 15)`  |
+  | GREEN 9 | [![GREEN 9][GREEN 9 image]][GREEN 9] | [4.18][GREEN 9 contrast]  | `#5c940d` | `rgb(92, 148, 13)`   |
+
+  HTML swatches:
+
+  | Color      |                    Preview                    | Contrast                     | HEX       | RGB              |
+  | ---------- | :-------------------------------------------: | ---------------------------- | --------- | ---------------- |
+  | green 120° | [![green 120°][green 120° image]][green 120°] | [11.24][green 120° contrast] | `#00ff00` | `rgb(0, 255, 0)` |
+
+  [GREEN 0 contrast]: https://colourcontrast.cc/f4fce3/212529
+  [GREEN 0 image]: https://www.htmlcsscolor.com/preview/32x32/f4fce3.png
+  [GREEN 0]: https://www.htmlcsscolor.com/hex/f4fce3
+  [GREEN 1 contrast]: https://colourcontrast.cc/e9fac8/212529
+  [GREEN 1 image]: https://www.htmlcsscolor.com/preview/32x32/e9fac8.png
+  [GREEN 1]: https://www.htmlcsscolor.com/hex/e9fac8
+  [GREEN 2 contrast]: https://colourcontrast.cc/d8f5a2/212529
+  [GREEN 2 image]: https://www.htmlcsscolor.com/preview/32x32/d8f5a2.png
+  [GREEN 2]: https://www.htmlcsscolor.com/hex/d8f5a2
+  [GREEN 3 contrast]: https://colourcontrast.cc/c0eb75/212529
+  [GREEN 3 image]: https://www.htmlcsscolor.com/preview/32x32/c0eb75.png
+  [GREEN 3]: https://www.htmlcsscolor.com/hex/c0eb75
+  [GREEN 4 contrast]: https://colourcontrast.cc/a9e34b/212529
+  [GREEN 4 image]: https://www.htmlcsscolor.com/preview/32x32/a9e34b.png
+  [GREEN 4]: https://www.htmlcsscolor.com/hex/a9e34b
+  [GREEN 5 contrast]: https://colourcontrast.cc/94d82d/212529
+  [GREEN 5 image]: https://www.htmlcsscolor.com/preview/32x32/94d82d.png
+  [GREEN 5]: https://www.htmlcsscolor.com/hex/94d82d
+  [GREEN 6 contrast]: https://colourcontrast.cc/82c91e/212529
+  [GREEN 6 image]: https://www.htmlcsscolor.com/preview/32x32/82c91e.png
+  [GREEN 6]: https://www.htmlcsscolor.com/hex/82c91e
+  [GREEN 7 contrast]: https://colourcontrast.cc/74b816/212529
+  [GREEN 7 image]: https://www.htmlcsscolor.com/preview/32x32/74b816.png
+  [GREEN 7]: https://www.htmlcsscolor.com/hex/74b816
+  [GREEN 8 contrast]: https://colourcontrast.cc/66a80f/212529
+  [GREEN 8 image]: https://www.htmlcsscolor.com/preview/32x32/66a80f.png
+  [GREEN 8]: https://www.htmlcsscolor.com/hex/66a80f
+  [GREEN 9 contrast]: https://colourcontrast.cc/5c940d/212529
+  [GREEN 9 image]: https://www.htmlcsscolor.com/preview/32x32/5c940d.png
+  [GREEN 9]: https://www.htmlcsscolor.com/hex/5c940d
+  [green 120° contrast]: https://colourcontrast.cc/00ff00/212529
+  [green 120° image]: https://www.htmlcsscolor.com/preview/32x32/00ff00.png
+  [green 120°]: https://www.htmlcsscolor.com/hex/00ff00
+  [green contrast]: https://colourcontrast.cc/00ff00/212529
+  [green image]: https://www.htmlcsscolor.com/preview/32x32/00ff00.png
+  [green]: https://www.htmlcsscolor.com/hex/00ff00
 </details>
 <details>
   <summary>TEAL</summary>
