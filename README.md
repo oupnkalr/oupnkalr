@@ -245,17 +245,17 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [YELLOW 0 contrast]: https://colourcontrast.cc/fff9db/212529
   [YELLOW 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff9db.png
   [YELLOW 0]: https://www.htmlcsscolor.com/hex/fff9db
-  [YELLOW 1 contrast]: https://colourcontrast.cc/ffe8cc/212529
-  [YELLOW 1 image]: https://www.htmlcsscolor.com/preview/32x32/ffe8cc.png
-  [YELLOW 1]: https://www.htmlcsscolor.com/hex/ffe8cc
-  [YELLOW 2 contrast]: https://colourcontrast.cc/ffd8a8/212529
-  [YELLOW 2 image]: https://www.htmlcsscolor.com/preview/32x32/ffd8a8.png
-  [YELLOW 2]: https://www.htmlcsscolor.com/hex/ffd8a8
+  [YELLOW 1 contrast]: https://colourcontrast.cc/fff3bf/212529
+  [YELLOW 1 image]: https://www.htmlcsscolor.com/preview/32x32/fff3bf.png
+  [YELLOW 1]: https://www.htmlcsscolor.com/hex/fff3bf
+  [YELLOW 2 contrast]: https://colourcontrast.cc/ffec99/212529
+  [YELLOW 2 image]: https://www.htmlcsscolor.com/preview/32x32/ffec99.png
+  [YELLOW 2]: https://www.htmlcsscolor.com/hex/ffec99
   [YELLOW 3 contrast]: https://colourcontrast.cc/ffe066/212529
   [YELLOW 3 image]: https://www.htmlcsscolor.com/preview/32x32/ffe066.png
   [YELLOW 3]: https://www.htmlcsscolor.com/hex/ffe066
   [YELLOW 4 contrast]: https://colourcontrast.cc/ffd43b/212529
-  [YELLOW 4 image]: https://www.htmlcsscolor.com/preview/32x32/ffc078.png
+  [YELLOW 4 image]: https://www.htmlcsscolor.com/preview/32x32/ffd43b.png
   [YELLOW 4]: https://www.htmlcsscolor.com/hex/ffd43b
   [YELLOW 5 contrast]: https://colourcontrast.cc/fcc419/212529
   [YELLOW 5 image]: https://www.htmlcsscolor.com/preview/32x32/fcc419.png
