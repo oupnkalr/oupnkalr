@@ -6,47 +6,93 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
 ## Colors
 
-| ANSI Color     | Color  | Preview                           | HEX       |
-| -------------- | ------ | :-------------------------------: | --------- |
-| black          | GRAY 9 | [![GRAY 9][gray 9 image]][gray 9] | `#212529` |
-| red            |        |                                   |           |
-| green          |        |                                   |           |
-| yellow         |        |                                   |           |
-| blue           |        |                                   |           |
-| magenta        |        |                                   |           |
-| cyan           |        |                                   |           |
-| white          |        |                                   |           |
-| bright gray    |        |                                   |           |
-| bright red     |        |                                   |           |
-| bright green   |        |                                   |           |
-| bright yellow  |        |                                   |           |
-| bright blue    |        |                                   |           |
-| bright magenta |        |                                   |           |
-| bright cyan    |        |                                   |           |
-| bright white   | GRAY 0 | [![GRAY 0][GRAY 0 image]][GRAY 0] |           |
+| ANSI Color     | Color  |              Preview              | HEX       | RGB                  |
+| -------------- | ------ | :-------------------------------: | --------- | -------------------- |
+| black          | GRAY 9 | [![GRAY 9][gray 9 image]][gray 9] | `#212529` | `rgb(33, 37, 41)`    |
+| red            |        |                                   |           |                      |
+| green          |        |                                   |           |                      |
+| yellow         |        |                                   |           |                      |
+| blue           |        |                                   |           |                      |
+| magenta        |        |                                   |           |                      |
+| cyan           |        |                                   |           |                      |
+| white          |        |                                   |           |                      |
+| bright gray    |        |                                   |           |                      |
+| bright red     |        |                                   |           |                      |
+| bright green   |        |                                   |           |                      |
+| bright yellow  |        |                                   |           |                      |
+| bright blue    |        |                                   |           |                      |
+| bright magenta |        |                                   |           |                      |
+| bright cyan    |        |                                   |           |                      |
+| bright white   | GRAY 0 | [![GRAY 0][gray 0 image]][gray 0] | `#f8f9fa` | `rgb(248, 249, 250)` |
 
 
 <details>
   <summary>GRAY</summary>
+  
+  Open color swatches:
 
-  | Color  | Preview                           | HEX       |
-  | ------ | :-------------------------------: | --------- |
-  | GRAY 0 | [![GRAY 0][gray 0 image]][gray 0] | `#f8f9fa` |
-  | GRAY 1 | [![GRAY 1][gray 1 image]][gray 1] | `#f1f3f5` |
-  | GRAY 2 | [![GRAY 2][gray 2 image]][gray 2] | `#e9ecef` |
-  | GRAY 3 | [![GRAY 3][gray 3 image]][gray 3] | `#dee2e6` |
-  | GRAY 4 | [![GRAY 4][gray 4 image]][gray 4] | `#ced4da` |
-  | GRAY 5 | [![GRAY 5][gray 5 image]][gray 5] | `#adb5bd` |
-  | GRAY 6 | [![GRAY 6][gray 6 image]][gray 6] | `#868e96` |
-  | GRAY 7 | [![GRAY 7][gray 7 image]][gray 7] | `#495057` |
-  | GRAY 8 | [![GRAY 8][gray 8 image]][gray 8] | `#343a40` |
-  | GRAY 9 | [![GRAY 9][gray 9 image]][gray 9] | `#212529` |
+  | Color  |              Preview              | HEX       | RGB                  |
+  | ------ | :-------------------------------: | --------- | -------------------- |
+  | GRAY 0 | [![GRAY 0][gray 0 image]][gray 0] | `#f8f9fa` | `rgb(248, 249, 250)` |
+  | GRAY 1 | [![GRAY 1][gray 1 image]][gray 1] | `#f1f3f5` | `rgb(241, 243, 245)` |
+  | GRAY 2 | [![GRAY 2][gray 2 image]][gray 2] | `#e9ecef` | `rgb(233, 236, 239)` |
+  | GRAY 3 | [![GRAY 3][gray 3 image]][gray 3] | `#dee2e6` | `rgb(222, 226, 230)` |
+  | GRAY 4 | [![GRAY 4][gray 4 image]][gray 4] | `#ced4da` | `rgb(206, 212, 218)` |
+  | GRAY 5 | [![GRAY 5][gray 5 image]][gray 5] | `#adb5bd` | `rgb(173, 181, 189)` |
+  | GRAY 6 | [![GRAY 6][gray 6 image]][gray 6] | `#868e96` | `rgb(134, 142, 150)` |
+  | GRAY 7 | [![GRAY 7][gray 7 image]][gray 7] | `#495057` | `rgb(73, 80, 87)`    |
+  | GRAY 8 | [![GRAY 8][gray 8 image]][gray 8] | `#343a40` | `rgb(52, 58, 64)`    |
+  | GRAY 9 | [![GRAY 9][gray 9 image]][gray 9] | `#212529` | `rgb(33, 37, 41)`    |
+
+  HTML swatches:
+
+  | Color | Preview | HEX | RGB |
 
   Black
   Dark gray
   Light gray
   White
 <details>
+<details>
+  <summary></summary>
+</details>
+<details>
+  <summary></summary>
+</details>
+<details>
+  <summary></summary>
+</details>
+<details>
+  <summary></summary>
+</details>
+<details>
+  <summary></summary>
+</details>
+<details>
+  <summary></summary>
+</details>
+<details>
+  <summary></summary>
+</details>
+<details>
+  <summary></summary>
+</details>
+<details>
+  <summary></summary>
+</details>
+<details>
+  <summary></summary>
+</details>
+<details>
+  <summary></summary>
+</details>
+<details>
+  <summary></summary>
+</details>
+<details>
+  <summary></summary>
+</details>
+
 
 [GRAY 0 image]: https://www.htmlcsscolor.com/preview/32x32/f8f9fa.png
 [GRAY 0]: https://www.htmlcsscolor.com/hex/f8f9fa
