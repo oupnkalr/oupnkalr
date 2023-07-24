@@ -25,6 +25,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 | bright cyan    | TEAL 6   |    [![TEAL 6][TEAL 6 image]][TEAL 6]    | [6.05][TEAL 6 contrast]   | `#12b886` | `rgb(18, 184, 134)`  |
 | bright white   | GRAY 3   |    [![GRAY 3][GRAY 3 image]][GRAY 3]    | [11.85][GRAY 3 contrast]  | `#dee2e6` | `rgb(222, 226, 230)` |
 
+
 <details>
   <summary>BLUE</summary>
 
@@ -217,12 +218,34 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | GRAY 8 | [![GRAY 8][GRAY 8 image]][GRAY 8] | [1.34][GRAY 8 contrast]  | `#343a40` | `rgb(52, 58, 64)`    |
   | GRAY 9 | [![GRAY 9][GRAY 9 image]][GRAY 9] | [1.00][GRAY 9 contrast]  | `#212529` | `rgb(33, 37, 41)`    |
 
-  HTML swatches:
+  Other swatches:
 
-  | Color      |                    Preview                    | Contrast                     | HEX       | RGB                  |
-  | ---------- | :-------------------------------------------: | ---------------------------- | --------- | -------------------- |
-  | gray       |          [![gray][gray image]][gray]          | [3.91][gray contrast]        | `#808080` | `rgb(128, 128, 128)` |
-  | light gray | [![light gray][light gray image]][light gray] | [10.30][light gray contrast] | `#d3d3d3` | `rgb(211, 211, 211)` |
+  | Color           |                    Preview                    | Contrast                     | HEX       | RGB                  |
+  | --------------- | :-------------------------------------------: | ---------------------------- | --------- | -------------------- |
+  | HTML dark gray  | [![dark gray][dark gray image]][dark gray]    | [6.56][dark gray contrast]   | `#d3d3d3` | `rgb(211, 211, 211)` |
+  | HTML gray       | [![gray][gray image]][gray]                   | [3.91][gray contrast]        | `#808080` | `rgb(128, 128, 128)` |
+  | HTML light gray | [![light gray][light gray image]][light gray] | [10.30][light gray contrast] | `#d3d3d3` | `rgb(211, 211, 211)` |
+
+  Because there is no color wheel for gray (hues in HSL/HSV color models), then
+  HTML colors are used as reference:
+
+  * GRAY 0 is the lightest tint and therefore is chosen as the foreground color
+    and as the bright white color
+  * GRAY 4 is the nearest tint to HTML light gray and therefore is chosen as the
+    normal white color
+
+    * GRAY 3 is very light tint, rather white than light gray
+    * GRAY 5 is the middle color and near to GRAY 6 (low contrast)
+
+  * GRAY 6 is the nearest tint to HTML gray and therefore is chosen as the
+    bright black color
+
+    * GRAY 5 is the middle color and near to GRAY 4 (low contrast)
+    * GRAY 7 is unreadable
+    * HTML dark gray is surprisingly lighter than HTML gray
+
+  * GRAY 9 is the darkest shade and therefore is chosen as the background color
+    and as the normal black color
 
   [GRAY 0 contrast]: https://colourcontrast.cc/f8f9fa/212529
   [GRAY 0 image]: https://www.htmlcsscolor.com/preview/32x32/f8f9fa.png
@@ -254,6 +277,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [GRAY 9 contrast]: https://colourcontrast.cc/212529/212529
   [GRAY 9 image]: https://www.htmlcsscolor.com/preview/32x32/212529.png
   [GRAY 9]: https://www.htmlcsscolor.com/hex/212529
+  [dark gray contrast]: https://colourcontrast.cc/a9a9a9/212529
+  [dark gray image]: https://www.htmlcsscolor.com/preview/32x32/a9a9a9.png
+  [dark gray]: https://www.htmlcsscolor.com/hex/a9a9a9
   [gray contrast]: https://colourcontrast.cc/808080/212529
   [gray image]: https://www.htmlcsscolor.com/preview/32x32/808080.png
   [gray]: https://www.htmlcsscolor.com/hex/808080
