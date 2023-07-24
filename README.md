@@ -633,7 +633,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | VIOLET 4 | [![VIOLET 4][VIOLET 4 image]][VIOLET 4] | [4.58][VIOLET 4 contrast]  | `#9775fa` | `rgb(151, 117, 250)` |
   | VIOLET 5 | [![VIOLET 5][VIOLET 5 image]][VIOLET 5] | [3.62][VIOLET 5 contrast]  | `#845ef7` | `rgb(132, 94, 247)`  |
   | VIOLET 6 | [![VIOLET 6][VIOLET 6 image]][VIOLET 6] | [3.12][VIOLET 6 contrast]  | `#7950f2` | `rgb(121, 80, 242)`  |
-  | VIOLET 7 | [![VIOLET 7][VIOLET 7 image]][VIOLET 7] | [2.78][VIOLET 7 contrast]  | `#7048e8` | `rgb(112, 72, 233)`  |
+  | VIOLET 7 | [![VIOLET 7][VIOLET 7 image]][VIOLET 7] | [2.78][VIOLET 7 contrast]  | `#7048e8` | `rgb(112, 72, 232)`  |
   | VIOLET 8 | [![VIOLET 8][VIOLET 8 image]][VIOLET 8] | [2.45][VIOLET 8 contrast]  | `#6741d9` | `rgb(103, 65, 217)`  |
   | VIOLET 9 | [![VIOLET 9][VIOLET 9 image]][VIOLET 9] | [2.17][VIOLET 9 contrast]  | `#5f3dc4` | `rgb(95, 61, 196)`   |
 
@@ -641,7 +641,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   | Color       |                     Preview                      | Contrast                     | HEX       | RGB                |
   | ----------- | :----------------------------------------------: | ---------------------------- | --------- | ------------------ |
-  | violet 270° | [![violet 270°][violet 270° image]][violet 270°] | [2.47][violet 270° contrast] | `#8000ff` | `rgb(0, 128, 255)` |
+  | violet 270° | [![violet 270°][violet 270° image]][violet 270°] | [2.47][violet 270° contrast] | `#8000ff` | `rgb(128, 0, 255)` |
 
   [VIOLET 0 contrast]: https://colourcontrast.cc/f3f0ff/212529
   [VIOLET 0 image]: https://www.htmlcsscolor.com/preview/32x32/f3f0ff.png
@@ -679,6 +679,61 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 </details>
 <details>
   <summary>GRAPE</summary>
+
+  Open color swatches:
+
+  | Color   |               Preview                | Contrast                  | HEX       | RGB                  |
+  | ------- | :----------------------------------: | ------------------------- | --------- | -------------------- |
+  | GRAPE 0 | [![GRAPE 0][GRAPE 0 image]][GRAPE 0] | [13.85][GRAPE 0 contrast] | `#f8f0fc` | `rgb(248, 240, 252)` |
+  | GRAPE 1 | [![GRAPE 1][GRAPE 1 image]][GRAPE 1] | [11.84][GRAPE 1 contrast] | `#f3d9fa` | `rgb(243, 217, 250)` |
+  | GRAPE 2 | [![GRAPE 2][GRAPE 2 image]][GRAPE 2] | [9.83][GRAPE 2 contrast]  | `#eebefa` | `rgb(238, 190, 250)` |
+  | GRAPE 3 | [![GRAPE 3][GRAPE 3 image]][GRAPE 3] | [7.52][GRAPE 3 contrast]  | `#e599f7` | `rgb(229, 153, 247)` |
+  | GRAPE 4 | [![GRAPE 4][GRAPE 4 image]][GRAPE 4] | [5.80][GRAPE 4 contrast]  | `#da77f2` | `rgb(218, 119, 242)` |
+  | GRAPE 5 | [![GRAPE 5][GRAPE 5 image]][GRAPE 5] | [4.63][GRAPE 5 contrast]  | `#cc5de8` | `rgb(204, 93, 232)`  |
+  | GRAPE 6 | [![GRAPE 6][GRAPE 6 image]][GRAPE 6] | [3.83][GRAPE 6 contrast]  | `#be4bdb` | `rgb(190, 75, 219)`  |
+  | GRAPE 7 | [![GRAPE 7][GRAPE 7 image]][GRAPE 7] | [3.18][GRAPE 7 contrast]  | `#ae3ec9` | `rgb(174, 62, 201)`  |
+  | GRAPE 8 | [![GRAPE 8][GRAPE 8 image]][GRAPE 8] | [2.65][GRAPE 8 contrast]  | `#9c36b5` | `rgb(156, 54, 181)`  |
+  | GRAPE 9 | [![GRAPE 9][GRAPE 9 image]][GRAPE 9] | [2.12][GRAPE 9 contrast]  | `#862e9c` | `rgb(134, 46, 156)`  |
+
+  Other swatches:
+
+  | Color      |                    Preview                    | Contrast                    | HEX       | RGB                |
+  | ---------- | :-------------------------------------------: | --------------------------- | --------- | ------------------ |
+  | grape 300° | [![grape 300°][grape 300° image]][grape 300°] | [4.92][grape 300° contrast] | `#ff00ff` | `rgb(255, 0, 255)` |
+
+  [GRAPE 0 contrast]: https://colourcontrast.cc/f8f0fc/212529
+  [GRAPE 0 image]: https://www.htmlcsscolor.com/preview/32x32/f8f0fc.png
+  [GRAPE 0]: https://www.htmlcsscolor.com/hex/f8f0fc
+  [GRAPE 1 contrast]: https://colourcontrast.cc/f3d9fa/212529
+  [GRAPE 1 image]: https://www.htmlcsscolor.com/preview/32x32/f3d9fa.png
+  [GRAPE 1]: https://www.htmlcsscolor.com/hex/f3d9fa
+  [GRAPE 2 contrast]: https://colourcontrast.cc/eebefa/212529
+  [GRAPE 2 image]: https://www.htmlcsscolor.com/preview/32x32/eebefa.png
+  [GRAPE 2]: https://www.htmlcsscolor.com/hex/eebefa
+  [GRAPE 3 contrast]: https://colourcontrast.cc/e599f7/212529
+  [GRAPE 3 image]: https://www.htmlcsscolor.com/preview/32x32/e599f7.png
+  [GRAPE 3]: https://www.htmlcsscolor.com/hex/e599f7
+  [GRAPE 4 contrast]: https://colourcontrast.cc/da77f2/212529
+  [GRAPE 4 image]: https://www.htmlcsscolor.com/preview/32x32/da77f2.png
+  [GRAPE 4]: https://www.htmlcsscolor.com/hex/da77f2
+  [GRAPE 5 contrast]: https://colourcontrast.cc/cc5de8/212529
+  [GRAPE 5 image]: https://www.htmlcsscolor.com/preview/32x32/cc5de8.png
+  [GRAPE 5]: https://www.htmlcsscolor.com/hex/cc5de8
+  [GRAPE 6 contrast]: https://colourcontrast.cc/be4bdb/212529
+  [GRAPE 6 image]: https://www.htmlcsscolor.com/preview/32x32/be4bdb.png
+  [GRAPE 6]: https://www.htmlcsscolor.com/hex/be4bdb
+  [GRAPE 7 contrast]: https://colourcontrast.cc/ae3ec9/212529
+  [GRAPE 7 image]: https://www.htmlcsscolor.com/preview/32x32/ae3ec9.png
+  [GRAPE 7]: https://www.htmlcsscolor.com/hex/ae3ec9
+  [GRAPE 8 contrast]: https://colourcontrast.cc/9c36b5/212529
+  [GRAPE 8 image]: https://www.htmlcsscolor.com/preview/32x32/9c36b5.png
+  [GRAPE 8]: https://www.htmlcsscolor.com/hex/9c36b5
+  [GRAPE 9 contrast]: https://colourcontrast.cc/862e9c/212529
+  [GRAPE 9 image]: https://www.htmlcsscolor.com/preview/32x32/862e9c.png
+  [GRAPE 9]: https://www.htmlcsscolor.com/hex/862e9c
+  [grape 300° contrast]: https://colourcontrast.cc/ff00ff/212529
+  [grape 300° image]: https://www.htmlcsscolor.com/preview/32x32/ff00ff.png
+  [grape 300°]: https://www.htmlcsscolor.com/hex/ff00ff
 </details>
 <details>
   <summary>PINK</summary>
@@ -701,16 +756,3 @@ pink
     PINK 7      3.34    https://colourcontrast.cc/d6336c/212529
     PINK 8      2.73    https://colourcontrast.cc/c2255c/212529
     PINK 9      2.14    https://colourcontrast.cc/a61e4d/212529
-
-grape
-    #ff00ff     4.92    https://colourcontrast.cc/ff00ff/212529
-    GRAPE 0     13.85   https://colourcontrast.cc/f8f0fc/212529
-    GRAPE 1     11.84   https://colourcontrast.cc/f3d9fa/212529
-    GRAPE 2     9.83    https://colourcontrast.cc/eebefa/212529
-    GRAPE 3     7.52    https://colourcontrast.cc/e599f7/212529
-    GRAPE 4     5.80    https://colourcontrast.cc/da77f2/212529
-    GRAPE 5     4.63    https://colourcontrast.cc/cc5de8/212529
-    GRAPE 6     3.83    https://colourcontrast.cc/be4bdb/212529
-    GRAPE 7     3.18    https://colourcontrast.cc/ae3ec9/212529
-    GRAPE 8     2.65    https://colourcontrast.cc/9c36b5/212529
-    GRAPE 9     2.12    https://colourcontrast.cc/862e9c/212529
