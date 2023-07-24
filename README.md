@@ -220,6 +220,61 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 </details>
 <details>
   <summary>YELLOW</summary>
+
+  Open color swatches:
+
+  | Color    |                 Preview                 | Contrast                   | HEX       | RGB                  |
+  | -------- | :-------------------------------------: | -------------------------- | --------- | -------------------- |
+  | YELLOW 0 | [![YELLOW 0][YELLOW 0 image]][YELLOW 0] | [14.56][YELLOW 0 contrast] | `#fff9db` | `rgb(255, 249, 219)` |
+  | YELLOW 1 | [![YELLOW 1][YELLOW 1 image]][YELLOW 1] | [13.83][YELLOW 1 contrast] | `#fff3bf` | `rgb(255, 243, 191)` |
+  | YELLOW 2 | [![YELLOW 2][YELLOW 2 image]][YELLOW 2] | [13.01][YELLOW 2 contrast] | `#ffec99` | `rgb(255, 236, 153)` |
+  | YELLOW 3 | [![YELLOW 3][YELLOW 3 image]][YELLOW 3] | [11.83][YELLOW 3 contrast] | `#ffe066` | `rgb(255, 224, 102)` |
+  | YELLOW 4 | [![YELLOW 4][YELLOW 4 image]][YELLOW 4] | [10.82][YELLOW 4 contrast] | `#ffd43b` | `rgb(255, 212, 59)`  |
+  | YELLOW 5 | [![YELLOW 5][YELLOW 5 image]][YELLOW 5] | [9.59][YELLOW 5 contrast]  | `#fcc419` | `rgb(252, 196, 25)`  |
+  | YELLOW 6 | [![YELLOW 6][YELLOW 6 image]][YELLOW 6] | [8.28][YELLOW 6 contrast]  | `#fab005` | `rgb(250, 176, 5)`   |
+  | YELLOW 7 | [![YELLOW 7][YELLOW 7 image]][YELLOW 7] | [7.23][YELLOW 7 contrast]  | `#f59f00` | `rgb(245, 159, 0)`   |
+  | YELLOW 8 | [![YELLOW 8][YELLOW 8 image]][YELLOW 8] | [6.21][YELLOW 8 contrast]  | `#f08c00` | `rgb(240, 140, 0)`   |
+  | YELLOW 9 | [![YELLOW 9][YELLOW 9 image]][YELLOW 9] | [5.14][YELLOW 9 contrast]  | `#e67700` | `rgb(230, 119, 0)`   |
+  
+  HTML swatches:
+  
+  | Color      |                    Preview                    | Contrast                    | HEX       | RGB                |
+  | ---------- | :-------------------------------------------: | --------------------------- | --------- | ------------------ |
+  | yellow 60° | [![yellow 60°][yellow 60° image]][yellow 60°] | [14.37][yellow 60° contrast] | `#ffff00` | `rgb(255, 255, 0)` |
+
+  [YELLOW 0 contrast]: https://colourcontrast.cc/fff4e6/212529
+  [YELLOW 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff4e6.png
+  [YELLOW 0]: https://www.htmlcsscolor.com/hex/fff4e6
+  [YELLOW 1 contrast]: https://colourcontrast.cc/ffe8cc/212529
+  [YELLOW 1 image]: https://www.htmlcsscolor.com/preview/32x32/ffe8cc.png
+  [YELLOW 1]: https://www.htmlcsscolor.com/hex/ffe8cc
+  [YELLOW 2 contrast]: https://colourcontrast.cc/ffd8a8/212529
+  [YELLOW 2 image]: https://www.htmlcsscolor.com/preview/32x32/ffd8a8.png
+  [YELLOW 2]: https://www.htmlcsscolor.com/hex/ffd8a8
+  [YELLOW 3 contrast]: https://colourcontrast.cc/ffc078/212529
+  [YELLOW 3 image]: https://www.htmlcsscolor.com/preview/32x32/ffc078.png
+  [YELLOW 3]: https://www.htmlcsscolor.com/hex/ffc078
+  [YELLOW 4 contrast]: https://colourcontrast.cc/ffa94d/212529
+  [YELLOW 4 image]: https://www.htmlcsscolor.com/preview/32x32/ffc078.png
+  [YELLOW 4]: https://www.htmlcsscolor.com/hex/ffa94d
+  [YELLOW 5 contrast]: https://colourcontrast.cc/ff922b/212529
+  [YELLOW 5 image]: https://www.htmlcsscolor.com/preview/32x32/ff922b.png
+  [YELLOW 5]: https://www.htmlcsscolor.com/hex/ff922b
+  [YELLOW 6 contrast]: https://colourcontrast.cc/fd7e14/212529
+  [YELLOW 6 image]: https://www.htmlcsscolor.com/preview/32x32/fd7e14.png
+  [YELLOW 6]: https://www.htmlcsscolor.com/hex/fd7e14
+  [YELLOW 7 contrast]: https://colourcontrast.cc/f76707/212529
+  [YELLOW 7 image]: https://www.htmlcsscolor.com/preview/32x32/f76707.png
+  [YELLOW 7]: https://www.htmlcsscolor.com/hex/f76707
+  [YELLOW 8 contrast]: https://colourcontrast.cc/e8590c/212529
+  [YELLOW 8 image]: https://www.htmlcsscolor.com/preview/32x32/e8590c.png
+  [YELLOW 8]: https://www.htmlcsscolor.com/hex/e8590c
+  [YELLOW 9 contrast]: https://colourcontrast.cc/d9480f/212529
+  [YELLOW 9 image]: https://www.htmlcsscolor.com/preview/32x32/d9480f.png
+  [YELLOW 9]: https://www.htmlcsscolor.com/hex/d9480f
+  [yellow 60° contrast]: https://colourcontrast.cc/ffff00/212529
+  [yellow 60° image]: https://www.htmlcsscolor.com/preview/32x32/ffff00.png
+  [yellow 60°]: https://www.htmlcsscolor.com/hex/ffff00
 </details>
 <details>
   <summary>LIME</summary>
@@ -372,16 +427,3 @@ lime
     LIME 7      6.33    https://colourcontrast.cc/74b816/212529
     LIME 8      5.27    https://colourcontrast.cc/66a80f/212529
     LIME 9      4.18    https://colourcontrast.cc/5c940d/212529
-
-yellow
-    #ffff00     14.37   https://colourcontrast.cc/ffff00/212529
-    YELLOW 0    14.56   https://colourcontrast.cc/fff9db/212529
-    YELLOW 1    13.83   https://colourcontrast.cc/fff3bf/212529
-    YELLOW 2    13.01   https://colourcontrast.cc/ffec99/212529
-    YELLOW 3    11.83   https://colourcontrast.cc/ffe066/212529
-    YELLOW 4    10.82   https://colourcontrast.cc/ffd43b/212529
-    YELLOW 5    9.59    https://colourcontrast.cc/fcc419/212529
-    YELLOW 6    8.28    https://colourcontrast.cc/fab005/212529
-    YELLOW 7    7.23    https://colourcontrast.cc/f59f00/212529
-    YELLOW 8    6.21    https://colourcontrast.cc/f08c00/212529
-    YELLOW 9    5.14    https://colourcontrast.cc/e67700/212529
