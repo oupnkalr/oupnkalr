@@ -120,7 +120,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   
   | Color  |              Preview              | Contrast             | HEX       | RGB              |
   | ------ | :-------------------------------: | -------------------- | --------- | ---------------- |
-  | red 0° | [![red 0°][red 0° image]][red 0°] | [3.86][red contrast] | `#ff0000` | `rgb(255, 0, 0)` |
+  | red 0° | [![red 0°][red 0° image]][red 0°] | [3.86][red 0° contrast] | `#ff0000` | `rgb(255, 0, 0)` |
 
   [RED 0 contrast]: https://colourcontrast.cc/fff5f5/212529
   [RED 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff5f5.png
@@ -178,8 +178,8 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   
   | Color      |                    Preview                    | Contrast                    | HEX       | RGB                |
   | ---------- | :-------------------------------------------: | --------------------------- | --------- | ------------------ |
-  | orange 30° | [![orange 30°][orange 30° image]][orange 30°] | [3.86][orange 30° contrast] | `#ff8000` | `rgb(255, 128, 0)` |
-  | orange     |       [![orange][orange image]][orange]       | [3.86][orange contrast]     | `#ff8000` | `rgb(255, 128, 0)` |
+  | orange 30° | [![orange 30°][orange 30° image]][orange 30°] | [6.13][orange 30° contrast] | `#ff8000` | `rgb(255, 128, 0)` |
+  | orange     | [![orange][orange image]][orange]             | [7.81][orange contrast]     | `#ff8000` | `rgb(255, 165, 0)` |
 
   [ORANGE 0 contrast]: https://colourcontrast.cc/fff4e6/212529
   [ORANGE 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff4e6.png
