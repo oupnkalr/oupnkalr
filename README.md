@@ -222,34 +222,31 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   <summary>YELLOW</summary>
 </details>
 <details>
-  <summary></summary>
+  <summary>LIME</summary>
 </details>
 <details>
-  <summary></summary>
+  <summary>GREEN</summary>
 </details>
 <details>
-  <summary></summary>
+  <summary>TEAL</summary>
 </details>
 <details>
-  <summary></summary>
+  <summary>CYAN</summary>
 </details>
 <details>
-  <summary></summary>
+  <summary>BLUE</summary>
 </details>
 <details>
-  <summary></summary>
+  <summary>INDIGO</summary>
 </details>
 <details>
-  <summary></summary>
+  <summary>VIOLET</summary>
 </details>
 <details>
-  <summary></summary>
+  <summary>GRAPE</summary>
 </details>
 <details>
-  <summary></summary>
-</details>
-<details>
-  <summary></summary>
+  <summary>PINK</summary>
 </details>
 
 
@@ -388,16 +385,3 @@ yellow
     YELLOW 7    7.23    https://colourcontrast.cc/f59f00/212529
     YELLOW 8    6.21    https://colourcontrast.cc/f08c00/212529
     YELLOW 9    5.14    https://colourcontrast.cc/e67700/212529
-
-orange
-    #ff8000     6.13    https://colourcontrast.cc/ff8000/212529
-    ORANGE 0    14.20   https://colourcontrast.cc/fff4e6/212529
-    ORANGE 1    12.98   https://colourcontrast.cc/ffe8cc/212529
-    ORANGE 2    11.49   https://colourcontrast.cc/ffd8a8/212529
-    ORANGE 3    9.60    https://colourcontrast.cc/ffc078/212529
-    ORANGE 4    8.11    https://colourcontrast.cc/ffa94d/212529
-    ORANGE 5    6.90    https://colourcontrast.cc/ff922b/212529
-    ORANGE 6    6.00    https://colourcontrast.cc/fd7e14/212529
-    ORANGE 7    5.07    https://colourcontrast.cc/f76707/212529
-    ORANGE 8    4.31    https://colourcontrast.cc/e8590c/212529
-    ORANGE 9    3.59    https://colourcontrast.cc/d9480f/212529
