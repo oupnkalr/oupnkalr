@@ -4,11 +4,11 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
 [Open color]: https://github.com/yeun/open-color
 
-## Colors
+## Colors
 
 | ANSI Color     | Color  |              Preview              | HEX       | RGB                  |
 | -------------- | ------ | :-------------------------------: | --------- | -------------------- |
-| black          | GRAY 9 | [![GRAY 9][gray 9 image]][gray 9] | `#212529` | `rgb(33, 37, 41)`    |
+| black          | GRAY 9 | [![GRAY 9][GRAY 9 image]][GRAY 9] | `#212529` | `rgb(33, 37, 41)`    |
 | red            |        |                                   |           |                      |
 | green          |        |                                   |           |                      |
 | yellow         |        |                                   |           |                      |
@@ -23,7 +23,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 | bright blue    |        |                                   |           |                      |
 | bright magenta |        |                                   |           |                      |
 | bright cyan    |        |                                   |           |                      |
-| bright white   | GRAY 0 | [![GRAY 0][gray 0 image]][gray 0] | `#f8f9fa` | `rgb(248, 249, 250)` |
+| bright white   | GRAY 0 | [![GRAY 0][GRAY 0 image]][GRAY 0] | `#f8f9fa` | `rgb(248, 249, 250)` |
 
 
 <details>
@@ -33,25 +33,25 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   | Color  |              Preview              | HEX       | RGB                  |
   | ------ | :-------------------------------: | --------- | -------------------- |
-  | GRAY 0 | [![GRAY 0][gray 0 image]][gray 0] | `#f8f9fa` | `rgb(248, 249, 250)` |
-  | GRAY 1 | [![GRAY 1][gray 1 image]][gray 1] | `#f1f3f5` | `rgb(241, 243, 245)` |
-  | GRAY 2 | [![GRAY 2][gray 2 image]][gray 2] | `#e9ecef` | `rgb(233, 236, 239)` |
-  | GRAY 3 | [![GRAY 3][gray 3 image]][gray 3] | `#dee2e6` | `rgb(222, 226, 230)` |
-  | GRAY 4 | [![GRAY 4][gray 4 image]][gray 4] | `#ced4da` | `rgb(206, 212, 218)` |
-  | GRAY 5 | [![GRAY 5][gray 5 image]][gray 5] | `#adb5bd` | `rgb(173, 181, 189)` |
-  | GRAY 6 | [![GRAY 6][gray 6 image]][gray 6] | `#868e96` | `rgb(134, 142, 150)` |
-  | GRAY 7 | [![GRAY 7][gray 7 image]][gray 7] | `#495057` | `rgb(73, 80, 87)`    |
-  | GRAY 8 | [![GRAY 8][gray 8 image]][gray 8] | `#343a40` | `rgb(52, 58, 64)`    |
-  | GRAY 9 | [![GRAY 9][gray 9 image]][gray 9] | `#212529` | `rgb(33, 37, 41)`    |
+  | GRAY 0 | [![GRAY 0][GRAY 0 image]][GRAY 0] | `#f8f9fa` | `rgb(248, 249, 250)` |
+  | GRAY 1 | [![GRAY 1][GRAY 1 image]][GRAY 1] | `#f1f3f5` | `rgb(241, 243, 245)` |
+  | GRAY 2 | [![GRAY 2][GRAY 2 image]][GRAY 2] | `#e9ecef` | `rgb(233, 236, 239)` |
+  | GRAY 3 | [![GRAY 3][GRAY 3 image]][GRAY 3] | `#dee2e6` | `rgb(222, 226, 230)` |
+  | GRAY 4 | [![GRAY 4][GRAY 4 image]][GRAY 4] | `#ced4da` | `rgb(206, 212, 218)` |
+  | GRAY 5 | [![GRAY 5][GRAY 5 image]][GRAY 5] | `#adb5bd` | `rgb(173, 181, 189)` |
+  | GRAY 6 | [![GRAY 6][GRAY 6 image]][GRAY 6] | `#868e96` | `rgb(134, 142, 150)` |
+  | GRAY 7 | [![GRAY 7][GRAY 7 image]][GRAY 7] | `#495057` | `rgb(73, 80, 87)`    |
+  | GRAY 8 | [![GRAY 8][GRAY 8 image]][GRAY 8] | `#343a40` | `rgb(52, 58, 64)`    |
+  | GRAY 9 | [![GRAY 9][GRAY 9 image]][GRAY 9] | `#212529` | `rgb(33, 37, 41)`    |
 
   HTML swatches:
 
-  | Color | Preview | HEX | RGB |
-
-  Black
-  Dark gray
-  Light gray
-  White
+  | Color      | Preview                                       | HEX       | RGB                  |
+  | ---------- | --------------------------------------------- | --------- | -------------------- |
+  | black      | [![BLACK][black image]][black]                | `#000000` | `rgb(0, 0, 0)`       |
+  | gray       | [![GRAY][gray image]][gray]                   | `#808080` | `rgb(128, 128, 128)` |
+  | light gray | [![LIGHT GRAY][light gray image]][light gray] | `#d3d3d3` | `rgb(211, 211, 211)` |
+  | white      | [![WHITE][]][white]                           | `#ffffff` | `rgb(255, 255, 255)` |
 <details>
 <details>
   <summary></summary>
@@ -93,7 +93,8 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   <summary></summary>
 </details>
 
-
+[BLACK image]: https://www.htmlcsscolor.com/preview/32x32/000000.png
+[BLACK]: https://www.htmlcsscolor.com/hex/000000
 [GRAY 0 image]: https://www.htmlcsscolor.com/preview/32x32/f8f9fa.png
 [GRAY 0]: https://www.htmlcsscolor.com/hex/f8f9fa
 [GRAY 1 image]: https://www.htmlcsscolor.com/preview/32x32/f1f3f5.png
@@ -114,6 +115,12 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 [GRAY 8]: https://www.htmlcsscolor.com/hex/343a40
 [GRAY 9 image]: https://www.htmlcsscolor.com/preview/32x32/212529.png
 [GRAY 9]: https://www.htmlcsscolor.com/hex/212529
+[GRAY image]: https://www.htmlcsscolor.com/preview/32x32/808080.png
+[GRAY]: https://www.htmlcsscolor.com/hex/808080
+[LIGHT GRAY image]: https://www.htmlcsscolor.com/preview/32x32/d3d3d3.png
+[LIGHT GRAY]: https://www.htmlcsscolor.com/hex/d3d3d3
+[WHITE image]: https://www.htmlcsscolor.com/preview/32x32/ffffff.png
+[WHITE]: https://www.htmlcsscolor.com/hex/ffffff
 
 
 AA large - 3
