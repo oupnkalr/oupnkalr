@@ -25,33 +25,32 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 | bright cyan    |        |                                   |           |                      |
 | bright white   | GRAY 0 | [![GRAY 0][GRAY 0 image]][GRAY 0] | `#f8f9fa` | `rgb(248, 249, 250)` |
 
-
 <details>
   <summary>GRAY</summary>
-  
+
   Open color swatches:
 
-  | Color  |              Preview              | Contrast                 | HEX       | RGB                  |
-  | ------ | :-------------------------------: | ------------------------ | --------- | -------------------- |
-  | GRAY 0 | [![GRAY 0][GRAY 0 image]][GRAY 0] | [14.63][GRAY 0 contrast] | `#f8f9fa` | `rgb(248, 249, 250)` |
-  | GRAY 1 | [![GRAY 1][GRAY 1 image]][GRAY 1] | [13.87][GRAY 1 contrast] | `#f1f3f5` | `rgb(241, 243, 245)` |
-  | GRAY 2 | [![GRAY 2][GRAY 2 image]][GRAY 2] | [13.01][GRAY 2 contrast] | `#e9ecef` | `rgb(233, 236, 239)` |
-  | GRAY 3 | [![GRAY 3][GRAY 3 image]][GRAY 3] | [11.85][GRAY 3 contrast] | `#dee2e6` | `rgb(222, 226, 230)` |
-  | GRAY 4 | [![GRAY 4][GRAY 4 image]][GRAY 4] | [10.32][GRAY 4 contrast] | `#ced4da` | `rgb(206, 212, 218)` |
-  | GRAY 5 | [![GRAY 5][GRAY 5 image]][GRAY 5] | [7.43][GRAY 5 contrast]  | `#adb5bd` | `rgb(173, 181, 189)` |
-  | GRAY 6 | [![GRAY 6][GRAY 6 image]][GRAY 6] | [4.64][GRAY 6 contrast]  | `#868e96` | `rgb(134, 142, 150)` |
-  | GRAY 7 | [![GRAY 7][GRAY 7 image]][GRAY 7] | [1.89][GRAY 7 contrast]  | `#495057` | `rgb(73, 80, 87)`    |
-  | GRAY 8 | [![GRAY 8][GRAY 8 image]][GRAY 8] | [1.34][GRAY 8 contrast]  | `#343a40` | `rgb(52, 58, 64)`    |
+  | Color        |              Preview              | Contrast                 | HEX       | RGB                  |
+  | ------------ | :-------------------------------: | ------------------------ | --------- | -------------------- |
+  | GRAY 0       | [![GRAY 0][GRAY 0 image]][GRAY 0] | [14.63][GRAY 0 contrast] | `#f8f9fa` | `rgb(248, 249, 250)` |
+  | GRAY 1       | [![GRAY 1][GRAY 1 image]][GRAY 1] | [13.87][GRAY 1 contrast] | `#f1f3f5` | `rgb(241, 243, 245)` |
+  | GRAY 2       | [![GRAY 2][GRAY 2 image]][GRAY 2] | [13.01][GRAY 2 contrast] | `#e9ecef` | `rgb(233, 236, 239)` |
+  | GRAY 3       | [![GRAY 3][GRAY 3 image]][GRAY 3] | [11.85][GRAY 3 contrast] | `#dee2e6` | `rgb(222, 226, 230)` |
+  | GRAY 4       | [![GRAY 4][GRAY 4 image]][GRAY 4] | [10.32][GRAY 4 contrast] | `#ced4da` | `rgb(206, 212, 218)` |
+  | GRAY 5       | [![GRAY 5][GRAY 5 image]][GRAY 5] | [7.43][GRAY 5 contrast]  | `#adb5bd` | `rgb(173, 181, 189)` |
+  | GRAY 6       | [![GRAY 6][GRAY 6 image]][GRAY 6] | [4.64][GRAY 6 contrast]  | `#868e96` | `rgb(134, 142, 150)` |
+  | GRAY 7       | [![GRAY 7][GRAY 7 image]][GRAY 7] | [1.89][GRAY 7 contrast]  | `#495057` | `rgb(73, 80, 87)`    |
+  | GRAY 8       | [![GRAY 8][GRAY 8 image]][GRAY 8] | [1.34][GRAY 8 contrast]  | `#343a40` | `rgb(52, 58, 64)`    |
   | GRAY 9 (blue | [![GRAY 9][GRAY 9 image]][GRAY 9] | [1][GRAY 9 contrast]     | `#212529` | `rgb(33, 37, 41)`    |
 
   HTML swatches:
 
-  | Color      | Preview                                       | Contrast                     | HEX       | RGB                  |
+  | Color      |                    Preview                    | Contrast                     | HEX       | RGB                  |
   | ---------- | :-------------------------------------------: | ---------------------------- | --------- | -------------------- |
-  | black      | [![black][black image]][black]                | [1.36][black contrast]       | `#000000` | `rgb(0, 0, 0)`       |
-  | gray       | [![gray][gray image]][gray]                   | [3.91][gray contrast]        | `#808080` | `rgb(128, 128, 128)` |
+  | black      |        [![black][black image]][black]         | [1.36][black contrast]       | `#000000` | `rgb(0, 0, 0)`       |
+  | gray       |          [![gray][gray image]][gray]          | [3.91][gray contrast]        | `#808080` | `rgb(128, 128, 128)` |
   | light gray | [![light gray][light gray image]][light gray] | [10.30][light gray contrast] | `#d3d3d3` | `rgb(211, 211, 211)` |
-  | white      | [![white][white image]][white]                | [15.43][white contrast]      | `#ffffff` | `rgb(255, 255, 255)` |
+  | white      |        [![white][white image]][white]         | [15.43][white contrast]      | `#ffffff` | `rgb(255, 255, 255)` |
 
   1.83 GRAY 8
 
@@ -115,11 +114,11 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | RED 7 | [![RED 7][RED 7 image]][RED 7] | [4.01][RED 7 contrast]  | `#f03e3e` | `rgb(240, 62, 62)`   |
   | RED 8 | [![RED 8][RED 8 image]][RED 8] | [3.42][RED 8 contrast]  | `#e03131` | `rgb(224, 49, 49)`   |
   | RED 9 | [![RED 9][RED 9 image]][RED 9] | [2.83][RED 9 contrast]  | `#212529` | `rgb(201, 42, 42)`   |
-  
+ 
   HTML swatches:
-  
-  | Color  |              Preview              | Contrast             | HEX       | RGB              |
-  | ------ | :-------------------------------: | -------------------- | --------- | ---------------- |
+ 
+  | Color  |              Preview              | Contrast                | HEX       | RGB              |
+  | ------ | :-------------------------------: | ----------------------- | --------- | ---------------- |
   | red 0° | [![red 0°][red 0° image]][red 0°] | [3.86][red 0° contrast] | `#ff0000` | `rgb(255, 0, 0)` |
 
   [RED 0 contrast]: https://colourcontrast.cc/fff5f5/212529
@@ -173,13 +172,13 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | ORANGE 7 | [![ORANGE 7][ORANGE 7 image]][ORANGE 7] | [5.07][ORANGE 7 contrast]  | `#f76707` | `rgb(247, 103, 7)`   |
   | ORANGE 8 | [![ORANGE 8][ORANGE 8 image]][ORANGE 8] | [4.31][ORANGE 8 contrast]  | `#e8590c` | `rgb(232, 89, 12)`   |
   | ORANGE 9 | [![ORANGE 9][ORANGE 9 image]][ORANGE 9] | [3.59][ORANGE 9 contrast]  | `#d9480f` | `rgb(217, 72, 15)`   |
-  
+
   HTML swatches:
-  
+
   | Color      |                    Preview                    | Contrast                    | HEX       | RGB                |
   | ---------- | :-------------------------------------------: | --------------------------- | --------- | ------------------ |
   | orange 30° | [![orange 30°][orange 30° image]][orange 30°] | [6.13][orange 30° contrast] | `#ff8000` | `rgb(255, 128, 0)` |
-  | orange     | [![orange][orange image]][orange]             | [7.81][orange contrast]     | `#ff8000` | `rgb(255, 165, 0)` |
+  | orange     |       [![orange][orange image]][orange]       | [7.81][orange contrast]     | `#ff8000` | `rgb(255, 165, 0)` |
 
   [ORANGE 0 contrast]: https://colourcontrast.cc/fff4e6/212529
   [ORANGE 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff4e6.png
@@ -235,11 +234,11 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | YELLOW 7 | [![YELLOW 7][YELLOW 7 image]][YELLOW 7] | [7.23][YELLOW 7 contrast]  | `#f59f00` | `rgb(245, 159, 0)`   |
   | YELLOW 8 | [![YELLOW 8][YELLOW 8 image]][YELLOW 8] | [6.21][YELLOW 8 contrast]  | `#f08c00` | `rgb(240, 140, 0)`   |
   | YELLOW 9 | [![YELLOW 9][YELLOW 9 image]][YELLOW 9] | [5.14][YELLOW 9 contrast]  | `#e67700` | `rgb(230, 119, 0)`   |
-  
+
   HTML swatches:
-  
-  | Color      |                    Preview                    | Contrast                    | HEX       | RGB                |
-  | ---------- | :-------------------------------------------: | --------------------------- | --------- | ------------------ |
+
+  | Color      |                    Preview                    | Contrast                     | HEX       | RGB                |
+  | ---------- | :-------------------------------------------: | ---------------------------- | --------- | ------------------ |
   | yellow 60° | [![yellow 60°][yellow 60° image]][yellow 60°] | [14.37][yellow 60° contrast] | `#ffff00` | `rgb(255, 255, 0)` |
 
   [YELLOW 0 contrast]: https://colourcontrast.cc/fff9db/212529
@@ -304,15 +303,13 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   <summary>PINK</summary>
 </details>
 
-
 AA large - 3
 AA normal - 4.5
 AAA large - 4.5
 AAA normal - 7
 
-
 pink
-    #ff0080     4.09    https://colourcontrast.cc/ff0080/212529    
+    #ff0080     4.09    https://colourcontrast.cc/ff0080/212529
     PINK 0      13.99   https://colourcontrast.cc/fff0f6/212529
     PINK 1      12.41   https://colourcontrast.cc/ffdeeb/212529
     PINK 2      10.16   https://colourcontrast.cc/fcc2d7/212529
