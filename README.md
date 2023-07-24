@@ -30,18 +30,18 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Open color swatches:
 
-  | Color        |              Preview              | Contrast                 | HEX       | RGB                  |
-  | ------------ | :-------------------------------: | ------------------------ | --------- | -------------------- |
-  | GRAY 0       | [![GRAY 0][GRAY 0 image]][GRAY 0] | [14.63][GRAY 0 contrast] | `#f8f9fa` | `rgb(248, 249, 250)` |
-  | GRAY 1       | [![GRAY 1][GRAY 1 image]][GRAY 1] | [13.87][GRAY 1 contrast] | `#f1f3f5` | `rgb(241, 243, 245)` |
-  | GRAY 2       | [![GRAY 2][GRAY 2 image]][GRAY 2] | [13.01][GRAY 2 contrast] | `#e9ecef` | `rgb(233, 236, 239)` |
-  | GRAY 3       | [![GRAY 3][GRAY 3 image]][GRAY 3] | [11.85][GRAY 3 contrast] | `#dee2e6` | `rgb(222, 226, 230)` |
-  | GRAY 4       | [![GRAY 4][GRAY 4 image]][GRAY 4] | [10.32][GRAY 4 contrast] | `#ced4da` | `rgb(206, 212, 218)` |
-  | GRAY 5       | [![GRAY 5][GRAY 5 image]][GRAY 5] | [7.43][GRAY 5 contrast]  | `#adb5bd` | `rgb(173, 181, 189)` |
-  | GRAY 6       | [![GRAY 6][GRAY 6 image]][GRAY 6] | [4.64][GRAY 6 contrast]  | `#868e96` | `rgb(134, 142, 150)` |
-  | GRAY 7       | [![GRAY 7][GRAY 7 image]][GRAY 7] | [1.89][GRAY 7 contrast]  | `#495057` | `rgb(73, 80, 87)`    |
-  | GRAY 8       | [![GRAY 8][GRAY 8 image]][GRAY 8] | [1.34][GRAY 8 contrast]  | `#343a40` | `rgb(52, 58, 64)`    |
-  | GRAY 9 (blue | [![GRAY 9][GRAY 9 image]][GRAY 9] | [1][GRAY 9 contrast]     | `#212529` | `rgb(33, 37, 41)`    |
+  | Color  |              Preview              | Contrast                 | HEX       | RGB                  |
+  | -------| :-------------------------------: | ------------------------ | --------- | -------------------- |
+  | GRAY 0 | [![GRAY 0][GRAY 0 image]][GRAY 0] | [14.63][GRAY 0 contrast] | `#f8f9fa` | `rgb(248, 249, 250)` |
+  | GRAY 1 | [![GRAY 1][GRAY 1 image]][GRAY 1] | [13.87][GRAY 1 contrast] | `#f1f3f5` | `rgb(241, 243, 245)` |
+  | GRAY 2 | [![GRAY 2][GRAY 2 image]][GRAY 2] | [13.01][GRAY 2 contrast] | `#e9ecef` | `rgb(233, 236, 239)` |
+  | GRAY 3 | [![GRAY 3][GRAY 3 image]][GRAY 3] | [11.85][GRAY 3 contrast] | `#dee2e6` | `rgb(222, 226, 230)` |
+  | GRAY 4 | [![GRAY 4][GRAY 4 image]][GRAY 4] | [10.32][GRAY 4 contrast] | `#ced4da` | `rgb(206, 212, 218)` |
+  | GRAY 5 | [![GRAY 5][GRAY 5 image]][GRAY 5] | [7.43][GRAY 5 contrast]  | `#adb5bd` | `rgb(173, 181, 189)` |
+  | GRAY 6 | [![GRAY 6][GRAY 6 image]][GRAY 6] | [4.64][GRAY 6 contrast]  | `#868e96` | `rgb(134, 142, 150)` |
+  | GRAY 7 | [![GRAY 7][GRAY 7 image]][GRAY 7] | [1.89][GRAY 7 contrast]  | `#495057` | `rgb(73, 80, 87)`    |
+  | GRAY 8 | [![GRAY 8][GRAY 8 image]][GRAY 8] | [1.34][GRAY 8 contrast]  | `#343a40` | `rgb(52, 58, 64)`    |
+  | GRAY 9 | [![GRAY 9][GRAY 9 image]][GRAY 9] | [1.00][GRAY 9 contrast]  | `#212529` | `rgb(33, 37, 41)`    |
 
   HTML swatches:
 
@@ -563,6 +563,61 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 </details>
 <details>
   <summary>INDIGO</summary>
+
+  Open color swatches:
+
+  | Color    |                 Preview                 | Contrast                   | HEX       | RGB                  |
+  | -------- | :-------------------------------------: | -------------------------- | --------- | -------------------- |
+  | INDIGO 0 | [![INDIGO 0][INDIGO 0 image]][INDIGO 0] | [13.77][INDIGO 0 contrast] | `#edf2ff` | `rgb(237, 242, 255)` |
+  | INDIGO 1 | [![INDIGO 1][INDIGO 1 image]][INDIGO 1] | [12.16][INDIGO 1 contrast] | `#dbe4ff` | `rgb(219, 228, 255)` |
+  | INDIGO 2 | [![INDIGO 2][INDIGO 2 image]][INDIGO 2] | [9.40][INDIGO 2 contrast]  | `#bac8ff` | `rgb(186, 200, 255)` |
+  | INDIGO 3 | [![INDIGO 3][INDIGO 3 image]][INDIGO 3] | [6.74][INDIGO 3 contrast]  | `#91a7ff` | `rgb(145, 167, 255)` |
+  | INDIGO 4 | [![INDIGO 4][INDIGO 4 image]][INDIGO 4] | [5.20][INDIGO 4 contrast]  | `#748ffc` | `rgb(116, 143, 252)` |
+  | INDIGO 5 | [![INDIGO 5][INDIGO 5 image]][INDIGO 5] | [4.20][INDIGO 5 contrast]  | `#5c7cfa` | `rgb(92, 124, 250)`  |
+  | INDIGO 6 | [![INDIGO 6][INDIGO 6 image]][INDIGO 6] | [3.57][INDIGO 6 contrast]  | `#4c6ef5` | `rgb(76, 110, 245)`  |
+  | INDIGO 7 | [![INDIGO 7][INDIGO 7 image]][INDIGO 7] | [3.10][INDIGO 7 contrast]  | `#4263eb` | `rgb(66, 99, 235)`   |
+  | INDIGO 8 | [![INDIGO 8][INDIGO 8 image]][INDIGO 8] | [2.72][INDIGO 8 contrast]  | `#3b5bdb` | `rgb(59, 91, 219)`   |
+  | INDIGO 9 | [![INDIGO 9][INDIGO 9 image]][INDIGO 9] | [2.28][INDIGO 9 contrast]  | `#364fc7` | `rgb(54, 79, 199)`   |
+
+  Other swatches:
+
+  | Color       |                     Preview                      | Contrast                     | HEX       | RGB                |
+  | ----------- | :----------------------------------------------: | ---------------------------- | --------- | ------------------ |
+  | indigo 240° | [![indigo 240°][indigo 240° image]][indigo 240°] | [1.80][indigo 240° contrast] | `#0000ff` | `rgb(0, 128, 255)` |
+
+  [INDIGO 0 contrast]: https://colourcontrast.cc/edf2ff/212529
+  [INDIGO 0 image]: https://www.htmlcsscolor.com/preview/32x32/edf2ff.png
+  [INDIGO 0]: https://www.htmlcsscolor.com/hex/edf2ff
+  [INDIGO 1 contrast]: https://colourcontrast.cc/dbe4ff/212529
+  [INDIGO 1 image]: https://www.htmlcsscolor.com/preview/32x32/dbe4ff.png
+  [INDIGO 1]: https://www.htmlcsscolor.com/hex/dbe4ff
+  [INDIGO 2 contrast]: https://colourcontrast.cc/bac8ff/212529
+  [INDIGO 2 image]: https://www.htmlcsscolor.com/preview/32x32/bac8ff.png
+  [INDIGO 2]: https://www.htmlcsscolor.com/hex/bac8ff
+  [INDIGO 3 contrast]: https://colourcontrast.cc/91a7ff/212529
+  [INDIGO 3 image]: https://www.htmlcsscolor.com/preview/32x32/91a7ff.png
+  [INDIGO 3]: https://www.htmlcsscolor.com/hex/91a7ff
+  [INDIGO 4 contrast]: https://colourcontrast.cc/748ffc/212529
+  [INDIGO 4 image]: https://www.htmlcsscolor.com/preview/32x32/748ffc.png
+  [INDIGO 4]: https://www.htmlcsscolor.com/hex/748ffc
+  [INDIGO 5 contrast]: https://colourcontrast.cc/5c7cfa/212529
+  [INDIGO 5 image]: https://www.htmlcsscolor.com/preview/32x32/5c7cfa.png
+  [INDIGO 5]: https://www.htmlcsscolor.com/hex/5c7cfa
+  [INDIGO 6 contrast]: https://colourcontrast.cc/4c6ef5/212529
+  [INDIGO 6 image]: https://www.htmlcsscolor.com/preview/32x32/4c6ef5.png
+  [INDIGO 6]: https://www.htmlcsscolor.com/hex/4c6ef5
+  [INDIGO 7 contrast]: https://colourcontrast.cc/4263eb/212529
+  [INDIGO 7 image]: https://www.htmlcsscolor.com/preview/32x32/4263eb.png
+  [INDIGO 7]: https://www.htmlcsscolor.com/hex/4263eb
+  [INDIGO 8 contrast]: https://colourcontrast.cc/3b5bdb/212529
+  [INDIGO 8 image]: https://www.htmlcsscolor.com/preview/32x32/3b5bdb.png
+  [INDIGO 8]: https://www.htmlcsscolor.com/hex/3b5bdb
+  [INDIGO 9 contrast]: https://colourcontrast.cc/364fc7/212529
+  [INDIGO 9 image]: https://www.htmlcsscolor.com/preview/32x32/364fc7.png
+  [INDIGO 9]: https://www.htmlcsscolor.com/hex/364fc7
+  [indigo 240° contrast]: https://colourcontrast.cc/0000ff/212529
+  [indigo 240° image]: https://www.htmlcsscolor.com/preview/32x32/0000ff.png
+  [indigo 240°]: https://www.htmlcsscolor.com/hex/0000ff
 </details>
 <details>
   <summary>VIOLET</summary>
@@ -617,19 +672,3 @@ violet
     VIOLET 7    2.78    https://colourcontrast.cc/7048e8/212529
     VIOLET 8    2.45    https://colourcontrast.cc/6741d9/212529
     VIOLET 9    1.13    https://colourcontrast.cc/5f3dc4/6741d9
-
-indigo
-    #0000ff     1.8     https://colourcontrast.cc/0000ff/212529
-    INDIGO 0    13.77   https://colourcontrast.cc/edf2ff/212529
-    INDIGO 1    12.16   https://colourcontrast.cc/dbe4ff/212529
-    INDIGO 2    9.40    https://colourcontrast.cc/bac8ff/212529
-    INDIGO 3    6.74    https://colourcontrast.cc/91a7ff/212529
-    INDIGO 4    5.20    https://colourcontrast.cc/748ffc/212529
-    INDIGO 5    4.20    https://colourcontrast.cc/5c7cfa/212529
-    INDIGO 6    3.57    https://colourcontrast.cc/4c6ef5/212529
-    INDIGO 7    3.10    https://colourcontrast.cc/4263eb/212529
-    INDIGO 8    2.72    https://colourcontrast.cc/3b5bdb/212529
-    INDIGO 9    2.28    https://colourcontrast.cc/364fc7/212529
-
-blue
-    BLUE 9      2.53    https://colourcontrast.cc/1864ab/212529
