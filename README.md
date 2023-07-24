@@ -6,24 +6,24 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
 ## Colors
 
-| ANSI Color     | Color    |                 Preview                 | HEX       | RGB                  |
-| -------------- | -------- | :-------------------------------------: | --------- | -------------------- |
-| black          | GRAY 9   |    [![GRAY 9][GRAY 9 image]][GRAY 9]    | `#212529` | `rgb(33, 37, 41)`    |
-| red            | RED 6    |     [![RED 6][RED 6 image]][RED 6]      | `#fa5252` | `rgb(250, 82, 82)`   |
-| green          | GREEN 6  |  [![GREEN 6][GREEN 6 image]][GREEN 6]   | `#40c057` | `rgb(64, 192, 87)`   |
-| yellow         | YELLOW 6 | [![YELLOW 6][YELLOW 6 image]][YELLOW 6] | `#fab005` | `rgb(250, 176, 5)`   |
-| blue           | INDIGO 6 | [![INDIGO 6][INDIGO 6 image]][INDIGO 6] | `#4c6ef5` | `rgb(76, 110, 245)`  |
-| magenta        | GRAPE 6  |  [![GRAPE 6][GRAPE 6 image]][GRAPE 6]   | `#be4bdb` | `rgb(190, 75, 219)`  |
-| cyan           | CYAN 6   |    [![CYAN 6][CYAN 6 image]][CYAN 6]    | `#15aabf` | `rgb(21, 170, 191)`  |
-| white          | GRAY 0   |    [![GRAY 0][GRAY 0 image]][GRAY 0]    | `#f8f9fa` | `rgb(248, 249, 250)` |
-| bright black   | GRAY 6   |    [![GRAY 6][GRAY 6 image]][GRAY 6]    | `#868e96` | `rgb(134, 142, 150)` |
-| bright red     | PINK 6   |    [![PINK 6][PINK 6 image]][PINK 6]    | `#e64980` | `rgb(230, 73, 128)`  |
-| bright green   | LIME 6   |    [![LIME 6][LIME 6 image]][LIME 6]    | `#82c91e` | `rgb(130, 201, 30)`  |
-| bright yellow  | ORANGE 6 | [![ORANGE 6][ORANGE 6 image]][ORANGE 6] | `#fd7e14` | `rgb(253, 126, 20)`  |
-| bright blue    | BLUE 6   |    [![BLUE 6][BLUE 6 image]][BLUE 6]    | `#228be6` | `rgb(34, 139, 230)`  |
-| bright magenta | VIOLET 6 | [![VIOLET 6][VIOLET 6 image]][VIOLET 6] | `#7950f2` | `rgb(121, 80, 242)`  |
-| bright cyan    | TEAL 6   |    [![TEAL 6][TEAL 6 image]][TEAL 6]    | `#12b886` | `rgb(18, 184, 134)`  |
-| bright white   | GRAY 3   |    [![GRAY 3][GRAY 3 image]][GRAY 3]    | `#dee2e6` | `rgb(222, 226, 230)` |
+| ANSI Color     | Color    |                 Preview                 | Contrast                  | HEX       | RGB                  |
+| -------------- | -------- | :-------------------------------------: | ------------------------- | --------- | -------------------- |
+| black          | GRAY 9   |    [![GRAY 9][GRAY 9 image]][GRAY 9]    | [1.00][GRAY 9 contrast]   | `#212529` | `rgb(33, 37, 41)`    |
+| red            | RED 6    |     [![RED 6][RED 6 image]][RED 6]      | [4.70][RED 6 contrast]    | `#fa5252` | `rgb(250, 82, 82)`   |
+| green          | GREEN 6  |  [![GREEN 6][GREEN 6 image]][GREEN 6]   | [6.53][GREEN 6 contrast]  | `#40c057` | `rgb(64, 192, 87)`   |
+| yellow         | YELLOW 6 | [![YELLOW 6][YELLOW 6 image]][YELLOW 6] | [8.28][YELLOW 6 contrast] | `#fab005` | `rgb(250, 176, 5)`   |
+| blue           | INDIGO 6 | [![INDIGO 6][INDIGO 6 image]][INDIGO 6] | [3.57][INDIGO 6 contrast] | `#4c6ef5` | `rgb(76, 110, 245)`  |
+| magenta        | GRAPE 6  |  [![GRAPE 6][GRAPE 6 image]][GRAPE 6]   | [3.83][GRAPE 6 contrast]  | `#be4bdb` | `rgb(190, 75, 219)`  |
+| cyan           | CYAN 6   |    [![CYAN 6][CYAN 6 image]][CYAN 6]    | [5.53][CYAN 6 contrast]   | `#15aabf` | `rgb(21, 170, 191)`  |
+| white          | GRAY 0   |    [![GRAY 0][GRAY 0 image]][GRAY 0]    | [14.63][GRAY 0 contrast]  | `#f8f9fa` | `rgb(248, 249, 250)` |
+| bright black   | GRAY 6   |    [![GRAY 6][GRAY 6 image]][GRAY 6]    | [4.64][GRAY 6 contrast]   | `#868e96` | `rgb(134, 142, 150)` |
+| bright red     | PINK 6   |    [![PINK 6][PINK 6 image]][PINK 6]    | [4.14][PINK 6 contrast]   | `#e64980` | `rgb(230, 73, 128)`  |
+| bright green   | LIME 6   |    [![LIME 6][LIME 6 image]][LIME 6]    | [7.58][LIME 6 contrast]   | `#82c91e` | `rgb(130, 201, 30)`  |
+| bright yellow  | ORANGE 6 | [![ORANGE 6][ORANGE 6 image]][ORANGE 6] | [6.00][ORANGE 6 contrast] | `#fd7e14` | `rgb(253, 126, 20)`  |
+| bright blue    | BLUE 6   |    [![BLUE 6][BLUE 6 image]][BLUE 6]    | [4.34][BLUE 6 contrast]   | `#228be6` | `rgb(34, 139, 230)`  |
+| bright magenta | VIOLET 6 | [![VIOLET 6][VIOLET 6 image]][VIOLET 6] | [3.12][VIOLET 6 contrast] | `#7950f2` | `rgb(121, 80, 242)`  |
+| bright cyan    | TEAL 6   |    [![TEAL 6][TEAL 6 image]][TEAL 6]    | [6.05][TEAL 6 contrast]   | `#12b886` | `rgb(18, 184, 134)`  |
+| bright white   | GRAY 3   |    [![GRAY 3][GRAY 3 image]][GRAY 3]    | [11.85][GRAY 3 contrast]  | `#dee2e6` | `rgb(222, 226, 230)` |
 
 <details>
   <summary>BLUE</summary>
