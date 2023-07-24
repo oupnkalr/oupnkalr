@@ -621,6 +621,61 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 </details>
 <details>
   <summary>VIOLET</summary>
+
+  Open color swatches:
+
+  | Color    |                 Preview                 | Contrast                   | HEX       | RGB                  |
+  | -------- | :-------------------------------------: | -------------------------- | --------- | -------------------- |
+  | VIOLET 0 | [![VIOLET 0][VIOLET 0 image]][VIOLET 0] | [13.75][VIOLET 0 contrast] | `#f3f0ff` | `rgb(243, 240, 255)` |
+  | VIOLET 1 | [![VIOLET 1][VIOLET 1 image]][VIOLET 1] | [11.69][VIOLET 1 contrast] | `#e5dbff` | `rgb(229, 219, 255)` |
+  | VIOLET 2 | [![VIOLET 2][VIOLET 2 image]][VIOLET 2] | [9.24][VIOLET 2 contrast]  | `#d0bfff` | `rgb(208, 191, 255)` |
+  | VIOLET 3 | [![VIOLET 3][VIOLET 3 image]][VIOLET 3] | [6.39][VIOLET 3 contrast]  | `#b197fc` | `rgb(177, 151, 252)` |
+  | VIOLET 4 | [![VIOLET 4][VIOLET 4 image]][VIOLET 4] | [4.58][VIOLET 4 contrast]  | `#9775fa` | `rgb(151, 117, 250)` |
+  | VIOLET 5 | [![VIOLET 5][VIOLET 5 image]][VIOLET 5] | [3.62][VIOLET 5 contrast]  | `#845ef7` | `rgb(132, 94, 247)`  |
+  | VIOLET 6 | [![VIOLET 6][VIOLET 6 image]][VIOLET 6] | [3.12][VIOLET 6 contrast]  | `#7950f2` | `rgb(121, 80, 242)`  |
+  | VIOLET 7 | [![VIOLET 7][VIOLET 7 image]][VIOLET 7] | [2.78][VIOLET 7 contrast]  | `#7048e8` | `rgb(112, 72, 233)`  |
+  | VIOLET 8 | [![VIOLET 8][VIOLET 8 image]][VIOLET 8] | [2.45][VIOLET 8 contrast]  | `#6741d9` | `rgb(103, 65, 217)`  |
+  | VIOLET 9 | [![VIOLET 9][VIOLET 9 image]][VIOLET 9] | [2.17][VIOLET 9 contrast]  | `#5f3dc4` | `rgb(95, 61, 196)`   |
+
+  Other swatches:
+
+  | Color       |                     Preview                      | Contrast                     | HEX       | RGB                |
+  | ----------- | :----------------------------------------------: | ---------------------------- | --------- | ------------------ |
+  | violet 270° | [![violet 270°][violet 270° image]][violet 270°] | [2.47][violet 270° contrast] | `#8000ff` | `rgb(0, 128, 255)` |
+
+  [VIOLET 0 contrast]: https://colourcontrast.cc/f3f0ff/212529
+  [VIOLET 0 image]: https://www.htmlcsscolor.com/preview/32x32/f3f0ff.png
+  [VIOLET 0]: https://www.htmlcsscolor.com/hex/f3f0ff
+  [VIOLET 1 contrast]: https://colourcontrast.cc/e5dbff/212529
+  [VIOLET 1 image]: https://www.htmlcsscolor.com/preview/32x32/e5dbff.png
+  [VIOLET 1]: https://www.htmlcsscolor.com/hex/e5dbff
+  [VIOLET 2 contrast]: https://colourcontrast.cc/d0bfff/212529
+  [VIOLET 2 image]: https://www.htmlcsscolor.com/preview/32x32/d0bfff.png
+  [VIOLET 2]: https://www.htmlcsscolor.com/hex/d0bfff
+  [VIOLET 3 contrast]: https://colourcontrast.cc/b197fc/212529
+  [VIOLET 3 image]: https://www.htmlcsscolor.com/preview/32x32/b197fc.png
+  [VIOLET 3]: https://www.htmlcsscolor.com/hex/b197fc
+  [VIOLET 4 contrast]: https://colourcontrast.cc/9775fa/212529
+  [VIOLET 4 image]: https://www.htmlcsscolor.com/preview/32x32/9775fa.png
+  [VIOLET 4]: https://www.htmlcsscolor.com/hex/9775fa
+  [VIOLET 5 contrast]: https://colourcontrast.cc/845ef7/212529
+  [VIOLET 5 image]: https://www.htmlcsscolor.com/preview/32x32/845ef7.png
+  [VIOLET 5]: https://www.htmlcsscolor.com/hex/845ef7
+  [VIOLET 6 contrast]: https://colourcontrast.cc/7950f2/212529
+  [VIOLET 6 image]: https://www.htmlcsscolor.com/preview/32x32/7950f2.png
+  [VIOLET 6]: https://www.htmlcsscolor.com/hex/7950f2
+  [VIOLET 7 contrast]: https://colourcontrast.cc/7048e8/212529
+  [VIOLET 7 image]: https://www.htmlcsscolor.com/preview/32x32/7048e8.png
+  [VIOLET 7]: https://www.htmlcsscolor.com/hex/7048e8
+  [VIOLET 8 contrast]: https://colourcontrast.cc/6741d9/212529
+  [VIOLET 8 image]: https://www.htmlcsscolor.com/preview/32x32/6741d9.png
+  [VIOLET 8]: https://www.htmlcsscolor.com/hex/6741d9
+  [VIOLET 9 contrast]: https://colourcontrast.cc/5f3dc4/212529
+  [VIOLET 9 image]: https://www.htmlcsscolor.com/preview/32x32/5f3dc4.png
+  [VIOLET 9]: https://www.htmlcsscolor.com/hex/5f3dc4
+  [violet 270° contrast]: https://colourcontrast.cc/8000ff/212529
+  [violet 270° image]: https://www.htmlcsscolor.com/preview/32x32/8000ff.png
+  [violet 270°]: https://www.htmlcsscolor.com/hex/8000ff
 </details>
 <details>
   <summary>GRAPE</summary>
@@ -659,16 +714,3 @@ grape
     GRAPE 7     3.18    https://colourcontrast.cc/ae3ec9/212529
     GRAPE 8     2.65    https://colourcontrast.cc/9c36b5/212529
     GRAPE 9     2.12    https://colourcontrast.cc/862e9c/212529
-
-violet
-    #8000ff     2.47    https://colourcontrast.cc/8000ff/212529
-    VIOLET 0    13.75   https://colourcontrast.cc/f3f0ff/212529
-    VIOLET 1    11.69   https://colourcontrast.cc/e5dbff/212529
-    VIOLET 2    9.24    https://colourcontrast.cc/d0bfff/212529
-    VIOLET 3    6.39    https://colourcontrast.cc/b197fc/212529
-    VIOLET 4    4.58    https://colourcontrast.cc/9775fa/212529
-    VIOLET 5    3.62    https://colourcontrast.cc/845ef7/212529
-    VIOLET 6    3.12    https://colourcontrast.cc/7950f2/212529
-    VIOLET 7    2.78    https://colourcontrast.cc/7048e8/212529
-    VIOLET 8    2.45    https://colourcontrast.cc/6741d9/212529
-    VIOLET 9    1.13    https://colourcontrast.cc/5f3dc4/6741d9
