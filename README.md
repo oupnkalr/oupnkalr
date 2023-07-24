@@ -242,36 +242,36 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | ---------- | :-------------------------------------------: | --------------------------- | --------- | ------------------ |
   | yellow 60° | [![yellow 60°][yellow 60° image]][yellow 60°] | [14.37][yellow 60° contrast] | `#ffff00` | `rgb(255, 255, 0)` |
 
-  [YELLOW 0 contrast]: https://colourcontrast.cc/fff4e6/212529
-  [YELLOW 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff4e6.png
-  [YELLOW 0]: https://www.htmlcsscolor.com/hex/fff4e6
+  [YELLOW 0 contrast]: https://colourcontrast.cc/fff9db/212529
+  [YELLOW 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff9db.png
+  [YELLOW 0]: https://www.htmlcsscolor.com/hex/fff9db
   [YELLOW 1 contrast]: https://colourcontrast.cc/ffe8cc/212529
   [YELLOW 1 image]: https://www.htmlcsscolor.com/preview/32x32/ffe8cc.png
   [YELLOW 1]: https://www.htmlcsscolor.com/hex/ffe8cc
   [YELLOW 2 contrast]: https://colourcontrast.cc/ffd8a8/212529
   [YELLOW 2 image]: https://www.htmlcsscolor.com/preview/32x32/ffd8a8.png
   [YELLOW 2]: https://www.htmlcsscolor.com/hex/ffd8a8
-  [YELLOW 3 contrast]: https://colourcontrast.cc/ffc078/212529
-  [YELLOW 3 image]: https://www.htmlcsscolor.com/preview/32x32/ffc078.png
-  [YELLOW 3]: https://www.htmlcsscolor.com/hex/ffc078
-  [YELLOW 4 contrast]: https://colourcontrast.cc/ffa94d/212529
+  [YELLOW 3 contrast]: https://colourcontrast.cc/ffe066/212529
+  [YELLOW 3 image]: https://www.htmlcsscolor.com/preview/32x32/ffe066.png
+  [YELLOW 3]: https://www.htmlcsscolor.com/hex/ffe066
+  [YELLOW 4 contrast]: https://colourcontrast.cc/ffd43b/212529
   [YELLOW 4 image]: https://www.htmlcsscolor.com/preview/32x32/ffc078.png
-  [YELLOW 4]: https://www.htmlcsscolor.com/hex/ffa94d
-  [YELLOW 5 contrast]: https://colourcontrast.cc/ff922b/212529
-  [YELLOW 5 image]: https://www.htmlcsscolor.com/preview/32x32/ff922b.png
-  [YELLOW 5]: https://www.htmlcsscolor.com/hex/ff922b
-  [YELLOW 6 contrast]: https://colourcontrast.cc/fd7e14/212529
-  [YELLOW 6 image]: https://www.htmlcsscolor.com/preview/32x32/fd7e14.png
-  [YELLOW 6]: https://www.htmlcsscolor.com/hex/fd7e14
-  [YELLOW 7 contrast]: https://colourcontrast.cc/f76707/212529
-  [YELLOW 7 image]: https://www.htmlcsscolor.com/preview/32x32/f76707.png
-  [YELLOW 7]: https://www.htmlcsscolor.com/hex/f76707
-  [YELLOW 8 contrast]: https://colourcontrast.cc/e8590c/212529
-  [YELLOW 8 image]: https://www.htmlcsscolor.com/preview/32x32/e8590c.png
-  [YELLOW 8]: https://www.htmlcsscolor.com/hex/e8590c
-  [YELLOW 9 contrast]: https://colourcontrast.cc/d9480f/212529
-  [YELLOW 9 image]: https://www.htmlcsscolor.com/preview/32x32/d9480f.png
-  [YELLOW 9]: https://www.htmlcsscolor.com/hex/d9480f
+  [YELLOW 4]: https://www.htmlcsscolor.com/hex/ffd43b
+  [YELLOW 5 contrast]: https://colourcontrast.cc/fcc419/212529
+  [YELLOW 5 image]: https://www.htmlcsscolor.com/preview/32x32/fcc419.png
+  [YELLOW 5]: https://www.htmlcsscolor.com/hex/fcc419
+  [YELLOW 6 contrast]: https://colourcontrast.cc/fab005/212529
+  [YELLOW 6 image]: https://www.htmlcsscolor.com/preview/32x32/fab005.png
+  [YELLOW 6]: https://www.htmlcsscolor.com/hex/fab005
+  [YELLOW 7 contrast]: https://colourcontrast.cc/f59f00/212529
+  [YELLOW 7 image]: https://www.htmlcsscolor.com/preview/32x32/f59f00.png
+  [YELLOW 7]: https://www.htmlcsscolor.com/hex/f59f00
+  [YELLOW 8 contrast]: https://colourcontrast.cc/f08c00/212529
+  [YELLOW 8 image]: https://www.htmlcsscolor.com/preview/32x32/f08c00.png
+  [YELLOW 8]: https://www.htmlcsscolor.com/hex/f08c00
+  [YELLOW 9 contrast]: https://colourcontrast.cc/e67700/212529
+  [YELLOW 9 image]: https://www.htmlcsscolor.com/preview/32x32/e67700.png
+  [YELLOW 9]: https://www.htmlcsscolor.com/hex/e67700
   [yellow 60° contrast]: https://colourcontrast.cc/ffff00/212529
   [yellow 60° image]: https://www.htmlcsscolor.com/preview/32x32/ffff00.png
   [yellow 60°]: https://www.htmlcsscolor.com/hex/ffff00
