@@ -115,7 +115,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | RED 8 | [![RED 8][RED 8 image]][RED 8] | [3.42][RED 8 contrast]  | `#e03131` | `rgb(224, 49, 49)`   |
   | RED 9 | [![RED 9][RED 9 image]][RED 9] | [2.83][RED 9 contrast]  | `#c92a2a` | `rgb(201, 42, 42)`   |
 
-  HTML swatches:
+  Other swatches:
 
   | Color  |              Preview              | Contrast                | HEX       | RGB              |
   | ------ | :-------------------------------: | ----------------------- | --------- | ---------------- |
@@ -173,7 +173,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | ORANGE 8 | [![ORANGE 8][ORANGE 8 image]][ORANGE 8] | [4.31][ORANGE 8 contrast]  | `#e8590c` | `rgb(232, 89, 12)`   |
   | ORANGE 9 | [![ORANGE 9][ORANGE 9 image]][ORANGE 9] | [3.59][ORANGE 9 contrast]  | `#d9480f` | `rgb(217, 72, 15)`   |
 
-  HTML swatches:
+  Other swatches:
 
   | Color      |                    Preview                    | Contrast                    | HEX       | RGB                |
   | ---------- | :-------------------------------------------: | --------------------------- | --------- | ------------------ |
@@ -231,7 +231,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | YELLOW 8 | [![YELLOW 8][YELLOW 8 image]][YELLOW 8] | [6.21][YELLOW 8 contrast]  | `#f08c00` | `rgb(240, 140, 0)`   |
   | YELLOW 9 | [![YELLOW 9][YELLOW 9 image]][YELLOW 9] | [5.14][YELLOW 9 contrast]  | `#e67700` | `rgb(230, 119, 0)`   |
 
-  HTML swatches:
+  Other swatches:
 
   | Color      |                    Preview                    | Contrast                     | HEX       | RGB                |
   | ---------- | :-------------------------------------------: | ---------------------------- | --------- | ------------------ |
@@ -289,7 +289,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | LIME 8 | [![LIME 8][LIME 8 image]][LIME 8] | [5.27][LIME 8 contrast]  | `#66a80f` | `rgb(102, 168, 15)`  |
   | LIME 9 | [![LIME 9][LIME 9 image]][LIME 9] | [4.18][LIME 9 contrast]  | `#5c940d` | `rgb(92, 148, 13)`   |
 
-  HTML swatches:
+  Other swatches:
 
   | Color    |                 Preview                 | Contrast                   | HEX       | RGB                |
   | -------- | :-------------------------------------: | -------------------------- | --------- | ------------------ |
@@ -338,7 +338,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | ------- | :----------------------------------: | ------------------------- | --------- | -------------------- |
   | GREEN 0 | [![GREEN 0][GREEN 0 image]][GREEN 0] | [14.37][GREEN 0 contrast] | `#ebfbee` | `rgb(235, 251, 238)` |
   | GREEN 1 | [![GREEN 1][GREEN 1 image]][GREEN 1] | [13.45][GREEN 1 contrast] | `#d3f9d8` | `rgb(211, 249, 216)` |
-  | GREEN 2 | [![GREEN 2][GREEN 2 image]][GREEN 2] | [11.98][GREEN 2 contrast] | `#ffec99` | `rgb(178, 242, 187)` |
+  | GREEN 2 | [![GREEN 2][GREEN 2 image]][GREEN 2] | [11.98][GREEN 2 contrast] | `#b2f2bb` | `rgb(178, 242, 187)` |
   | GREEN 3 | [![GREEN 3][GREEN 3 image]][GREEN 3] | [10.46][GREEN 3 contrast] | `#8ce99a` | `rgb(140, 233, 154)` |
   | GREEN 4 | [![GREEN 4][GREEN 4 image]][GREEN 4] | [8.83][GREEN 4 contrast]  | `#69db7c` | `rgb(105, 219, 124)` |
   | GREEN 5 | [![GREEN 5][GREEN 5 image]][GREEN 5] | [7.69][GREEN 5 contrast]  | `#51cf66` | `rgb(81, 207, 102)`  |
@@ -347,7 +347,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | GREEN 8 | [![GREEN 8][GREEN 8 image]][GREEN 8] | [4.48][GREEN 8 contrast]  | `#2f9e44` | `rgb(47, 158, 68)`   |
   | GREEN 9 | [![GREEN 9][GREEN 9 image]][GREEN 9] | [3.53][GREEN 9 contrast]  | `#2b8a3e` | `rgb(43, 138, 62)`   |
 
-  HTML swatches:
+  Other swatches:
 
   | Color      |                    Preview                    | Contrast                     | HEX       | RGB              |
   | ---------- | :-------------------------------------------: | ---------------------------- | --------- | ---------------- |
@@ -386,12 +386,64 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [green 120° contrast]: https://colourcontrast.cc/00ff00/212529
   [green 120° image]: https://www.htmlcsscolor.com/preview/32x32/00ff00.png
   [green 120°]: https://www.htmlcsscolor.com/hex/00ff00
-  [green contrast]: https://colourcontrast.cc/00ff00/212529
-  [green image]: https://www.htmlcsscolor.com/preview/32x32/00ff00.png
-  [green]: https://www.htmlcsscolor.com/hex/00ff00
 </details>
 <details>
   <summary>TEAL</summary>
+
+  Open color swatches:
+
+  | Color  |              Preview              | Contrast                 | HEX       | RGB                  |
+  | ------ | :-------------------------------: | ------------------------ | --------- | -------------------- |
+  | TEAL 0 | [![TEAL 0][TEAL 0 image]][TEAL 0] | [14.40][TEAL 0 contrast] | `#e6fcf5` | `rgb(230, 252, 245)` |
+  | TEAL 1 | [![TEAL 1][TEAL 1 image]][TEAL 1] | [13.34][TEAL 1 contrast] | `#c3fae8` | `rgb(195, 250, 232)` |
+  | TEAL 2 | [![TEAL 2][TEAL 2 image]][TEAL 2] | [11.74][TEAL 2 contrast] | `#96f2d7` | `rgb(150, 242, 215)` |
+  | TEAL 3 | [![TEAL 3][TEAL 3 image]][TEAL 3] | [9.99][TEAL 3 contrast]  | `#63e6be` | `rgb(99, 230, 190)`  |
+  | TEAL 4 | [![TEAL 4][TEAL 4 image]][TEAL 4] | [8.57][TEAL 4 contrast]  | `#38d9a9` | `rgb(56, 217, 169)`  |
+  | TEAL 5 | [![TEAL 5][TEAL 5 image]][TEAL 5] | [7.25][TEAL 5 contrast]  | `#20c997` | `rgb(32, 201, 151)`  |
+  | TEAL 6 | [![TEAL 6][TEAL 6 image]][TEAL 6] | [6.04][TEAL 6 contrast]  | `#12b887` | `rgb(18, 184, 134)`  |
+  | TEAL 7 | [![TEAL 7][TEAL 7 image]][TEAL 7] | [4.95][TEAL 7 contrast]  | `#0ca678` | `rgb(12, 166, 120)`  |
+  | TEAL 8 | [![TEAL 8][TEAL 8 image]][TEAL 8] | [3.91][TEAL 8 contrast]  | `#099268` | `rgb(9, 146, 104)`   |
+  | TEAL 9 | [![TEAL 9][TEAL 9 image]][TEAL 9] | [3.08][TEAL 9 contrast]  | `#087f5b` | `rgb(8, 127, 91)`    |
+
+  Other swatches:
+
+  | Color     |                  Preview                   | Contrast                    | HEX       | RGB                |
+  | --------- | :----------------------------------------: | --------------------------- | --------- | ------------------ |
+  | teal 150° | [![teal 150°][teal 150° image]][teal 150°] | [11.47][teal 150° contrast] | `#00ff80` | `rgb(0, 255, 128)` |
+
+  [TEAL 0 contrast]: https://colourcontrast.cc/e6fcf5/212529
+  [TEAL 0 image]: https://www.htmlcsscolor.com/preview/32x32/e6fcf5.png
+  [TEAL 0]: https://www.htmlcsscolor.com/hex/e6fcf5
+  [TEAL 1 contrast]: https://colourcontrast.cc/c3fae8/212529
+  [TEAL 1 image]: https://www.htmlcsscolor.com/preview/32x32/c3fae8.png
+  [TEAL 1]: https://www.htmlcsscolor.com/hex/c3fae8
+  [TEAL 2 contrast]: https://colourcontrast.cc/96f2d7/212529
+  [TEAL 2 image]: https://www.htmlcsscolor.com/preview/32x32/96f2d7.png
+  [TEAL 2]: https://www.htmlcsscolor.com/hex/96f2d7
+  [TEAL 3 contrast]: https://colourcontrast.cc/63e6be/212529
+  [TEAL 3 image]: https://www.htmlcsscolor.com/preview/32x32/63e6be.png
+  [TEAL 3]: https://www.htmlcsscolor.com/hex/63e6be
+  [TEAL 4 contrast]: https://colourcontrast.cc/38d9a9/212529
+  [TEAL 4 image]: https://www.htmlcsscolor.com/preview/32x32/38d9a9.png
+  [TEAL 4]: https://www.htmlcsscolor.com/hex/38d9a9
+  [TEAL 5 contrast]: https://colourcontrast.cc/20c997/212529
+  [TEAL 5 image]: https://www.htmlcsscolor.com/preview/32x32/20c997.png
+  [TEAL 5]: https://www.htmlcsscolor.com/hex/20c997
+  [TEAL 6 contrast]: https://colourcontrast.cc/12b887/212529
+  [TEAL 6 image]: https://www.htmlcsscolor.com/preview/32x32/12b887.png
+  [TEAL 6]: https://www.htmlcsscolor.com/hex/12b887
+  [TEAL 7 contrast]: https://colourcontrast.cc/0ca678/212529
+  [TEAL 7 image]: https://www.htmlcsscolor.com/preview/32x32/0ca678.png
+  [TEAL 7]: https://www.htmlcsscolor.com/hex/0ca678
+  [TEAL 8 contrast]: https://colourcontrast.cc/099268/212529
+  [TEAL 8 image]: https://www.htmlcsscolor.com/preview/32x32/099268.png
+  [TEAL 8]: https://www.htmlcsscolor.com/hex/099268
+  [TEAL 9 contrast]: https://colourcontrast.cc/087f5b/212529
+  [TEAL 9 image]: https://www.htmlcsscolor.com/preview/32x32/087f5b.png
+  [TEAL 9]: https://www.htmlcsscolor.com/hex/087f5b
+  [teal 150° contrast]: https://colourcontrast.cc/00ff80/212529
+  [teal 150° image]: https://www.htmlcsscolor.com/preview/32x32/00ff80.png
+  [teal 150°]: https://www.htmlcsscolor.com/hex/00ff80
 </details>
 <details>
   <summary>CYAN</summary>
@@ -494,16 +546,3 @@ cyan
     CYAN 7      4.49    https://colourcontrast.cc/1098ad/212529
     CYAN 8      3.55    https://colourcontrast.cc/0c8599/212529
     CYAN 9      2.76    https://colourcontrast.cc/0b7285/212529
-
-teal
-    #00ff80     11.47   https://colourcontrast.cc/00ff80/212529
-    TEAL 0      14.40   https://colourcontrast.cc/e6fcf5/212529
-    TEAL 1      13.34   https://colourcontrast.cc/c3fae8/212529
-    TEAL 2      11.74   https://colourcontrast.cc/96f2d7/212529
-    TEAL 3      9.99    https://colourcontrast.cc/63e6be/212529
-    TEAL 4      8.57    https://colourcontrast.cc/38d9a9/212529
-    TEAL 5      7.25    https://colourcontrast.cc/20c997/212529
-    TEAL 6      6.04    https://colourcontrast.cc/12b886/212529
-    TEAL 7      4.95    https://colourcontrast.cc/0ca678/212529
-    TEAL 8      3.91    https://colourcontrast.cc/099268/212529
-    TEAL 9      3.08    https://colourcontrast.cc/087f5b/212529
