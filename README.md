@@ -33,36 +33,134 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   | Color  |              Preview              | Contrast                 | HEX       | RGB                  |
   | ------ | :-------------------------------: | ------------------------ | --------- | -------------------- |
-  | GRAY 0 | [![GRAY 0][gray 0 image]][gray 0] | [14.63][gray 0 contrast] | `#f8f9fa` | `rgb(248, 249, 250)` |
-  | GRAY 1 | [![GRAY 1][gray 1 image]][gray 1] | [13.87][gray 1 contrast] | `#f1f3f5` | `rgb(241, 243, 245)` |
-  | GRAY 2 | [![GRAY 2][gray 2 image]][gray 2] | [13.01][gray 2 contrast] | `#e9ecef` | `rgb(233, 236, 239)` |
-  | GRAY 3 | [![GRAY 3][gray 3 image]][gray 3] | [11.85][gray 3 contrast] | `#dee2e6` | `rgb(222, 226, 230)` |
-  | GRAY 4 | [![GRAY 4][gray 4 image]][gray 4] | [10.32][gray 4 contrast] | `#ced4da` | `rgb(206, 212, 218)` |
-  | GRAY 5 | [![GRAY 5][gray 5 image]][gray 5] | [7.43][gray 5 contrast]  | `#adb5bd` | `rgb(173, 181, 189)` |
-  | GRAY 6 | [![GRAY 6][gray 6 image]][gray 6] | [4.64][gray 6 contrast]  | `#868e96` | `rgb(134, 142, 150)` |
-  | GRAY 7 | [![GRAY 7][gray 7 image]][gray 7] | [1.89][gray 7 contrast]  | `#495057` | `rgb(73, 80, 87)`    |
-  | GRAY 8 | [![GRAY 8][gray 8 image]][gray 8] | [1.34][gray 8 contrast]  | `#343a40` | `rgb(52, 58, 64)`    |
-  | GRAY 9 | [![GRAY 9][gray 9 image]][gray 9] | [1][gray 9 contrast]     | `#212529` | `rgb(33, 37, 41)`    |
+  | GRAY 0 | [![GRAY 0][GRAY 0 image]][GRAY 0] | [14.63][GRAY 0 contrast] | `#f8f9fa` | `rgb(248, 249, 250)` |
+  | GRAY 1 | [![GRAY 1][GRAY 1 image]][GRAY 1] | [13.87][GRAY 1 contrast] | `#f1f3f5` | `rgb(241, 243, 245)` |
+  | GRAY 2 | [![GRAY 2][GRAY 2 image]][GRAY 2] | [13.01][GRAY 2 contrast] | `#e9ecef` | `rgb(233, 236, 239)` |
+  | GRAY 3 | [![GRAY 3][GRAY 3 image]][GRAY 3] | [11.85][GRAY 3 contrast] | `#dee2e6` | `rgb(222, 226, 230)` |
+  | GRAY 4 | [![GRAY 4][GRAY 4 image]][GRAY 4] | [10.32][GRAY 4 contrast] | `#ced4da` | `rgb(206, 212, 218)` |
+  | GRAY 5 | [![GRAY 5][GRAY 5 image]][GRAY 5] | [7.43][GRAY 5 contrast]  | `#adb5bd` | `rgb(173, 181, 189)` |
+  | GRAY 6 | [![GRAY 6][GRAY 6 image]][GRAY 6] | [4.64][GRAY 6 contrast]  | `#868e96` | `rgb(134, 142, 150)` |
+  | GRAY 7 | [![GRAY 7][GRAY 7 image]][GRAY 7] | [1.89][GRAY 7 contrast]  | `#495057` | `rgb(73, 80, 87)`    |
+  | GRAY 8 | [![GRAY 8][GRAY 8 image]][GRAY 8] | [1.34][GRAY 8 contrast]  | `#343a40` | `rgb(52, 58, 64)`    |
+  | GRAY 9 (blue | [![GRAY 9][GRAY 9 image]][GRAY 9] | [1][GRAY 9 contrast]     | `#212529` | `rgb(33, 37, 41)`    |
 
   HTML swatches:
 
-  | Color      | Preview                                       | Contrast                      | HEX       | RGB                  |
-  | ---------- | --------------------------------------------- | ----------------------------- | --------- | -------------------- |
-  | black      | [![BLACK][black image]][black]                | [1.36][ black contrast]       | `#000000` | `rgb(0, 0, 0)`       |
-  | gray       | [![GRAY][gray image]][gray]                   | [3.91][ gray contrast]        | `#808080` | `rgb(128, 128, 128)` |
-  | light gray | [![LIGHT GRAY][light gray image]][light gray] | [10.30][ light gray contrast] | `#d3d3d3` | `rgb(211, 211, 211)` |
-  | white      | [![WHITE][white image]][white]                | [15.43][ white contrast]      | `#ffffff` | `rgb(255, 255, 255)` |
+  | Color      | Preview                                       | Contrast                     | HEX       | RGB                  |
+  | ---------- | --------------------------------------------- | ---------------------------- | --------- | -------------------- |
+  | black      | [![black][black image]][black]                | [1.36][black contrast]       | `#000000` | `rgb(0, 0, 0)`       |
+  | gray       | [![gray][gray image]][gray]                   | [3.91][gray contrast]        | `#808080` | `rgb(128, 128, 128)` |
+  | light gray | [![light gray][light gray image]][light gray] | [10.30][light gray contrast] | `#d3d3d3` | `rgb(211, 211, 211)` |
+  | white      | [![white][white image]][white]                | [15.43][white contrast]      | `#ffffff` | `rgb(255, 255, 255)` |
 
   1.83 GRAY 8
+
+  [GRAY 0 contrast]: https://colourcontrast.cc/f8f9fa/212529
+  [GRAY 0 image]: https://www.htmlcsscolor.com/preview/32x32/f8f9fa.png
+  [GRAY 0]: https://www.htmlcsscolor.com/hex/f8f9fa
+  [GRAY 1 contrast]: https://colourcontrast.cc/f1f3f5/212529
+  [GRAY 1 image]: https://www.htmlcsscolor.com/preview/32x32/f1f3f5.png
+  [GRAY 1]: https://www.htmlcsscolor.com/hex/f1f3f5
+  [GRAY 2 contrast]: https://colourcontrast.cc/e9ecef/212529
+  [GRAY 2 image]: https://www.htmlcsscolor.com/preview/32x32/e9ecef.png
+  [GRAY 2]: https://www.htmlcsscolor.com/hex/e9ecef
+  [GRAY 3 contrast]: https://colourcontrast.cc/dee2e6/212529
+  [GRAY 3 image]: https://www.htmlcsscolor.com/preview/32x32/dee2e6.png
+  [GRAY 3]: https://www.htmlcsscolor.com/hex/dee2e6
+  [GRAY 4 contrast]: https://colourcontrast.cc/ced4da/212529
+  [GRAY 4 image]: https://www.htmlcsscolor.com/preview/32x32/ced4da.png
+  [GRAY 4]: https://www.htmlcsscolor.com/hex/ced4da
+  [GRAY 5 contrast]: https://colourcontrast.cc/adb5bd/212529
+  [GRAY 5 image]: https://www.htmlcsscolor.com/preview/32x32/adb5bd.png
+  [GRAY 5]: https://www.htmlcsscolor.com/hex/adb5bd
+  [GRAY 6 contrast]: https://colourcontrast.cc/868e96/212529
+  [GRAY 6 image]: https://www.htmlcsscolor.com/preview/32x32/868e96.png
+  [GRAY 6]: https://www.htmlcsscolor.com/hex/868e96
+  [GRAY 7 contrast]: https://colourcontrast.cc/495057/212529
+  [GRAY 7 image]: https://www.htmlcsscolor.com/preview/32x32/495057.png
+  [GRAY 7]: https://www.htmlcsscolor.com/hex/495057
+  [GRAY 8 contrast]: https://colourcontrast.cc/343a40/212529
+  [GRAY 8 image]: https://www.htmlcsscolor.com/preview/32x32/343a40.png
+  [GRAY 8]: https://www.htmlcsscolor.com/hex/343a40
+  [GRAY 9 contrast]: https://colourcontrast.cc/212529/212529
+  [GRAY 9 image]: https://www.htmlcsscolor.com/preview/32x32/212529.png
+  [GRAY 9]: https://www.htmlcsscolor.com/hex/212529
+  [black contrast]: https://colourcontrast.cc/212529/000000
+  [black image]: https://www.htmlcsscolor.com/preview/32x32/000000.png
+  [black]: https://www.htmlcsscolor.com/hex/000000
+  [gray contrast]: https://colourcontrast.cc/808080/212529
+  [gray image]: https://www.htmlcsscolor.com/preview/32x32/808080.png
+  [gray]: https://www.htmlcsscolor.com/hex/808080
+  [light gray contrast]: https://colourcontrast.cc/d3d3d3/212529
+  [light gray image]: https://www.htmlcsscolor.com/preview/32x32/d3d3d3.png
+  [light gray]: https://www.htmlcsscolor.com/hex/d3d3d3
+  [white contrast]: https://colourcontrast.cc/ffffff/212529
+  [white image]: https://www.htmlcsscolor.com/preview/32x32/ffffff.png
+  [white]: https://www.htmlcsscolor.com/hex/ffffff
 <details>
 <details>
-  <summary></summary>
+  <summary>RED</summary>
+
+  Open color swatches:
+
+  | Color |            Preview             | Contrast                | HEX       | RGB                  |
+  | ----- | :----------------------------: | ----------------------- | --------- | -------------------- |
+  | RED 0 | [![RED 0][RED 0 image]][RED 0] | [14.42][RED 0 contrast] | `#fff5f5` | `rgb(255, 245, 245)` |
+  | RED 1 | [![RED 1][RED 1 image]][RED 1] | [12.74][RED 1 contrast] | `#ffe3e3` | `rgb(255, 227, 227)` |
+  | RED 2 | [![RED 2][RED 2 image]][RED 2] | [10.61][RED 2 contrast] | `#ffc9c9` | `rgb(255, 201, 201)` |
+  | RED 3 | [![RED 3][RED 3 image]][RED 3] | [8.39][RED 3 contrast]  | `#ffa8a8` | `rgb(255, 168, 168)` |
+  | RED 4 | [![RED 4][RED 4 image]][RED 4] | [6.66][RED 4 contrast]  | `#ff8787` | `rgb(255, 135, 135)` |
+  | RED 5 | [![RED 5][RED 5 image]][RED 5] | [5.56][RED 5 contrast]  | `#ff6b6b` | `rgb(255, 107, 107)` |
+  | RED 6 | [![RED 6][RED 6 image]][RED 6] | [4.70][RED 6 contrast]  | `#fa5252` | `rgb(255, 82, 82)`   |
+  | RED 7 | [![RED 7][RED 7 image]][RED 7] | [4.01][RED 7 contrast]  | `#f03e3e` | `rgb(240, 62, 62)`   |
+  | RED 8 | [![RED 8][RED 8 image]][RED 8] | [3.42][RED 8 contrast]  | `#e03131` | `rgb(224, 49, 49)`   |
+  | RED 9 | [![RED 9][RED 9 image]][RED 9] | [2.83][RED 9 contrast]  | `#212529` | `rgb(201, 42, 42)`   |
+  
+  HTML swatches:
+  
+  | Color | Preview                  | Contrast             | HEX       | RGB              |
+  | ----- | ------------------------ | -------------------- | --------- | ---------------- |
+  | red   | [![red][red image]][red] | [1.36][red contrast] | `#ff0000` | `rgb(255, 0, 0)` |
+
+  [RED 0 contrast]: https://colourcontrast.cc/fff5f5/212529
+  [RED 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff5f5.png
+  [RED 0]: https://www.htmlcsscolor.com/hex/fff5f5
+  [RED 1 contrast]: https://colourcontrast.cc/ffe3e3/212529
+  [RED 1 image]: https://www.htmlcsscolor.com/preview/32x32/ffe3e3.png
+  [RED 1]: https://www.htmlcsscolor.com/hex/ffe3e3
+  [RED 2 contrast]: https://colourcontrast.cc/ffc9c9/212529
+  [RED 2 image]: https://www.htmlcsscolor.com/preview/32x32/ffc9c9.png
+  [RED 2]: https://www.htmlcsscolor.com/hex/ffc9c9
+  [RED 3 contrast]: https://colourcontrast.cc/ffa8a8/212529
+  [RED 3 image]: https://www.htmlcsscolor.com/preview/32x32/ffa8a8.png
+  [RED 3]: https://www.htmlcsscolor.com/hex/ffa8a8
+  [RED 4 contrast]: https://colourcontrast.cc/ff8787/212529
+  [RED 4 image]: https://www.htmlcsscolor.com/preview/32x32/ff8787.png
+  [RED 4]: https://www.htmlcsscolor.com/hex/ff8787
+  [RED 5 contrast]: https://colourcontrast.cc/ff6b6b/212529
+  [RED 5 image]: https://www.htmlcsscolor.com/preview/32x32/ff6b6b.png
+  [RED 5]: https://www.htmlcsscolor.com/hex/ff6b6b
+  [RED 6 contrast]: https://colourcontrast.cc/fa5252/212529
+  [RED 6 image]: https://www.htmlcsscolor.com/preview/32x32/fa5252.png
+  [RED 6]: https://www.htmlcsscolor.com/hex/fa5252
+  [RED 7 contrast]: https://colourcontrast.cc/f03e3e/212529
+  [RED 7 image]: https://www.htmlcsscolor.com/preview/32x32/f03e3e.png
+  [RED 7]: https://www.htmlcsscolor.com/hex/f03e3e
+  [RED 8 contrast]: https://colourcontrast.cc/e03131/212529
+  [RED 8 image]: https://www.htmlcsscolor.com/preview/32x32/e03131.png
+  [RED 8]: https://www.htmlcsscolor.com/hex/e03131
+  [RED 9 contrast]: https://colourcontrast.cc/c92a2a/212529
+  [RED 9 image]: https://www.htmlcsscolor.com/preview/32x32/c92a2a.png
+  [RED 9]: https://www.htmlcsscolor.com/hex/c92a2a
+  [red contrast]: https://colourcontrast.cc/ff0000/212529
+  [red image]: https://www.htmlcsscolor.com/preview/32x32/ff0000.png
+  [red]: https://www.htmlcsscolor.com/hex/ff0000
 </details>
 <details>
-  <summary></summary>
+  <summary>ORANGE</summary>
 </details>
 <details>
-  <summary></summary>
+  <summary>YELLOW</summary>
 </details>
 <details>
   <summary></summary>
@@ -95,7 +193,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   <summary></summary>
 </details>
 
-[BLACK contrast]: https://colourcontrast.cc/212529/000000
+  [BLACK contrast]: https://colourcontrast.cc/212529/000000
 [BLACK image]: https://www.htmlcsscolor.com/preview/32x32/000000.png
 [BLACK]: https://www.htmlcsscolor.com/hex/000000
 [GRAY 0 contrast]: https://colourcontrast.cc/f8f9fa/212529
@@ -144,25 +242,6 @@ AA normal - 4.5
 AAA large - 4.5
 AAA normal - 7
 
-
-gray
-    #000000     1.36    https://colourcontrast.cc/000000/212529
-    GRAY 9      1       https://colourcontrast.cc/212529/212529
-    GRAY 8      1.34    https://colourcontrast.cc/212529/343a40
-    GRAY 7      1.89    https://colourcontrast.cc/212529/495057
-    GRAY 6      4.63    https://colourcontrast.cc/212529/868e96
-    GRAY 5      7.4     https://colourcontrast.cc/212529/adb5bd
-    #888888     4.35    https://colourcontrast.cc/212529/888888 (136, 136, 136)
-    #808080     3.91    https://colourcontrast.cc/212529/808080 HTML gray (128, 128, 128)
-    #c0c0c0     8.48    https://colourcontrast.cc/c0c0c0/212529 (192, 192, 192)
-    #cccccc     9.61    https://colourcontrast.cc/cccccc/212529 (204, 204, 204)
-    #d3d3d3     10.30   https://colourcontrast.cc/d3d3d3/212529 HTML light gray (211, 211, 211)
-    GRAY 4      10.32   https://colourcontrast.cc/ced4da/212529
-    GRAY 3      11.85   https://colourcontrast.cc/dee2e6/212529
-    GRAY 2      13.01   https://colourcontrast.cc/e9ecef/212529
-    GRAY 1      13.87   https://colourcontrast.cc/f1f3f5/212529
-    GRAY 0      14.63   https://colourcontrast.cc/f8f9fa/212529
-    #ffffff     15.43   https://colourcontrast.cc/ffffff/212529
 
 red
     #ff0000     3.86    https://colourcontrast.cc/ff0000/212529
