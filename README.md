@@ -51,7 +51,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | black      | [![BLACK][black image]][black]                | `#000000` | `rgb(0, 0, 0)`       |
   | gray       | [![GRAY][gray image]][gray]                   | `#808080` | `rgb(128, 128, 128)` |
   | light gray | [![LIGHT GRAY][light gray image]][light gray] | `#d3d3d3` | `rgb(211, 211, 211)` |
-  | white      | [![WHITE][]][white]                           | `#ffffff` | `rgb(255, 255, 255)` |
+  | white      | [![WHITE][white image]][white]                | `#ffffff` | `rgb(255, 255, 255)` |
 <details>
 <details>
   <summary></summary>
