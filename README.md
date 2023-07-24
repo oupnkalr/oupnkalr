@@ -31,18 +31,18 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   
   Open color swatches:
 
-  | Color  |              Preview              | HEX       | RGB                  |
-  | ------ | :-------------------------------: | --------- | -------------------- |
-  | GRAY 0 | [![GRAY 0][GRAY 0 image]][GRAY 0] | `#f8f9fa` | `rgb(248, 249, 250)` |
-  | GRAY 1 | [![GRAY 1][GRAY 1 image]][GRAY 1] | `#f1f3f5` | `rgb(241, 243, 245)` |
-  | GRAY 2 | [![GRAY 2][GRAY 2 image]][GRAY 2] | `#e9ecef` | `rgb(233, 236, 239)` |
-  | GRAY 3 | [![GRAY 3][GRAY 3 image]][GRAY 3] | `#dee2e6` | `rgb(222, 226, 230)` |
-  | GRAY 4 | [![GRAY 4][GRAY 4 image]][GRAY 4] | `#ced4da` | `rgb(206, 212, 218)` |
-  | GRAY 5 | [![GRAY 5][GRAY 5 image]][GRAY 5] | `#adb5bd` | `rgb(173, 181, 189)` |
-  | GRAY 6 | [![GRAY 6][GRAY 6 image]][GRAY 6] | `#868e96` | `rgb(134, 142, 150)` |
-  | GRAY 7 | [![GRAY 7][GRAY 7 image]][GRAY 7] | `#495057` | `rgb(73, 80, 87)`    |
-  | GRAY 8 | [![GRAY 8][GRAY 8 image]][GRAY 8] | `#343a40` | `rgb(52, 58, 64)`    |
-  | GRAY 9 | [![GRAY 9][GRAY 9 image]][GRAY 9] | `#212529` | `rgb(33, 37, 41)`    |
+  | Color  |              Preview              | Contrast                 | HEX       | RGB                  |
+  | ------ | :-------------------------------: | ------------------------ | --------- | -------------------- |
+  | GRAY 0 | [![GRAY 0][gray 0 image]][gray 0] | [14.63][gray 0 contrast] | `#f8f9fa` | `rgb(248, 249, 250)` |
+  | GRAY 1 | [![GRAY 1][gray 1 image]][gray 1] | [13.87][gray 1 contrast] | `#f1f3f5` | `rgb(241, 243, 245)` |
+  | GRAY 2 | [![GRAY 2][gray 2 image]][gray 2] | [13.01][gray 2 contrast] | `#e9ecef` | `rgb(233, 236, 239)` |
+  | GRAY 3 | [![GRAY 3][gray 3 image]][gray 3] | [11.85][gray 3 contrast] | `#dee2e6` | `rgb(222, 226, 230)` |
+  | GRAY 4 | [![GRAY 4][gray 4 image]][gray 4] | [10.32][gray 4 contrast] | `#ced4da` | `rgb(206, 212, 218)` |
+  | GRAY 5 | [![GRAY 5][gray 5 image]][gray 5] | [7.43][gray 5 contrast]  | `#adb5bd` | `rgb(173, 181, 189)` |
+  | GRAY 6 | [![GRAY 6][gray 6 image]][gray 6] | [4.63][gray 6 contrast]  | `#868e96` | `rgb(134, 142, 150)` |
+  | GRAY 7 | [![GRAY 7][gray 7 image]][gray 7] | [1.89][gray 7 contrast]  | `#495057` | `rgb(73, 80, 87)`    |
+  | GRAY 8 | [![GRAY 8][gray 8 image]][gray 8] | [1.34][gray 8 contrast]  | `#343a40` | `rgb(52, 58, 64)`    |
+  | GRAY 9 | [![GRAY 9][gray 9 image]][gray 9] | [1][gray 9 contrast]     | `#212529` | `rgb(33, 37, 41)`    |
 
   HTML swatches:
 
@@ -95,24 +95,34 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
 [BLACK image]: https://www.htmlcsscolor.com/preview/32x32/000000.png
 [BLACK]: https://www.htmlcsscolor.com/hex/000000
+[GRAY 0 contrast]: https://colourcontrast.cc/f8f9fa/212529
 [GRAY 0 image]: https://www.htmlcsscolor.com/preview/32x32/f8f9fa.png
 [GRAY 0]: https://www.htmlcsscolor.com/hex/f8f9fa
+[GRAY 1 contrast]: https://colourcontrast.cc/f1f3f5/212529
 [GRAY 1 image]: https://www.htmlcsscolor.com/preview/32x32/f1f3f5.png
 [GRAY 1]: https://www.htmlcsscolor.com/hex/f1f3f5
+[GRAY 2 contrast]: https://colourcontrast.cc/e9ecef/212529
 [GRAY 2 image]: https://www.htmlcsscolor.com/preview/32x32/e9ecef.png
 [GRAY 2]: https://www.htmlcsscolor.com/hex/e9ecef
+[GRAY 3 contrast]: https://colourcontrast.cc/dee2e6/212529
 [GRAY 3 image]: https://www.htmlcsscolor.com/preview/32x32/dee2e6.png
 [GRAY 3]: https://www.htmlcsscolor.com/hex/dee2e6
+[GRAY 4 contrast]: https://colourcontrast.cc/ced4da/212529
 [GRAY 4 image]: https://www.htmlcsscolor.com/preview/32x32/ced4da.png
 [GRAY 4]: https://www.htmlcsscolor.com/hex/ced4da
+[GRAY 5 contrast]: https://colourcontrast.cc/adb5bd/212529
 [GRAY 5 image]: https://www.htmlcsscolor.com/preview/32x32/adb5bd.png
 [GRAY 5]: https://www.htmlcsscolor.com/hex/adb5bd
+[GRAY 6 contrast]: https://colourcontrast.cc/868e96/212529
 [GRAY 6 image]: https://www.htmlcsscolor.com/preview/32x32/868e96.png
 [GRAY 6]: https://www.htmlcsscolor.com/hex/868e96
+[GRAY 7 contrast]: https://colourcontrast.cc/495057/212529
 [GRAY 7 image]: https://www.htmlcsscolor.com/preview/32x32/495057.png
 [GRAY 7]: https://www.htmlcsscolor.com/hex/495057
+[GRAY 8 contrast]: https://colourcontrast.cc/343a40/212529
 [GRAY 8 image]: https://www.htmlcsscolor.com/preview/32x32/343a40.png
 [GRAY 8]: https://www.htmlcsscolor.com/hex/343a40
+[GRAY 9 contrast]: https://colourcontrast.cc/212529/212529
 [GRAY 9 image]: https://www.htmlcsscolor.com/preview/32x32/212529.png
 [GRAY 9]: https://www.htmlcsscolor.com/hex/212529
 [GRAY image]: https://www.htmlcsscolor.com/preview/32x32/808080.png
