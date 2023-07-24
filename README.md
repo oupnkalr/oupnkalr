@@ -4,6 +4,33 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
 [Open color]: https://github.com/yeun/open-color
 
+## Colors
+
+| -------------- | ------ | ------- |
+| ANSI Color     | Color  | Preview |
+| -------------- | ------ | ------- |
+| black          | GRAY 9 |         |
+| red            |        |         |
+| green          |        |         |
+| yellow         |        |         |
+| blue           |        |         |
+| magenta        |        |         |
+| cyan           |        |         |
+| white          |        |         |
+| bright gray    |        |         |
+| bright red     |        |         |
+| bright green   |        |         |
+| bright yellow  |        |         |
+| bright blue    |        |         |
+| bright magenta |        |         |
+| bright cyan    |        |         |
+| bright white   | GRAY 0 |         |
+
+<details>
+  <summary></summary>
+<details>
+
+
 AA large - 3
 AA normal - 4.5
 AAA large - 4.5
