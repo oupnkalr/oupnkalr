@@ -113,10 +113,10 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | RED 6 | [![RED 6][RED 6 image]][RED 6] | [4.70][RED 6 contrast]  | `#fa5252` | `rgb(250, 82, 82)`   |
   | RED 7 | [![RED 7][RED 7 image]][RED 7] | [4.01][RED 7 contrast]  | `#f03e3e` | `rgb(240, 62, 62)`   |
   | RED 8 | [![RED 8][RED 8 image]][RED 8] | [3.42][RED 8 contrast]  | `#e03131` | `rgb(224, 49, 49)`   |
-  | RED 9 | [![RED 9][RED 9 image]][RED 9] | [2.83][RED 9 contrast]  | `#212529` | `rgb(201, 42, 42)`   |
- 
+  | RED 9 | [![RED 9][RED 9 image]][RED 9] | [2.83][RED 9 contrast]  | `#c92a2a` | `rgb(201, 42, 42)`   |
+
   HTML swatches:
- 
+
   | Color  |              Preview              | Contrast                | HEX       | RGB              |
   | ------ | :-------------------------------: | ----------------------- | --------- | ---------------- |
   | red 0° | [![red 0°][red 0° image]][red 0°] | [3.86][red 0° contrast] | `#ff0000` | `rgb(255, 0, 0)` |
