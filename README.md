@@ -293,7 +293,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   | Color    |                 Preview                 | Contrast                   | HEX       | RGB                |
   | -------- | :-------------------------------------: | -------------------------- | --------- | ------------------ |
-  | lime 90° | [![lime 90°][lime 90° image]][lime 90°] | [11.24][lime 90° contrast] | `#80ff00` | `rgb(128, 255, 0)` |
+  | lime 90° | [![lime 90°][lime 90° image]][lime 90°] | [11.92][lime 90° contrast] | `#80ff00` | `rgb(128, 255, 0)` |
 
   [LIME 0 contrast]: https://colourcontrast.cc/f4fce3/212529
   [LIME 0 image]: https://www.htmlcsscolor.com/preview/32x32/f4fce3.png
@@ -334,18 +334,18 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Open color swatches:
 
-  | Color  |              Preview              | Contrast                 | HEX       | RGB                  |
-  | ------ | :-------------------------------: | ------------------------ | --------- | -------------------- |
-  | GREEN 0 | [![GREEN 0][GREEN 0 image]][GREEN 0] | [14.60][GREEN 0 contrast] | `#f4fce3` | `rgb(244, 252, 227)` |
-  | GREEN 1 | [![GREEN 1][GREEN 1 image]][GREEN 1] | [13.94][GREEN 1 contrast] | `#e9fac8` | `rgb(233, 250, 200)` |
-  | GREEN 2 | [![GREEN 2][GREEN 2 image]][GREEN 2] | [13.01][GREEN 2 contrast] | `#ffec99` | `rgb(255, 236, 153)` |
-  | GREEN 3 | [![GREEN 3][GREEN 3 image]][GREEN 3] | [11.30][GREEN 3 contrast] | `#c0eb75` | `rgb(192, 235, 117)` |
-  | GREEN 4 | [![GREEN 4][GREEN 4 image]][GREEN 4] | [10.12][GREEN 4 contrast] | `#a9e34b` | `rgb(169, 227, 75)`  |
-  | GREEN 5 | [![GREEN 5][GREEN 5 image]][GREEN 5] | [8.90][GREEN 5 contrast]  | `#94d82d` | `rgb(148, 216, 45)`  |
-  | GREEN 6 | [![GREEN 6][GREEN 6 image]][GREEN 6] | [7.58][GREEN 6 contrast]  | `#82c91e` | `rgb(130, 201, 30)`  |
-  | GREEN 7 | [![GREEN 7][GREEN 7 image]][GREEN 7] | [6.33][GREEN 7 contrast]  | `#74b816` | `rgb(116, 184, 22)`  |
-  | GREEN 8 | [![GREEN 8][GREEN 8 image]][GREEN 8] | [5.27][GREEN 8 contrast]  | `#66a80f` | `rgb(102, 168, 15)`  |
-  | GREEN 9 | [![GREEN 9][GREEN 9 image]][GREEN 9] | [4.18][GREEN 9 contrast]  | `#5c940d` | `rgb(92, 148, 13)`   |
+  | Color   |               Preview                | Contrast                  | HEX       | RGB                  |
+  | ------- | :----------------------------------: | ------------------------- | --------- | -------------------- |
+  | GREEN 0 | [![GREEN 0][GREEN 0 image]][GREEN 0] | [14.37][GREEN 0 contrast] | `#ebfbee` | `rgb(235, 251, 238)` |
+  | GREEN 1 | [![GREEN 1][GREEN 1 image]][GREEN 1] | [13.45][GREEN 1 contrast] | `#d3f9d8` | `rgb(211, 249, 216)` |
+  | GREEN 2 | [![GREEN 2][GREEN 2 image]][GREEN 2] | [11.98][GREEN 2 contrast] | `#ffec99` | `rgb(178, 242, 187)` |
+  | GREEN 3 | [![GREEN 3][GREEN 3 image]][GREEN 3] | [10.46][GREEN 3 contrast] | `#8ce99a` | `rgb(140, 233, 154)` |
+  | GREEN 4 | [![GREEN 4][GREEN 4 image]][GREEN 4] | [8.83][GREEN 4 contrast]  | `#69db7c` | `rgb(105, 219, 124)` |
+  | GREEN 5 | [![GREEN 5][GREEN 5 image]][GREEN 5] | [7.69][GREEN 5 contrast]  | `#51cf66` | `rgb(81, 207, 102)`  |
+  | GREEN 6 | [![GREEN 6][GREEN 6 image]][GREEN 6] | [6.53][GREEN 6 contrast]  | `#40c057` | `rgb(64, 192, 87)`   |
+  | GREEN 7 | [![GREEN 7][GREEN 7 image]][GREEN 7] | [5.61][GREEN 7 contrast]  | `#37b24d` | `rgb(55, 178, 77)`   |
+  | GREEN 8 | [![GREEN 8][GREEN 8 image]][GREEN 8] | [4.48][GREEN 8 contrast]  | `#2f9e44` | `rgb(47, 158, 68)`   |
+  | GREEN 9 | [![GREEN 9][GREEN 9 image]][GREEN 9] | [3.53][GREEN 9 contrast]  | `#2b8a3e` | `rgb(43, 138, 62)`   |
 
   HTML swatches:
 
@@ -353,36 +353,36 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | ---------- | :-------------------------------------------: | ---------------------------- | --------- | ---------------- |
   | green 120° | [![green 120°][green 120° image]][green 120°] | [11.24][green 120° contrast] | `#00ff00` | `rgb(0, 255, 0)` |
 
-  [GREEN 0 contrast]: https://colourcontrast.cc/f4fce3/212529
-  [GREEN 0 image]: https://www.htmlcsscolor.com/preview/32x32/f4fce3.png
-  [GREEN 0]: https://www.htmlcsscolor.com/hex/f4fce3
-  [GREEN 1 contrast]: https://colourcontrast.cc/e9fac8/212529
-  [GREEN 1 image]: https://www.htmlcsscolor.com/preview/32x32/e9fac8.png
-  [GREEN 1]: https://www.htmlcsscolor.com/hex/e9fac8
-  [GREEN 2 contrast]: https://colourcontrast.cc/d8f5a2/212529
-  [GREEN 2 image]: https://www.htmlcsscolor.com/preview/32x32/d8f5a2.png
-  [GREEN 2]: https://www.htmlcsscolor.com/hex/d8f5a2
-  [GREEN 3 contrast]: https://colourcontrast.cc/c0eb75/212529
-  [GREEN 3 image]: https://www.htmlcsscolor.com/preview/32x32/c0eb75.png
-  [GREEN 3]: https://www.htmlcsscolor.com/hex/c0eb75
-  [GREEN 4 contrast]: https://colourcontrast.cc/a9e34b/212529
-  [GREEN 4 image]: https://www.htmlcsscolor.com/preview/32x32/a9e34b.png
-  [GREEN 4]: https://www.htmlcsscolor.com/hex/a9e34b
-  [GREEN 5 contrast]: https://colourcontrast.cc/94d82d/212529
-  [GREEN 5 image]: https://www.htmlcsscolor.com/preview/32x32/94d82d.png
-  [GREEN 5]: https://www.htmlcsscolor.com/hex/94d82d
-  [GREEN 6 contrast]: https://colourcontrast.cc/82c91e/212529
-  [GREEN 6 image]: https://www.htmlcsscolor.com/preview/32x32/82c91e.png
-  [GREEN 6]: https://www.htmlcsscolor.com/hex/82c91e
-  [GREEN 7 contrast]: https://colourcontrast.cc/74b816/212529
-  [GREEN 7 image]: https://www.htmlcsscolor.com/preview/32x32/74b816.png
-  [GREEN 7]: https://www.htmlcsscolor.com/hex/74b816
-  [GREEN 8 contrast]: https://colourcontrast.cc/66a80f/212529
-  [GREEN 8 image]: https://www.htmlcsscolor.com/preview/32x32/66a80f.png
-  [GREEN 8]: https://www.htmlcsscolor.com/hex/66a80f
-  [GREEN 9 contrast]: https://colourcontrast.cc/5c940d/212529
-  [GREEN 9 image]: https://www.htmlcsscolor.com/preview/32x32/5c940d.png
-  [GREEN 9]: https://www.htmlcsscolor.com/hex/5c940d
+  [GREEN 0 contrast]: https://colourcontrast.cc/ebfbee/212529
+  [GREEN 0 image]: https://www.htmlcsscolor.com/preview/32x32/ebfbee.png
+  [GREEN 0]: https://www.htmlcsscolor.com/hex/ebfbee
+  [GREEN 1 contrast]: https://colourcontrast.cc/d3f9d8/212529
+  [GREEN 1 image]: https://www.htmlcsscolor.com/preview/32x32/d3f9d8.png
+  [GREEN 1]: https://www.htmlcsscolor.com/hex/d3f9d8
+  [GREEN 2 contrast]: https://colourcontrast.cc/b2f2bb/212529
+  [GREEN 2 image]: https://www.htmlcsscolor.com/preview/32x32/b2f2bb.png
+  [GREEN 2]: https://www.htmlcsscolor.com/hex/b2f2bb
+  [GREEN 3 contrast]: https://colourcontrast.cc/8ce99a/212529
+  [GREEN 3 image]: https://www.htmlcsscolor.com/preview/32x32/8ce99a.png
+  [GREEN 3]: https://www.htmlcsscolor.com/hex/8ce99a
+  [GREEN 4 contrast]: https://colourcontrast.cc/69db7c/212529
+  [GREEN 4 image]: https://www.htmlcsscolor.com/preview/32x32/69db7c.png
+  [GREEN 4]: https://www.htmlcsscolor.com/hex/69db7c
+  [GREEN 5 contrast]: https://colourcontrast.cc/51cf66/212529
+  [GREEN 5 image]: https://www.htmlcsscolor.com/preview/32x32/51cf66.png
+  [GREEN 5]: https://www.htmlcsscolor.com/hex/51cf66
+  [GREEN 6 contrast]: https://colourcontrast.cc/40c057/212529
+  [GREEN 6 image]: https://www.htmlcsscolor.com/preview/32x32/40c057.png
+  [GREEN 6]: https://www.htmlcsscolor.com/hex/40c057
+  [GREEN 7 contrast]: https://colourcontrast.cc/37b24d/212529
+  [GREEN 7 image]: https://www.htmlcsscolor.com/preview/32x32/37b24d.png
+  [GREEN 7]: https://www.htmlcsscolor.com/hex/37b24d
+  [GREEN 8 contrast]: https://colourcontrast.cc/2f9e44/212529
+  [GREEN 8 image]: https://www.htmlcsscolor.com/preview/32x32/2f9e44.png
+  [GREEN 8]: https://www.htmlcsscolor.com/hex/2f9e44
+  [GREEN 9 contrast]: https://colourcontrast.cc/2b8a3e/212529
+  [GREEN 9 image]: https://www.htmlcsscolor.com/preview/32x32/2b8a3e.png
+  [GREEN 9]: https://www.htmlcsscolor.com/hex/2b8a3e
   [green 120° contrast]: https://colourcontrast.cc/00ff00/212529
   [green 120° image]: https://www.htmlcsscolor.com/preview/32x32/00ff00.png
   [green 120°]: https://www.htmlcsscolor.com/hex/00ff00
@@ -507,16 +507,3 @@ teal
     TEAL 7      4.95    https://colourcontrast.cc/0ca678/212529
     TEAL 8      3.91    https://colourcontrast.cc/099268/212529
     TEAL 9      3.08    https://colourcontrast.cc/087f5b/212529
-
-green
-    #00ff00     11.24   https://colourcontrast.cc/00ff00/212529
-    GREEN 0     14.37   https://colourcontrast.cc/ebfbee/212529
-    GREEN 1     13.45   https://colourcontrast.cc/d3f9d8/212529
-    GREEN 2     11.98   https://colourcontrast.cc/b2f2bb/212529
-    GREEN 3     10.46   https://colourcontrast.cc/8ce99a/212529
-    GREEN 4     8.83    https://colourcontrast.cc/69db7c/212529
-    GREEN 5     7.69    https://colourcontrast.cc/51cf66/212529
-    GREEN 6     6.53    https://colourcontrast.cc/40c057/212529
-    GREEN 7     5.61    https://colourcontrast.cc/37b24d/212529
-    GREEN 8     4.48    https://colourcontrast.cc/2f9e44/212529
-    GREEN 9     3.53    https://colourcontrast.cc/2b8a3e/212529
