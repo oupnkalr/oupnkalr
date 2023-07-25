@@ -28,7 +28,7 @@ Bright colors:
 | bright cyan    | TEAL 6   | [![TEAL 6][TEAL 6 image]][TEAL 6]       | [6.05][TEAL 6 contrast]   | `#12b886` | `rgb(18, 184, 134)`  |
 | bright green   | LIME 6   | [![LIME 6][LIME 6 image]][LIME 6]       | [7.58][LIME 6 contrast]   | `#82c91e` | `rgb(130, 201, 30)`  |
 | bright magenta | VIOLET 6 | [![VIOLET 6][VIOLET 6 image]][VIOLET 6] | [3.12][VIOLET 6 contrast] | `#7950f2` | `rgb(121, 80, 242)`  |
-| bright red     | PINK 6   | [![PINK 6][PINK 6 image]][PINK 6]       | [4.14][PINK 6 contrast]   | `#e64980` | `rgb(230, 73, 128)`  |
+| bright red     | PINK 5   | [![PINK 5][PINK 5 image]][PINK 5]       | [5.14][PINK 5 contrast]   | `#f06595` | `rgb(240, 101, 149)` |
 | bright white   | GRAY 0   | [![GRAY 0][GRAY 0 image]][GRAY 0]       | [14.63][GRAY 0 contrast]  | `#f8f9fa` | `rgb(248, 249, 250)` |
 | bright yellow  | ORANGE 6 | [![ORANGE 6][ORANGE 6 image]][ORANGE 6] | [6.00][ORANGE 6 contrast] | `#fd7e14` | `rgb(253, 126, 20)`  |
 
@@ -245,7 +245,7 @@ Bright colors:
     * GRAY 3 is darker white than light gray
     * GRAY 5 is the middle color and near to GRAY 6 (low contrast)
 
-  * **GRAY 6** is the nearest tint to HTML gray by contrast and therefore is
+  * **GRAY 6** is the nearest shade to HTML gray by contrast and therefore is
     chosen as the bright black color
 
     * GRAY 5 is the middle color and near to GRAY 4 (low contrast)
@@ -551,6 +551,13 @@ Bright colors:
   | --------- | :----------------------------------------: | -------------------------- | --------- | ------------------ |
   | pink 330° | [![pink 330°][pink 330° image]][pink 330°] | [4.09][pink 330° contrast] | `#ff0080` | `rgb(255, 0, 128)` |
 
+  Thoughts:
+
+  * **PINK 5** is the first shade above 4.5 contrast and near to pink 330°
+
+    * PINK 4 is lighter pink
+    * PINK 6 is the nearest shade to pink 330° by contrast but unreadable
+
   [PINK 0 contrast]: https://colourcontrast.cc/fff0f6/212529
   [PINK 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff0f6.png
   [PINK 0]: https://www.htmlcsscolor.com/hex/fff0f6
@@ -615,7 +622,7 @@ Bright colors:
     therefore is chosen as the normal red color
 
     * RED 5 is lighter red
-    * RED 7 is the nearest tint to red 0° by contrast but is unreadable
+    * RED 7 is the nearest shade to red 0° by contrast but is unreadable
 
   [RED 0 contrast]: https://colourcontrast.cc/fff5f5/212529
   [RED 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff5f5.png
