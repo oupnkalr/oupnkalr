@@ -233,18 +233,20 @@ Bright colors:
   | HTML light gray | [![light gray][light gray image]][light gray] | [10.30][light gray contrast] | `#d3d3d3` | `rgb(211, 211, 211)` |
 
   Because there is no color wheel for gray (hues in HSL/HSV color models), then
-  HTML colors are used as reference:
+  HTML colors are used as reference.
+
+  Thoughts:
 
   * **GRAY 0** is the lightest tint and therefore is chosen as the foreground
     color and as the bright white color
-  * **GRAY** 4 is the nearest tint to HTML light gray and therefore is chosen as
-    the normal white color
+  * **GRAY** 4 is the nearest tint to HTML light gray by contrast and therefore
+    is chosen as the normal white color
 
-    * GRAY 3 is rather white than light gray
+    * GRAY 3 is darker white than light gray
     * GRAY 5 is the middle color and near to GRAY 6 (low contrast)
 
-  * **GRAY 6** is the nearest tint to HTML gray and therefore is chosen as the
-    bright black color
+  * **GRAY 6** is the nearest tint to HTML gray by contrast and therefore is
+    chosen as the bright black color
 
     * GRAY 5 is the middle color and near to GRAY 4 (low contrast)
     * GRAY 7 is unreadable
@@ -606,6 +608,14 @@ Bright colors:
   | Color  |              Preview              | Contrast                | HEX       | RGB              |
   | ------ | :-------------------------------: | ----------------------- | --------- | ---------------- |
   | red 0° | [![red 0°][red 0° image]][red 0°] | [3.86][red 0° contrast] | `#ff0000` | `rgb(255, 0, 0)` |
+
+  Thoughts:
+
+  * **RED 6** is the first shade above 4.5 contrast and near to red 0° and
+    therefore is chosen as the normal red color
+
+    * RED 5 is lighter red
+    * RED 7 is the nearest tint to red 0° by contrast but is unreadable
 
   [RED 0 contrast]: https://colourcontrast.cc/fff5f5/212529
   [RED 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff5f5.png
