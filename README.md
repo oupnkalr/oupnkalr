@@ -17,7 +17,7 @@ Normal colors:
 | magenta    | GRAPE 6  | [![GRAPE 6][GRAPE 6 image]][GRAPE 6]    | [3.83][GRAPE 6 contrast]  | `#be4bdb` | `rgb(190, 75, 219)`  |
 | red        | RED 6    | [![RED 6][RED 6 image]][RED 6]          | [4.70][RED 6 contrast]    | `#fa5252` | `rgb(250, 82, 82)`   |
 | white      | GRAY 4   | [![GRAY 4][GRAY 4 image]][GRAY 4]       | [10.32][GRAY 4 contrast]  | `#ced4da` | `rgb(206, 212, 218)` |
-| yellow     | YELLOW 6 | [![YELLOW 6][YELLOW 6 image]][YELLOW 6] | [8.28][YELLOW 6 contrast] | `#fab005` | `rgb(250, 176, 5)`   |
+| yellow     | YELLOW 5 | [![YELLOW 5][YELLOW 5 image]][YELLOW 5] | [9.59][YELLOW 5 contrast] | `#fcc419` | `rgb(252, 196, 25)`  |
 
 Bright colors:
 
@@ -806,6 +806,17 @@ Bright colors:
   | Color      |                    Preview                    | Contrast                     | HEX       | RGB                |
   | ---------- | :-------------------------------------------: | ---------------------------- | --------- | ------------------ |
   | yellow 60° | [![yellow 60°][yellow 60° image]][yellow 60°] | [14.37][yellow 60° contrast] | `#ffff00` | `rgb(255, 255, 0)` |
+
+  Because yellow 60° has very high contrast and similar yellow colors by
+  contrast are very light, then lightness is used as a reference.
+
+  Thoughts:
+
+  * **YELLOW 5** is the first non-orange shade and yet near to yellow 60° by
+    lightness and therefore is chosen as the normal yellow color
+
+    * YELLOW 4 is lighter yellow
+    * YELLOW 6 is the nearest shade to yellow 60° by lightness but orangish
 
   [YELLOW 0 contrast]: https://colourcontrast.cc/fff9db/212529
   [YELLOW 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff9db.png
