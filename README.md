@@ -493,6 +493,14 @@ Bright colors:
   | ---------- | :-------------------------------------------: | --------------------------- | --------- | ------------------ |
   | orange 30° | [![orange 30°][orange 30° image]][orange 30°] | [6.13][orange 30° contrast] | `#ff8000` | `rgb(255, 128, 0)` |
 
+  Thoughts:
+
+  * **ORANGE 6** is the nearest shade to orange 30° by contrast and therefore
+    is chosen as the bright yellow color
+
+    * ORANGE 5 is lighter orange
+    * ORANGE 7 is darker orange
+
   [ORANGE 0 contrast]: https://colourcontrast.cc/fff4e6/212529
   [ORANGE 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff4e6.png
   [ORANGE 0]: https://www.htmlcsscolor.com/hex/fff4e6
@@ -553,7 +561,8 @@ Bright colors:
 
   Thoughts:
 
-  * **PINK 5** is the first shade above 4.5 contrast and near to pink 330°
+  * **PINK 5** is the first shade above 4.5 contrast and yet near to pink 330°
+    by contrast and therefore is chosen as the bright red color
 
     * PINK 4 is lighter pink
     * PINK 6 is the nearest shade to pink 330° by contrast but unreadable
@@ -618,8 +627,8 @@ Bright colors:
 
   Thoughts:
 
-  * **RED 6** is the first shade above 4.5 contrast and near to red 0° and
-    therefore is chosen as the normal red color
+  * **RED 6** is the first shade above 4.5 contrast and yet near to red 0° by
+    contrast and therefore is chosen as the normal red color
 
     * RED 5 is lighter red
     * RED 7 is the nearest shade to red 0° by contrast but is unreadable
