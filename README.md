@@ -6,7 +6,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
 ## Colors
 
-Normal colors:
+### Normal colors
 
 | ANSI Color | Color    | Preview                                 | Contrast                  | HEX       | RGB                  |
 | ---------- | -------- | :-------------------------------------: | ------------------------- | --------- | -------------------- |
@@ -19,7 +19,7 @@ Normal colors:
 | white      | GRAY 4   | [![GRAY 4][GRAY 4 image]][GRAY 4]       | [10.32][GRAY 4 contrast]  | `#ced4da` | `rgb(206, 212, 218)` |
 | yellow     | YELLOW 5 | [![YELLOW 5][YELLOW 5 image]][YELLOW 5] | [9.59][YELLOW 5 contrast] | `#fcc419` | `rgb(252, 196, 25)`  |
 
-Bright colors:
+### Bright colors
 
 | ANSI Color     | Color    | Preview                                 | Contrast                  | HEX       | RGB                  |
 | -------------- | -------- | :-------------------------------------: | ------------------------- | --------- | -------------------- |
@@ -31,6 +31,8 @@ Bright colors:
 | bright red     | PINK 5   | [![PINK 5][PINK 5 image]][PINK 5]       | [5.14][PINK 5 contrast]   | `#f06595` | `rgb(240, 101, 149)` |
 | bright white   | GRAY 0   | [![GRAY 0][GRAY 0 image]][GRAY 0]       | [14.63][GRAY 0 contrast]  | `#f8f9fa` | `rgb(248, 249, 250)` |
 | bright yellow  | ORANGE 6 | [![ORANGE 6][ORANGE 6 image]][ORANGE 6] | [6.00][ORANGE 6 contrast] | `#fd7e14` | `rgb(253, 126, 20)`  |
+
+## References
 
 <details>
   <summary>BLUE</summary>
@@ -52,9 +54,10 @@ Bright colors:
 
   Other swatches:
 
-  | Color     |                  Preview                   | Contrast                   | HEX       | RGB                |
-  | --------- | :----------------------------------------: | -------------------------- | --------- | ------------------ |
-  | blue 210° | [![blue 210°][blue 210° image]][blue 210°] | [4.06][blue 210° contrast] | `#0080ff` | `rgb(0, 128, 255)` |
+  | Color            | Preview                                    | Contrast                   | HEX       | RGB                 |
+  | ---------------- | ------------------------------------------ | -------------------------- | --------- | ------------------- |
+  | HTML dodger blue | [![blue][blue image]][blue]                | [4.77][blue contrast]      | `#1e90ff` | `rgb(30, 144, 255)` |
+  | blue 210°        | [![blue 210°][blue 210° image]][blue 210°] | [4.06][blue 210° contrast] | `#0080ff` | `rgb(0, 128, 255)`  |
 
   [BLUE 0 contrast]: https://colourcontrast.cc/e7f5ff/212529
   [BLUE 0 image]: https://www.htmlcsscolor.com/preview/32x32/e7f5ff.png
@@ -89,6 +92,9 @@ Bright colors:
   [blue 210° contrast]: https://colourcontrast.cc/0080ff/212529
   [blue 210° image]: https://www.htmlcsscolor.com/preview/32x32/0080ff.png
   [blue 210°]: https://www.htmlcsscolor.com/hex/0080ff
+  [blue contrast]: https://colourcontrast.cc/1e90ff/212529
+  [blue image]: https://www.htmlcsscolor.com/preview/32x32/1e90ff.png
+  [blue]: https://www.htmlcsscolor.com/hex/1e90ff
 </details>
 <details>
   <summary>CYAN</summary>
@@ -110,9 +116,10 @@ Bright colors:
 
   Other swatches:
 
-  | Color     |                  Preview                   | Contrast                    | HEX       | RGB                |
-  | --------- | :----------------------------------------: | --------------------------- | --------- | ------------------ |
-  | cyan 180° | [![cyan 180°][cyan 180° image]][cyan 180°] | [12.30][cyan 180° contrast] | `#00ffff` | `rgb(0, 255, 255)` |
+  | Color            | Preview                                    | Contrast                    | HEX       | RGB                |
+  | ---------------- | :----------------------------------------: | --------------------------- | --------- | ------------------ |
+  | HTML cyan (aqua) | [![cyan][cyan image]][cyan]                | [12.30][cyan contrast]      | `#00ffff` | `rgb(0, 255, 255)` |
+  | cyan 180°        | [![cyan 180°][cyan 180° image]][cyan 180°] | [12.30][cyan 180° contrast] | `#00ffff` | `rgb(0, 255, 255)` |
 
   [CYAN 0 contrast]: https://colourcontrast.cc/e3fafc/212529
   [CYAN 0 image]: https://www.htmlcsscolor.com/preview/32x32/e3fafc.png
@@ -147,6 +154,9 @@ Bright colors:
   [cyan 180° contrast]: https://colourcontrast.cc/00ffff/212529
   [cyan 180° image]: https://www.htmlcsscolor.com/preview/32x32/00ffff.png
   [cyan 180°]: https://www.htmlcsscolor.com/hex/00ffff
+  [cyan contrast]: https://colourcontrast.cc/00ffff/212529
+  [cyan image]: https://www.htmlcsscolor.com/preview/32x32/00ffff.png
+  [cyan]: https://www.htmlcsscolor.com/hex/00ffff
 </details>
 <details>
   <summary>GRAPE</summary>
@@ -168,9 +178,10 @@ Bright colors:
 
   Other swatches:
 
-  | Color      |                    Preview                    | Contrast                    | HEX       | RGB                |
-  | ---------- | :-------------------------------------------: | --------------------------- | --------- | ------------------ |
-  | grape 300° | [![grape 300°][grape 300° image]][grape 300°] | [4.92][grape 300° contrast] | `#ff00ff` | `rgb(255, 0, 255)` |
+  | Color                  | Preview                                       | Contrast                    | HEX       | RGB                |
+  | ---------------------- | :-------------------------------------------: | --------------------------- | --------- | ------------------ |
+  | HTML magenta (fuchsia) | [![magenta][magenta image]][magenta]          | [4.92][magenta contrast]    | `#ff00ff` | `rgb(255, 0, 255)` |
+  | grape 300°             | [![grape 300°][grape 300° image]][grape 300°] | [4.92][grape 300° contrast] | `#ff00ff` | `rgb(255, 0, 255)` |
 
   [GRAPE 0 contrast]: https://colourcontrast.cc/f8f0fc/212529
   [GRAPE 0 image]: https://www.htmlcsscolor.com/preview/32x32/f8f0fc.png
@@ -205,6 +216,9 @@ Bright colors:
   [grape 300° contrast]: https://colourcontrast.cc/ff00ff/212529
   [grape 300° image]: https://www.htmlcsscolor.com/preview/32x32/ff00ff.png
   [grape 300°]: https://www.htmlcsscolor.com/hex/ff00ff
+  [magenta contrast]: https://colourcontrast.cc/ff00ff/212529
+  [magenta image]: https://www.htmlcsscolor.com/preview/32x32/ff00ff.png
+  [magenta]: https://www.htmlcsscolor.com/hex/ff00ff
 </details>
 <details>
   <summary>GRAY</summary>
@@ -233,7 +247,7 @@ Bright colors:
   | HTML light gray | [![light gray][light gray image]][light gray] | [10.30][light gray contrast] | `#d3d3d3` | `rgb(211, 211, 211)` |
 
   Because there is no color wheel for gray (hues in HSL/HSV color models), then
-  HTML colors are used as reference.
+  only HTML colors are used as reference.
 
   Thoughts:
 
@@ -315,9 +329,13 @@ Bright colors:
 
   Other swatches:
 
-  | Color      |                    Preview                    | Contrast                     | HEX       | RGB              |
-  | ---------- | :-------------------------------------------: | ---------------------------- | --------- | ---------------- |
-  | green 120° | [![green 120°][green 120° image]][green 120°] | [11.24][green 120° contrast] | `#00ff00` | `rgb(0, 255, 0)` |
+  | Color          | Preview                                       | Contrast                     | HEX       | RGB              |
+  | -------------- | :-------------------------------------------: | ---------------------------- | --------- | ---------------- |
+  | HTML green     | [![green][green image]][green]                | [3.00][green contrast]       | `#008000` | `rgb(0, 128, 0)` |
+  | HTML limegreen | [![limegreen][limegreen image]][limegreen]    | [7.28][limegreen contrast]   | `#32cd32` | `rgb(50, 205, 50)` |
+  | green 120°     | [![green 120°][green 120° image]][green 120°] | [11.24][green 120° contrast] | `#00ff00` | `rgb(0, 255, 0)` |
+
+  green 120° is HTML lime
 
   [GREEN 0 contrast]: https://colourcontrast.cc/ebfbee/212529
   [GREEN 0 image]: https://www.htmlcsscolor.com/preview/32x32/ebfbee.png
@@ -352,6 +370,12 @@ Bright colors:
   [green 120° contrast]: https://colourcontrast.cc/00ff00/212529
   [green 120° image]: https://www.htmlcsscolor.com/preview/32x32/00ff00.png
   [green 120°]: https://www.htmlcsscolor.com/hex/00ff00
+  [green contrast]: https://colourcontrast.cc/008000/212529
+  [green image]: https://www.htmlcsscolor.com/preview/32x32/008000.png
+  [green]: https://www.htmlcsscolor.com/hex/008000
+  [limegreen contrast]: https://colourcontrast.cc/32cd32/212529
+  [limegreen image]: https://www.htmlcsscolor.com/preview/32x32/32cd32.png
+  [limegreen]: https://www.htmlcsscolor.com/hex/32cd32
 </details>
 <details>
   <summary>INDIGO</summary>
