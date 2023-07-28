@@ -8,29 +8,29 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
 ### Normal colors
 
-| ANSI Color | Color    | Preview                                 | HEX       | RGB                  |
-| ---------- | -------- | :-------------------------------------: | --------- | -------------------- |
-| black      | GRAY 9   | [![GRAY 9][GRAY 9 image]][GRAY 9]       | `#212529` | `rgb(33, 37, 41)`    |
-| blue       | INDIGO 6 | [![INDIGO 6][INDIGO 6 image]][INDIGO 6] | `#4c6ef5` | `rgb(76, 110, 245)`  |
-| cyan       | CYAN 6   | [![CYAN 6][CYAN 6 image]][CYAN 6]       | `#15aabf` | `rgb(21, 170, 191)`  |
-| green      | GREEN 6  | [![GREEN 6][GREEN 6 image]][GREEN 6]    | `#40c057` | `rgb(64, 192, 87)`   |
-| magenta    | GRAPE 6  | [![GRAPE 6][GRAPE 6 image]][GRAPE 6]    | `#be4bdb` | `rgb(190, 75, 219)`  |
-| red        | RED 6    | [![RED 6][RED 6 image]][RED 6]          | `#fa5252` | `rgb(250, 82, 82)`   |
-| white      | GRAY 4   | [![GRAY 4][GRAY 4 image]][GRAY 4]       | `#ced4da` | `rgb(206, 212, 218)` |
-| yellow     | YELLOW 4 | [![YELLOW 4][YELLOW 4 image]][YELLOW 4] | `#ffd43b` | `rgb(255, 212, 59)`  |
+| ANSI Color | Color    | Preview                                 | Contrast | HEX       | RGB                  |
+| ---------- | -------- | :-------------------------------------: | -------- | --------- | -------------------- |
+| black      | GRAY 9   | [![GRAY 9][GRAY 9 image]][GRAY 9]       | 1.00     | `#212529` | `rgb(33, 37, 41)`    |
+| blue       | INDIGO 6 | [![INDIGO 6][INDIGO 6 image]][INDIGO 6] |          | `#4c6ef5` | `rgb(76, 110, 245)`  |
+| cyan       | CYAN 6   | [![CYAN 6][CYAN 6 image]][CYAN 6]       |          | `#15aabf` | `rgb(21, 170, 191)`  |
+| green      | GREEN 6  | [![GREEN 6][GREEN 6 image]][GREEN 6]    |          | `#40c057` | `rgb(64, 192, 87)`   |
+| magenta    | GRAPE 6  | [![GRAPE 6][GRAPE 6 image]][GRAPE 6]    |          | `#be4bdb` | `rgb(190, 75, 219)`  |
+| red        | RED 6    | [![RED 6][RED 6 image]][RED 6]          | 4.70     | `#fa5252` | `rgb(250, 82, 82)`   |
+| white      | GRAY 4   | [![GRAY 4][GRAY 4 image]][GRAY 4]       | 10.32    | `#ced4da` | `rgb(206, 212, 218)` |
+| yellow     | YELLOW 4 | [![YELLOW 4][YELLOW 4 image]][YELLOW 4] | 10.82    | `#ffd43b` | `rgb(255, 212, 59)`  |
 
 ### Bright colors
 
-| ANSI Color     | Color    | Preview                                 | HEX       | RGB                  |
-| -------------- | -------- | :-------------------------------------: | --------- | -------------------- |
-| bright black   | GRAY 6   | [![GRAY 6][GRAY 6 image]][GRAY 6]       | `#868e96` | `rgb(134, 142, 150)` |
-| bright blue    | BLUE 6   | [![BLUE 6][BLUE 6 image]][BLUE 6]       | `#228be6` | `rgb(34, 139, 230)`  |
-| bright cyan    | TEAL 6   | [![TEAL 6][TEAL 6 image]][TEAL 6]       | `#12b886` | `rgb(18, 184, 134)`  |
-| bright green   | LIME 6   | [![LIME 6][LIME 6 image]][LIME 6]       | `#82c91e` | `rgb(130, 201, 30)`  |
-| bright magenta | VIOLET 6 | [![VIOLET 6][VIOLET 6 image]][VIOLET 6] | `#7950f2` | `rgb(121, 80, 242)`  |
-| bright red     | PINK 5   | [![PINK 5][PINK 5 image]][PINK 5]       | `#f06595` | `rgb(240, 101, 149)` |
-| bright white   | GRAY 0   | [![GRAY 0][GRAY 0 image]][GRAY 0]       | `#f8f9fa` | `rgb(248, 249, 250)` |
-| bright yellow  | ORANGE 5 | [![ORANGE 5][ORANGE 5 image]][ORANGE 5] | `#ff922b` | `rgb(255, 146, 43)`  |
+| ANSI Color     | Color    | Preview                                 | Contrast | HEX       | RGB                  |
+| -------------- | -------- | :-------------------------------------: | -------- | --------- | -------------------- |
+| bright black   | GRAY 6   | [![GRAY 6][GRAY 6 image]][GRAY 6]       | 4.64     | `#868e96` | `rgb(134, 142, 150)` |
+| bright blue    | BLUE 6   | [![BLUE 6][BLUE 6 image]][BLUE 6]       |          | `#228be6` | `rgb(34, 139, 230)`  |
+| bright cyan    | TEAL 6   | [![TEAL 6][TEAL 6 image]][TEAL 6]       |          | `#12b886` | `rgb(18, 184, 134)`  |
+| bright green   | LIME 6   | [![LIME 6][LIME 6 image]][LIME 6]       |          | `#82c91e` | `rgb(130, 201, 30)`  |
+| bright magenta | VIOLET 6 | [![VIOLET 6][VIOLET 6 image]][VIOLET 6] |          | `#7950f2` | `rgb(121, 80, 242)`  |
+| bright red     | PINK 5   | [![PINK 5][PINK 5 image]][PINK 5]       | 5.14     | `#f06595` | `rgb(240, 101, 149)` |
+| bright white   | GRAY 0   | [![GRAY 0][GRAY 0 image]][GRAY 0]       | 14.63    | `#f8f9fa` | `rgb(248, 249, 250)` |
+| bright yellow  | ORANGE 5 | [![ORANGE 5][ORANGE 5 image]][ORANGE 5] | 6.90     | `#ff922b` | `rgb(255, 146, 43)`  |
 
 ## References
 
@@ -893,7 +893,13 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [YELLOW 9 contrast]: https://colourcontrast.cc/e67700/212529
   [YELLOW 9 image]: https://www.htmlcsscolor.com/preview/32x32/e67700.png
   [YELLOW 9]: https://www.htmlcsscolor.com/hex/e67700
+  [gold contrast]: https://colourcontrast.cc/ffd700/212529
+  [gold image]: https://www.htmlcsscolor.com/preview/32x32/ffd700.png
+  [gold]: https://www.htmlcsscolor.com/hex/ffd700
   [yellow 60° contrast]: https://colourcontrast.cc/ffff00/212529
   [yellow 60° image]: https://www.htmlcsscolor.com/preview/32x32/ffff00.png
   [yellow 60°]: https://www.htmlcsscolor.com/hex/ffff00
+  [yellow contrast]: https://colourcontrast.cc/ffff00/212529
+  [yellow image]: https://www.htmlcsscolor.com/preview/32x32/ffff00.png
+  [yellow]: https://www.htmlcsscolor.com/hex/ffff00
 </details>
