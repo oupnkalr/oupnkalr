@@ -26,7 +26,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 | bright black   | GRAY 6   | [![GRAY 6][GRAY 6 image]][GRAY 6]       | 4.64     | `#868e96` | `rgb(134, 142, 150)` |
 | bright blue    | BLUE 6   | [![BLUE 6][BLUE 6 image]][BLUE 6]       |          | `#228be6` | `rgb(34, 139, 230)`  |
 | bright cyan    | TEAL 6   | [![TEAL 6][TEAL 6 image]][TEAL 6]       |          | `#12b886` | `rgb(18, 184, 134)`  |
-| bright green   | LIME 6   | [![LIME 6][LIME 6 image]][LIME 6]       |          | `#82c91e` | `rgb(130, 201, 30)`  |
+| bright green   | LIME 3   | [![LIME 3][LIME 3 image]][LIME 3]       | 11.30    | `#c0eb75` | `rgb(192, 235, 117)` |
 | bright magenta | VIOLET 6 | [![VIOLET 6][VIOLET 6 image]][VIOLET 6] |          | `#7950f2` | `rgb(121, 80, 242)`  |
 | bright red     | PINK 5   | [![PINK 5][PINK 5 image]][PINK 5]       | 5.14     | `#f06595` | `rgb(240, 101, 149)` |
 | bright white   | GRAY 0   | [![GRAY 0][GRAY 0 image]][GRAY 0]       | 14.63    | `#f8f9fa` | `rgb(248, 249, 250)` |
@@ -470,11 +470,13 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Thoughts:
 
-  * **LIME X**
+  * **LIME 3** is the nearest tint to HTML lime by contrast, near to lime 90°
+    by contrast, therefore is chosen as the bright green color
 
-    * ...
-    * ...
-    * HTML lime is actually green 60°
+    * LIME 2 is lighter lime
+    * LIME 4 is darker lime
+    * HTML lime is actually green 60° while HTML green yellow is lighter and
+      HTML yellow green darker lime
 
   [LIME 0 contrast]: https://colourcontrast.cc/f4fce3/212529
   [LIME 0 image]: https://www.htmlcsscolor.com/preview/32x32/f4fce3.png
