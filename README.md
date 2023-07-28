@@ -580,17 +580,21 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Other swatches:
 
-  | Color     |                  Preview                   | Contrast                   | Lightness | HEX       | RGB                |
-  | --------- | :----------------------------------------: | -------------------------- | --------- | --------- | ------------------ |
-  | pink 330° | [![pink 330°][pink 330° image]][pink 330°] | [4.09][pink 330° contrast] | 0.50      | `#ff0080` | `rgb(255, 0, 128)` |
+  | Color          | Preview                                    | Contrast                   | Lightness | HEX       | RGB                  |
+  | -------------- | :----------------------------------------: | -------------------------- | --------- | --------- | -------------------- |
+  | HTML deep pink | [![deep pink][deep pink image]][deep pink] | [4.24][deep pink contrast] | 0.54      | `#ff1493` | `rgb(255, 20, 147)`  |
+  | HTML pink      | [![pink][pink image]][pink]                | [10.03][pink contrast]     | 0.88      | `#ffc0cb` | `rgb(255, 192, 203)` |
+  | pink 330°      | [![pink 330°][pink 330° image]][pink 330°] | [4.09][pink 330° contrast] | 0.50      | `#ff0080` | `rgb(255, 0, 128)`   |
 
   Thoughts:
 
-  * **PINK 5** is the first shade above 4.5 contrast and yet near to pink 330°
-    by contrast and therefore is chosen as the bright red color
+  * **PINK 5** is the first shade above 4.5 contrast, near to pink 330° by
+    contrast, therefore is chosen as the bright red color
 
     * PINK 4 is lighter pink
     * PINK 6 is the nearest shade to pink 330° by contrast but unreadable
+    * HTML pink is very light pink unlike HTML deep pink which is near to pink
+      330°
 
   [PINK 0 contrast]: https://colourcontrast.cc/fff0f6/212529
   [PINK 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff0f6.png
@@ -622,9 +626,15 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [PINK 9 contrast]: https://colourcontrast.cc/a61e4d/212529
   [PINK 9 image]: https://www.htmlcsscolor.com/preview/32x32/a61e4d.png
   [PINK 9]: https://www.htmlcsscolor.com/hex/a61e4d
+  [deep pink contrast]: https://colourcontrast.cc/ff1493/212529
+  [deep pink image]: https://www.htmlcsscolor.com/preview/32x32/ff1493.png
+  [deep pink]: https://www.htmlcsscolor.com/hex/ff1493
   [pink 330° contrast]: https://colourcontrast.cc/ff0080/212529
   [pink 330° image]: https://www.htmlcsscolor.com/preview/32x32/ff0080.png
   [pink 330°]: https://www.htmlcsscolor.com/hex/ff0080
+  [pink contrast]: https://colourcontrast.cc/ffc0cb/212529
+  [pink image]: https://www.htmlcsscolor.com/preview/32x32/ffc0cb.png
+  [pink]: https://www.htmlcsscolor.com/hex/ffc0cb
 </details>
 <details>
   <summary>RED</summary>
@@ -646,14 +656,15 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Other swatches:
 
-  | Color  |              Preview              | Contrast                | Lightness | HEX       | RGB              |
-  | ------ | :-------------------------------: | ----------------------- | --------- | --------- | ---------------- |
-  | red 0° | [![red 0°][red 0° image]][red 0°] | [3.86][red 0° contrast] | 0.50      | `#ff0000` | `rgb(255, 0, 0)` |
+  | Color    |              Preview              | Contrast                | Lightness | HEX       | RGB              |
+  | -------- | :-------------------------------: | ----------------------- | --------- | --------- | ---------------- |
+  | HTML red | [![red][red image]][red]          | [3.86][red contrast]    | 0.50      | `#ff0000` | `rgb(255, 0, 0)` |
+  | red 0°   | [![red 0°][red 0° image]][red 0°] | [3.86][red 0° contrast] | 0.50      | `#ff0000` | `rgb(255, 0, 0)` |
 
   Thoughts:
 
-  * **RED 6** is the first shade above 4.5 contrast and yet near to red 0° by
-    contrast and therefore is chosen as the normal red color
+  * **RED 6** is the first shade above 4.5 contrast, near to red 0° by contrast,
+    therefore is chosen as the normal red color
 
     * RED 5 is lighter red
     * RED 7 is the nearest shade to red 0° by contrast but is unreadable
@@ -691,6 +702,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [red 0° contrast]: https://colourcontrast.cc/ff0000/212529
   [red 0° image]: https://www.htmlcsscolor.com/preview/32x32/ff0000.png
   [red 0°]: https://www.htmlcsscolor.com/hex/ff0000
+  [red contrast]: https://colourcontrast.cc/ff0000/212529
+  [red image]: https://www.htmlcsscolor.com/preview/32x32/ff0000.png
+  [red]: https://www.htmlcsscolor.com/hex/ff0000
 </details>
 <details>
   <summary>TEAL</summary>
