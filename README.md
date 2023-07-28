@@ -327,11 +327,20 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Other swatches:
 
-  | Color          | Preview                                       | Contrast                     | Lightness | HEX       | RGB              |
-  | -------------- | :-------------------------------------------: | ---------------------------- | --------- | --------- | ---------------- |
-  | HTML green     | [![green][green image]][green]                | [3.00][green contrast]       | 0.25      | `#008000` | `rgb(0, 128, 0)` |
-  | HTML limegreen | [![limegreen][limegreen image]][limegreen]    | [7.28][limegreen contrast]   | 0.50      | `#32cd32` | `rgb(50, 205, 50)` |
-  | green 120°     | [![green 120°][green 120° image]][green 120°] | [11.24][green 120° contrast] | 0.50      | `#00ff00` | `rgb(0, 255, 0)` |
+  | Color           | Preview                                       | Contrast                     | Lightness | HEX       | RGB              |
+  | --------------- | :-------------------------------------------: | ---------------------------- | --------- | --------- | ---------------- |
+  | HTML green      | [![green][green image]][green]                | [3.00][green contrast]       | 0.25      | `#008000` | `rgb(0, 128, 0)` |
+  | HTML lime green | [![lime green][lime green image]][lime green] | [7.28][lime green contrast]  | 0.50      | `#32cd32` | `rgb(50, 205, 50)` |
+  | green 120°      | [![green 120°][green 120° image]][green 120°] | [11.24][green 120° contrast] | 0.50      | `#00ff00` | `rgb(0, 255, 0)` |
+
+  Thoughts:
+
+  * **GREEN 5** is the nearest shade to HTML lime green
+
+    * GREEN 4 is lighter green
+    * GREEN 6 is darker green
+    * HTML green is very dark and unreadable while green 120° has very high
+      contrast and is actually HTML lime
 
   [GREEN 0 contrast]: https://colourcontrast.cc/ebfbee/212529
   [GREEN 0 image]: https://www.htmlcsscolor.com/preview/32x32/ebfbee.png
@@ -369,9 +378,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [green contrast]: https://colourcontrast.cc/008000/212529
   [green image]: https://www.htmlcsscolor.com/preview/32x32/008000.png
   [green]: https://www.htmlcsscolor.com/hex/008000
-  [limegreen contrast]: https://colourcontrast.cc/32cd32/212529
-  [limegreen image]: https://www.htmlcsscolor.com/preview/32x32/32cd32.png
-  [limegreen]: https://www.htmlcsscolor.com/hex/32cd32
+  [lime green contrast]: https://colourcontrast.cc/32cd32/212529
+  [lime green image]: https://www.htmlcsscolor.com/preview/32x32/32cd32.png
+  [lime green]: https://www.htmlcsscolor.com/hex/32cd32
 </details>
 <details>
   <summary>INDIGO</summary>
