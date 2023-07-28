@@ -17,7 +17,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 | magenta    | GRAPE 6  | [![GRAPE 6][GRAPE 6 image]][GRAPE 6]    | `#be4bdb` | `rgb(190, 75, 219)`  |
 | red        | RED 6    | [![RED 6][RED 6 image]][RED 6]          | `#fa5252` | `rgb(250, 82, 82)`   |
 | white      | GRAY 4   | [![GRAY 4][GRAY 4 image]][GRAY 4]       | `#ced4da` | `rgb(206, 212, 218)` |
-| yellow     | YELLOW 5 | [![YELLOW 5][YELLOW 5 image]][YELLOW 5] | `#fcc419` | `rgb(252, 196, 25)`  |
+| yellow     | YELLOW 4 | [![YELLOW 4][YELLOW 4 image]][YELLOW 4] | `#ffd43b` | `rgb(255, 212, 59)`  |
 
 ### Bright colors
 
@@ -245,9 +245,6 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | HTML dark gray  | [![dark gray][dark gray image]][dark gray]    | [6.56][dark gray contrast]   | 0.66      | `#d3d3d3` | `rgb(211, 211, 211)` |
   | HTML gray       | [![gray][gray image]][gray]                   | [3.91][gray contrast]        | 0.50      | `#808080` | `rgb(128, 128, 128)` |
   | HTML light gray | [![light gray][light gray image]][light gray] | [10.30][light gray contrast] | 0.83      | `#d3d3d3` | `rgb(211, 211, 211)` |
-
-  Because there is no color wheel for gray (hues in HSL/HSV color models), only
-  HTML colors are used as reference.
 
   Thoughts:
 
@@ -851,20 +848,20 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Other swatches:
 
-  | Color      |                    Preview                    | Contrast                     | Lightness | HEX       | RGB                |
-  | ---------- | :-------------------------------------------: | ---------------------------- | --------- | --------- | ------------------ |
-  | yellow 60° | [![yellow 60°][yellow 60° image]][yellow 60°] | [14.37][yellow 60° contrast] | 0.50      | `#ffff00` | `rgb(255, 255, 0)` |
-
-  Because yellow 60° has very high contrast and similar yellow colors by
-  contrast are very light, then lightness is used as a reference.
+  | Color       | Preview                                       | Contrast                     | Lightness | HEX       | RGB                |
+  | ----------- | :-------------------------------------------: | ---------------------------- | --------- | --------- | ------------------ |
+  | HTML gold   | [![gold][gold image]][gold]                   | [11.00][gold contrast]       | 0.50      | `#ffd700` | `rgb(255, 215, 0)` |
+  | HTML yellow | [![yellow][yellow image]][yellow]             | [14.37][yellow contrast]     | 0.50      | `#ffff00` | `rgb(255, 255, 0)` |
+  | yellow 60°  | [![yellow 60°][yellow 60° image]][yellow 60°] | [14.37][yellow 60° contrast] | 0.50      | `#ffff00` | `rgb(255, 255, 0)` |
 
   Thoughts:
 
-  * **YELLOW 5** is the first non-orange shade and yet near to yellow 60° by
-    lightness and therefore is chosen as the normal yellow color
+  * **YELLOW 4** is the nearest tint to HTML gold by contrast shade, therefore
+    is chosen as the normal yellow color
 
-    * YELLOW 4 is lighter yellow
-    * YELLOW 6 is the nearest shade to yellow 60° by lightness but orangish
+    * YELLOW 3 is lighter yellow
+    * YELLOW 5 is darker yellow
+    * HTML yellow (yellow 30°) has very high contrast as white
 
   [YELLOW 0 contrast]: https://colourcontrast.cc/fff9db/212529
   [YELLOW 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff9db.png
