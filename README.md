@@ -514,17 +514,20 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Other swatches:
 
-  | Color      |                    Preview                    | Contrast                    | Lightness | HEX       | RGB                |
-  | ---------- | :-------------------------------------------: | --------------------------- | --------- | --------- | ------------------ |
-  | orange 30° | [![orange 30°][orange 30° image]][orange 30°] | [6.13][orange 30° contrast] | 0.50      | `#ff8000` | `rgb(255, 128, 0)` |
+  | Color            | Preview                                          | Contrast                     | Lightness | HEX       | RGB                |
+  | ---------------- | :----------------------------------------------: | ---------------------------- | --------- | --------- | ------------------ |
+  | HTML dark orange | [![dark orange][dark orange image]][dark orange] | [6.61][dark orange contrast] | 0.50      | `#ff8c00` | `rgb(255, 140, 0)` |
+  | HTML orange      | [![orange][orange image]][orange]                | [7.81][orange contrast]      | 0.50      | `#ffa500` | `rgb(255, 165, 0)` |
+  | orange 30°       | [![orange 30°][orange 30° image]][orange 30°]    | [6.13][orange 30° contrast]  | 0.50      | `#ff8000` | `rgb(255, 128, 0)` |
 
   Thoughts:
 
-  * **ORANGE 6** is the nearest shade to orange 30° by contrast and therefore
-    is chosen as the bright yellow color
+  * **ORANGE 5** is the nearest shade to HTML dark orange by contrast, near to
+    orange 30° by contrast, therefore is chosen as the bright yellow color
 
-    * ORANGE 5 is lighter orange
-    * ORANGE 7 is darker orange
+    * ORANGE 4 is lighter orange
+    * ORANGE 6 is the nearest shade to orange 30° by contrast, but HTML orange
+      ones are a bit lighter
 
   [ORANGE 0 contrast]: https://colourcontrast.cc/fff4e6/212529
   [ORANGE 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff4e6.png
@@ -556,9 +559,15 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [ORANGE 9 contrast]: https://colourcontrast.cc/d9480f/212529
   [ORANGE 9 image]: https://www.htmlcsscolor.com/preview/32x32/d9480f.png
   [ORANGE 9]: https://www.htmlcsscolor.com/hex/d9480f
+  [dark orange contrast]: https://colourcontrast.cc/ff8c00/212529
+  [dark orange image]: https://www.htmlcsscolor.com/preview/32x32/ff8c00.png
+  [dark orange]: https://www.htmlcsscolor.com/hex/ff8c00
   [orange 30° contrast]: https://colourcontrast.cc/ff8000/212529
   [orange 30° image]: https://www.htmlcsscolor.com/preview/32x32/ff8000.png
   [orange 30°]: https://www.htmlcsscolor.com/hex/ff8000
+  [orange contrast]: https://colourcontrast.cc/ffa500/212529
+  [orange image]: https://www.htmlcsscolor.com/preview/32x32/ffa500.png
+  [orange]: https://www.htmlcsscolor.com/hex/ffa500
 </details>
 <details>
   <summary>PINK</summary>
