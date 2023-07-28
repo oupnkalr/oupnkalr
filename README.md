@@ -13,7 +13,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 | black      | GRAY 9   | [![GRAY 9][GRAY 9 image]][GRAY 9]       | 1.00     | `#212529` | `rgb(33, 37, 41)`    |
 | blue       | INDIGO 6 | [![INDIGO 6][INDIGO 6 image]][INDIGO 6] |          | `#4c6ef5` | `rgb(76, 110, 245)`  |
 | cyan       | CYAN 6   | [![CYAN 6][CYAN 6 image]][CYAN 6]       |          | `#15aabf` | `rgb(21, 170, 191)`  |
-| green      | GREEN 6  | [![GREEN 6][GREEN 6 image]][GREEN 6]    |          | `#40c057` | `rgb(64, 192, 87)`   |
+| green      | GREEN 5  | [![GREEN 5][GREEN 5 image]][GREEN 5]    | 7.69     | `#51cf66` | `rgb(81, 207, 102)`  |
 | magenta    | GRAPE 6  | [![GRAPE 6][GRAPE 6 image]][GRAPE 6]    |          | `#be4bdb` | `rgb(190, 75, 219)`  |
 | red        | RED 6    | [![RED 6][RED 6 image]][RED 6]          | 4.70     | `#fa5252` | `rgb(250, 82, 82)`   |
 | white      | GRAY 4   | [![GRAY 4][GRAY 4 image]][GRAY 4]       | 10.32    | `#ced4da` | `rgb(206, 212, 218)` |
@@ -335,7 +335,8 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Thoughts:
 
-  * **GREEN 5** is the nearest shade to HTML lime green
+  * **GREEN 5** is the nearest shade to HTML lime green by contrast, therefore
+    is chosen as the normal green color
 
     * GREEN 4 is lighter green
     * GREEN 6 is darker green
