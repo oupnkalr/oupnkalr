@@ -333,8 +333,6 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | HTML limegreen | [![limegreen][limegreen image]][limegreen]    | [7.28][limegreen contrast]   | 0.50      | `#32cd32` | `rgb(50, 205, 50)` |
   | green 120°     | [![green 120°][green 120° image]][green 120°] | [11.24][green 120° contrast] | 0.50      | `#00ff00` | `rgb(0, 255, 0)` |
 
-  green 120° is HTML lime
-
   [GREEN 0 contrast]: https://colourcontrast.cc/ebfbee/212529
   [GREEN 0 image]: https://www.htmlcsscolor.com/preview/32x32/ebfbee.png
   [GREEN 0]: https://www.htmlcsscolor.com/hex/ebfbee
@@ -453,9 +451,20 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Other swatches:
 
-  | Color    |                 Preview                 | Contrast                   | Lightness | HEX       | RGB                |
-  | -------- | :-------------------------------------: | -------------------------- | --------- | --------- | ------------------ |
-  | lime 90° | [![lime 90°][lime 90° image]][lime 90°] | [11.92][lime 90° contrast] | 0.50      | `#80ff00` | `rgb(128, 255, 0)` |
+  | Color             | Preview                                             | Contrast                       | Lightness | HEX       | RGB                 |
+  | ----------------- | :-------------------------------------------------: | ------------------------------ | --------- | --------- | ------------------- |
+  | HTML green yellow | [![green yellow][green yellow image]][green yellow] | [12.58][green yellow contrast] | 0.59      | `#adff2f` | `rgb(173, 255, 47)` |
+  | HTML lime         | [![lime][lime image]][lime]                         | [11.24][lime contrast]         | 0.50      | `#00ff00` | `rgb(0, 255, 0)`    |
+  | HTML yellow green | [![yellow green][yellow green image]][yellow green] | [8.19][yellow green contrast]  | 0.50      | `#9acd32` | `rgb(154, 205, 50)` |
+  | lime 90°          | [![lime 90°][lime 90° image]][lime 90°]             | [11.92][lime 90° contrast]     | 0.50      | `#80ff00` | `rgb(128, 255, 0)`  |
+
+  Thoughts:
+
+  * **LIME X**
+
+    * ...
+    * ...
+    * HTML lime is actually green 60°
 
   [LIME 0 contrast]: https://colourcontrast.cc/f4fce3/212529
   [LIME 0 image]: https://www.htmlcsscolor.com/preview/32x32/f4fce3.png
@@ -487,9 +496,18 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [LIME 9 contrast]: https://colourcontrast.cc/5c940d/212529
   [LIME 9 image]: https://www.htmlcsscolor.com/preview/32x32/5c940d.png
   [LIME 9]: https://www.htmlcsscolor.com/hex/5c940d
+  [green yellow contrast]: https://colourcontrast.cc/adff2f/212529
+  [green yellow image]: https://www.htmlcsscolor.com/preview/32x32/adff2f.png
+  [green yellow]: https://www.htmlcsscolor.com/hex/adff2f
   [lime 90° contrast]: https://colourcontrast.cc/80ff00/212529
   [lime 90° image]: https://www.htmlcsscolor.com/preview/32x32/80ff00.png
   [lime 90°]: https://www.htmlcsscolor.com/hex/80ff00
+  [lime contrast]: https://colourcontrast.cc/00ff00/212529
+  [lime image]: https://www.htmlcsscolor.com/preview/32x32/00ff00.png
+  [lime]: https://www.htmlcsscolor.com/hex/00ff00
+  [yellow green contrast]: https://colourcontrast.cc/9acd32/212529
+  [yellow green image]: https://www.htmlcsscolor.com/preview/32x32/9acd32.png
+  [yellow green]: https://www.htmlcsscolor.com/hex/9acd32
 </details>
 <details>
   <summary>ORANGE</summary>
