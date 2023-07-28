@@ -525,8 +525,8 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   * **ORANGE 5** is the nearest shade to HTML dark orange by contrast, near to
     orange 30° by contrast, therefore is chosen as the bright yellow color
 
-    * ORANGE 4 is lighter orange
-    * ORANGE 6 is the nearest shade to orange 30° by contrast, but HTML orange
+    * ORANGE 4 is lighter orange
+    * ORANGE 6 is the nearest shade to orange 30° by contrast, but HTML orange
       ones are a bit lighter
 
   [ORANGE 0 contrast]: https://colourcontrast.cc/fff4e6/212529
