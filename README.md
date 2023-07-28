@@ -30,7 +30,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 | bright magenta | VIOLET 6 | [![VIOLET 6][VIOLET 6 image]][VIOLET 6] | `#7950f2` | `rgb(121, 80, 242)`  |
 | bright red     | PINK 5   | [![PINK 5][PINK 5 image]][PINK 5]       | `#f06595` | `rgb(240, 101, 149)` |
 | bright white   | GRAY 0   | [![GRAY 0][GRAY 0 image]][GRAY 0]       | `#f8f9fa` | `rgb(248, 249, 250)` |
-| bright yellow  | ORANGE 6 | [![ORANGE 6][ORANGE 6 image]][ORANGE 6] | `#fd7e14` | `rgb(253, 126, 20)`  |
+| bright yellow  | ORANGE 5 | [![ORANGE 5][ORANGE 5 image]][ORANGE 5] | `#ff922b` | `rgb(255, 146, 43)`  |
 
 ## References
 
