@@ -246,27 +246,28 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | HTML gray       | [![gray][gray image]][gray]                   | [3.91][gray contrast]        | 0.50      | `#808080` | `rgb(128, 128, 128)` |
   | HTML light gray | [![light gray][light gray image]][light gray] | [10.30][light gray contrast] | 0.83      | `#d3d3d3` | `rgb(211, 211, 211)` |
 
-  Because there is no color wheel for gray (hues in HSL/HSV color models), then
-  only HTML colors are used as reference.
+  Because there is no color wheel for gray (hues in HSL/HSV color models), only
+  HTML colors are used as reference.
 
   Thoughts:
 
-  * **GRAY 0** is the lightest tint and therefore is chosen as the foreground
-    color and as the bright white color
-  * **GRAY** 4 is the nearest tint to HTML light gray by contrast and therefore
-    is chosen as the normal white color
+  * **GRAY 0** is the lightest tint, therefore is chosen as the foreground color
+    and as the bright white color
+  * **GRAY** 4 is the nearest tint to HTML light gray by contrast, has the same
+    lightness as HTML light gray, therefore is chosen as the normal white color
 
     * GRAY 3 is darker white than light gray
-    * GRAY 5 is the middle color and near to GRAY 6 (low contrast)
+    * GRAY 4 is the middle tone and would have low contrast to GRAY 5
 
-  * **GRAY 6** is the nearest shade to HTML gray by contrast and therefore is
-    chosen as the bright black color
+  * **GRAY 6** is the nearest shade to HTML gray by contrast and lightness, the
+    first shade above 4.5 contrast, therefore is chosen as the bright black
+    color
 
-    * GRAY 5 is the middle color and near to GRAY 4 (low contrast)
+    * GRAY 5 is the middle tone and would have low contrast to GRAY 4
     * GRAY 7 is unreadable
     * HTML dark gray is surprisingly lighter than HTML gray
 
-  * **GRAY 9** is the darkest shade and therefore is chosen as the background
+  * **GRAY 9** is the darkest shade, therefore is chosen as the background
     color and as the normal black color
 
   [GRAY 0 contrast]: https://colourcontrast.cc/f8f9fa/212529
