@@ -66,8 +66,8 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
     by contrast, therefore is chosen as the bright blue color
   * BLUE 6 is the nearest shade to HTML dodger blue by contrast, but the
     contrast is below 4.5
-  * HTML blue is very dark and blue 210° is bright, both do not resemble Open
-    color blue swatches unlike HTML dodger blue
+  * HTML blue is very dark and blue 210° is bright, but both do not resemble
+    Open color blue swatches unlike HTML dodger blue
 
   [BLUE 0 contrast]: https://colourcontrast.cc/e7f5ff/212529
   [BLUE 0 image]: https://www.htmlcsscolor.com/preview/32x32/e7f5ff.png
@@ -139,8 +139,8 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   * **CYAN 3** is the nearest tint to HTML turquoise by contrast, therefore is
     chosen as the normal cyan color
-  * HTML cyan (aqua) and cyan 180° are equal and bright, both do not resemble
-    Open color cyan swatches unlike HTML turquoise
+  * HTML cyan (aqua) and cyan 180° are equal and bright, but both do not
+    resemble Open color cyan swatches unlike HTML turquoise
 
   [CYAN 0 contrast]: https://colourcontrast.cc/e3fafc/212529
   [CYAN 0 image]: https://www.htmlcsscolor.com/preview/32x32/e3fafc.png
@@ -212,7 +212,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   * **GRAPE 4** is the nearest tint to HTML orchid by contrast, therefore is
     chosen as the normal magenta color
-  * HTML magenta (fuchsia) and grape 300° are equal and bright, both do not
+  * HTML magenta (fuchsia) and grape 300° are equal and bright, but both do not
     resemble Open color grape swatches unlike HTML orchid
 
   [GRAPE 0 contrast]: https://colourcontrast.cc/f8f0fc/212529
@@ -358,7 +358,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   * **GREEN 5** is the nearest shade to HTML lime green by contrast, therefore
     is chosen as the normal green color
-  * HTML green is very dark and green 120° is bright, both do not resemble
+  * HTML green is very dark and green 120° is bright, but both do not resemble
     Open color green swatches unlike HTML lime green
 
   [GREEN 0 contrast]: https://colourcontrast.cc/ebfbee/212529
@@ -880,6 +880,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   | Color       |                     Preview                      | Contrast                     | Lightness | HEX       | RGB                |
   | ----------- | :----------------------------------------------: | ---------------------------- | --------- | --------- | ------------------ |
+  | HTML violet | [![violet][violet image]][violet] | [6.66][violet contrast] | 0.72      | `#ee82ee` | `rgb(128, 0, 255)` |
   | violet 270° | [![violet 270°][violet 270° image]][violet 270°] | [2.47][violet 270° contrast] | 0.50      | `#8000ff` | `rgb(128, 0, 255)` |
 
   [VIOLET 0 contrast]: https://colourcontrast.cc/f3f0ff/212529
@@ -915,6 +916,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [violet 270° contrast]: https://colourcontrast.cc/8000ff/212529
   [violet 270° image]: https://www.htmlcsscolor.com/preview/32x32/8000ff.png
   [violet 270°]: https://www.htmlcsscolor.com/hex/8000ff
+  [violet contrast]: https://colourcontrast.cc/ee82ee/212529
+  [violet image]: https://www.htmlcsscolor.com/preview/32x32/ee82ee.png
+  [violet]: https://www.htmlcsscolor.com/hex/ee82ee
 </details>
 <details>
   <summary>YELLOW</summary>
@@ -944,12 +948,10 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Thoughts:
 
-  * **YELLOW 4** is the nearest tint to HTML gold by contrast shade, therefore
-    is chosen as the normal yellow color
-
-    * YELLOW 3 is lighter yellow
-    * YELLOW 5 is darker yellow
-    * HTML yellow (yellow 30°) has very high contrast as white
+  * **YELLOW 4** is the nearest tint to HTML gold by contrast, therefore is
+    chosen as the normal yellow color
+  * HTML yellow and yellow 30° are equal and bright, but both do not resemble
+    Open color yellow swatches unlike HTML gold
 
   [YELLOW 0 contrast]: https://colourcontrast.cc/fff9db/212529
   [YELLOW 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff9db.png
