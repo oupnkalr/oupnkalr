@@ -24,7 +24,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 | ANSI Color     | Color    | Preview                                 | Contrast | HEX       | RGB                  |
 | -------------- | -------- | :-------------------------------------: | -------- | --------- | -------------------- |
 | bright black   | GRAY 6   | [![GRAY 6][GRAY 6 image]][GRAY 6]       | 4.64     | `#868e96` | `rgb(134, 142, 150)` |
-| bright blue    | BLUE 6   | [![BLUE 6][BLUE 6 image]][BLUE 6]       |          | `#228be6` | `rgb(34, 139, 230)`  |
+| bright blue    | BLUE 5   | [![BLUE 5][BLUE 5 image]][BLUE 5]       | 5.16     | `#339af0` | `rgb(51, 154, 240)`  |
 | bright cyan    | TEAL 4   | [![TEAL 4][TEAL 4 image]][TEAL 4]       | 8.57     | `#38d9a9` | `rgb(56, 217, 169)`  |
 | bright green   | LIME 4   | [![LIME 4][LIME 4 image]][LIME 4]       | 10.12    | `#a9e34b` | `rgb(169, 227, 75)`  |
 | bright magenta | VIOLET 6 | [![VIOLET 6][VIOLET 6 image]][VIOLET 6] |          | `#7950f2` | `rgb(121, 80, 242)`  |
@@ -57,9 +57,17 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | Color              |                        Preview                         | Contrast                       | Lightness | HEX       | RGB                 |
   | ------------------ | :----------------------------------------------------: | ------------------------------ | --------- | --------- | ------------------- |
   | HTML blue          |              [![blue][blue image]][blue]               | [1.80][blue contrast]          | 0.50      | `#0000ff` | `rgb(0, 0, 255)`    |
-  | HTML deep sky blue | [![deep sky blue][deep sky blue image]][deep sky blue] | [7.27][deep sky blue contrast] | 0.50      | `#00bfff` | `rgb(0, 191, 255)`  |
   | HTML dodger blue   |    [![dodger blue][dodger blue image]][dodger blue]    | [4.77][dodger blue contrast]   | 0.56      | `#1e90ff` | `rgb(30, 144, 255)` |
   | blue 210°          |       [![blue 210°][blue 210° image]][blue 210°]       | [4.06][blue 210° contrast]     | 0.50      | `#0080ff` | `rgb(0, 128, 255)`  |
+
+  Thoughts:
+
+  * **BLUE 5** is the first shade above 4.5 contrast and yet near to HTML
+    dodger blue and blue 210° by contrast, therefore is chosen as the bright
+    blue color
+  * BLUE 6 is the nearest shade to HTML dodger blue and blue 210° by contrast,
+    but the contrast is below 4.5
+  * HTML blue is very dark and does not resemble Open color blue swatches
 
   [BLUE 0 contrast]: https://colourcontrast.cc/e7f5ff/212529
   [BLUE 0 image]: https://www.htmlcsscolor.com/preview/32x32/e7f5ff.png
@@ -97,9 +105,6 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [blue contrast]: https://colourcontrast.cc/0000ff/212529
   [blue image]: https://www.htmlcsscolor.com/preview/32x32/0000ff.png
   [blue]: https://www.htmlcsscolor.com/hex/0000ff
-  [deep sky blue contrast]: https://colourcontrast.cc/00bfff/212529
-  [deep sky blue image]: https://www.htmlcsscolor.com/preview/32x32/00bfff.png
-  [deep sky blue]: https://www.htmlcsscolor.com/hex/00bfff
   [dodger blue contrast]: https://colourcontrast.cc/1e90ff/212529
   [dodger blue image]: https://www.htmlcsscolor.com/preview/32x32/1e90ff.png
   [dodger blue]: https://www.htmlcsscolor.com/hex/1e90ff
