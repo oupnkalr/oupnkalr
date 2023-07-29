@@ -116,10 +116,11 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Other swatches:
 
-  | Color            | Preview                                    | Contrast                    | Lightness | HEX       | RGB                |
-  | ---------------- | :----------------------------------------: | --------------------------- | --------- | --------- | ------------------ |
-  | HTML cyan (aqua) | [![cyan][cyan image]][cyan]                | [12.30][cyan contrast]      | 0.5       | `#00ffff` | `rgb(0, 255, 255)` |
-  | cyan 180°        | [![cyan 180°][cyan 180° image]][cyan 180°] | [12.30][cyan 180° contrast] | 0.5       | `#00ffff` | `rgb(0, 255, 255)` |
+  | Color            | Preview                                    | Contrast                    | Lightness | HEX       | RGB                 |
+  | ---------------- | :----------------------------------------: | --------------------------- | --------- | --------- | ------------------- |
+  | HTML cyan (aqua) | [![cyan][cyan image]][cyan]                | [12.30][cyan contrast]      | 0.5       | `#00ffff` | `rgb(0, 255, 255)`  |
+  | HTML turquoise   | [![turquoise][turquoise image]][turquoise] | [9.40][turquoise contrast]  | 0.56      | `#40e0d0` | `rgb(64, 224, 208)` |
+  | cyan 180°        | [![cyan 180°][cyan 180° image]][cyan 180°] | [12.30][cyan 180° contrast] | 0.5       | `#00ffff` | `rgb(0, 255, 255)`  |
 
   [CYAN 0 contrast]: https://colourcontrast.cc/e3fafc/212529
   [CYAN 0 image]: https://www.htmlcsscolor.com/preview/32x32/e3fafc.png
@@ -157,6 +158,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [cyan contrast]: https://colourcontrast.cc/00ffff/212529
   [cyan image]: https://www.htmlcsscolor.com/preview/32x32/00ffff.png
   [cyan]: https://www.htmlcsscolor.com/hex/00ffff
+  [turquoise contrast]: https://colourcontrast.cc/40e0d0/212529
+  [turquoise image]: https://www.htmlcsscolor.com/preview/32x32/40e0d0.png
+  [turquoise]: https://www.htmlcsscolor.com/hex/40e0d0
 </details>
 <details>
   <summary>GRAPE</summary>
@@ -762,9 +766,11 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Other swatches:
 
-  | Color     |                  Preview                   | Contrast                    | Lightness | HEX       | RGB                |
-  | --------- | :----------------------------------------: | --------------------------- | --------- | --------- | ------------------ |
-  | teal 150° | [![teal 150°][teal 150° image]][teal 150°] | [11.47][teal 150° contrast] | 0.50      | `#00ff80` | `rgb(0, 255, 128)` |
+  | Color           |                  Preview                      | Contrast                     | Lightness | HEX       | RGB                  |
+  | --------------- | :-------------------------------------------: | ---------------------------- | --------- | --------- | -------------------- |
+  | HTML aquamarine | [![aquamarine][aquamarine image]][aquamarine] | [12.60][aquamarine contrast] | 0.75      | `#7fffd4` | `rgb(127, 255, 212)` |
+  | HTML teal       | [![teal][teal image]][teal]                   | [3.23][teal contrast]        | 0.25      | `#008080` | `rgb(0, 128, 128)`   |
+  | teal 150°       | [![teal 150°][teal 150° image]][teal 150°]    | [11.47][teal 150° contrast]  | 0.50      | `#00ff80` | `rgb(0, 255, 128)`   |
 
   [TEAL 0 contrast]: https://colourcontrast.cc/e6fcf5/212529
   [TEAL 0 image]: https://www.htmlcsscolor.com/preview/32x32/e6fcf5.png
@@ -796,9 +802,15 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [TEAL 9 contrast]: https://colourcontrast.cc/087f5b/212529
   [TEAL 9 image]: https://www.htmlcsscolor.com/preview/32x32/087f5b.png
   [TEAL 9]: https://www.htmlcsscolor.com/hex/087f5b
+  [aquamarine contrast]: https://colourcontrast.cc/7fffd4/212529
+  [aquamarine image]: https://www.htmlcsscolor.com/preview/32x32/7fffd4.png
+  [aquamarine]: https://www.htmlcsscolor.com/hex/7fffd4
   [teal 150° contrast]: https://colourcontrast.cc/00ff80/212529
   [teal 150° image]: https://www.htmlcsscolor.com/preview/32x32/00ff80.png
   [teal 150°]: https://www.htmlcsscolor.com/hex/00ff80
+  [teal contrast]: https://colourcontrast.cc/008080/212529
+  [teal image]: https://www.htmlcsscolor.com/preview/32x32/008080.png
+  [teal]: https://www.htmlcsscolor.com/hex/008080
 </details>
 <details>
   <summary>VIOLET</summary>
