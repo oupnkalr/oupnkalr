@@ -116,11 +116,12 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Other swatches:
 
-  | Color            |                  Preview                   | Contrast                    | Lightness | HEX       | RGB                 |
-  | ---------------- | :----------------------------------------: | --------------------------- | --------- | --------- | ------------------- |
-  | HTML cyan (aqua) |        [![cyan][cyan image]][cyan]         | [12.30][cyan contrast]      | 0.50      | `#00ffff` | `rgb(0, 255, 255)`  |
-  | HTML turquoise   | [![turquoise][turquoise image]][turquoise] | [9.40][turquoise contrast]  | 0.56      | `#40e0d0` | `rgb(64, 224, 208)` |
-  | cyan 180°        | [![cyan 180°][cyan 180° image]][cyan 180°] | [12.30][cyan 180° contrast] | 0.50      | `#00ffff` | `rgb(0, 255, 255)`  |
+  | Color                 |                             Preview                             | Contrast                          | Lightness | HEX       | RGB                 |
+  | --------------------- | :-------------------------------------------------------------: | --------------------------------- | --------- | --------- | ------------------- |
+  | HTML cyan (aqua)      |                   [![cyan][cyan image]][cyan]                   | [12.30][cyan contrast]            | 0.50      | `#00ffff` | `rgb(0, 255, 255)`  |
+  | HTML medium turquoise | [![medium turquoise][medium turquoise image]][medium turquoise] | [8.28][medium turquoise contrast] | 0.55      | `#48d1cc` | `rgb(72, 209, 204)` |
+  | HTML turquoise        |           [![turquoise][turquoise image]][turquoise]            | [9.40][turquoise contrast]        | 0.56      | `#40e0d0` | `rgb(64, 224, 208)` |
+  | cyan 180°             |           [![cyan 180°][cyan 180° image]][cyan 180°]            | [12.30][cyan 180° contrast]       | 0.50      | `#00ffff` | `rgb(0, 255, 255)`  |
 
   [CYAN 0 contrast]: https://colourcontrast.cc/e3fafc/212529
   [CYAN 0 image]: https://www.htmlcsscolor.com/preview/32x32/e3fafc.png
@@ -158,6 +159,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [cyan contrast]: https://colourcontrast.cc/00ffff/212529
   [cyan image]: https://www.htmlcsscolor.com/preview/32x32/00ffff.png
   [cyan]: https://www.htmlcsscolor.com/hex/00ffff
+  [medium turquoise contrast]: https://colourcontrast.cc/48d1cc/212529
+  [medium turquoise image]: https://www.htmlcsscolor.com/preview/32x32/48d1cc.png
+  [medium turquoise]: https://www.htmlcsscolor.com/hex/48d1cc
   [turquoise contrast]: https://colourcontrast.cc/40e0d0/212529
   [turquoise image]: https://www.htmlcsscolor.com/preview/32x32/40e0d0.png
   [turquoise]: https://www.htmlcsscolor.com/hex/40e0d0
