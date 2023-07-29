@@ -54,10 +54,12 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Other swatches:
 
-  | Color            |                  Preview                   | Contrast                   | Lightness | HEX       | RGB                 |
-  | ---------------- | :----------------------------------------: | -------------------------- | --------- | --------- | ------------------- |
-  | HTML dodger blue |        [![blue][blue image]][blue]         | [4.77][blue contrast]      | 0.56      | `#1e90ff` | `rgb(30, 144, 255)` |
-  | blue 210°        | [![blue 210°][blue 210° image]][blue 210°] | [4.06][blue 210° contrast] | 0.50      | `#0080ff` | `rgb(0, 128, 255)`  |
+  | Color              |                        Preview                         | Contrast                       | Lightness | HEX       | RGB                 |
+  | ------------------ | :----------------------------------------------------: | ------------------------------ | --------- | --------- | ------------------- |
+  | HTML blue          |              [![blue][blue image]][blue]               | [1.80][blue contrast]          | 0.50      | `#0000ff` | `rgb(0, 0, 255)`    |
+  | HTML deep sky blue | [![deep sky blue][deep sky blue image]][deep sky blue] | [7.27][deep sky blue contrast] | 0.50      | `#00bfff` | `rgb(0, 191, 255)`  |
+  | HTML dodger blue   |    [![dodger blue][dodger blue image]][dodger blue]    | [4.77][dodger blue contrast]   | 0.56      | `#1e90ff` | `rgb(30, 144, 255)` |
+  | blue 210°          |       [![blue 210°][blue 210° image]][blue 210°]       | [4.06][blue 210° contrast]     | 0.50      | `#0080ff` | `rgb(0, 128, 255)`  |
 
   [BLUE 0 contrast]: https://colourcontrast.cc/e7f5ff/212529
   [BLUE 0 image]: https://www.htmlcsscolor.com/preview/32x32/e7f5ff.png
@@ -92,9 +94,15 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [blue 210° contrast]: https://colourcontrast.cc/0080ff/212529
   [blue 210° image]: https://www.htmlcsscolor.com/preview/32x32/0080ff.png
   [blue 210°]: https://www.htmlcsscolor.com/hex/0080ff
-  [blue contrast]: https://colourcontrast.cc/1e90ff/212529
-  [blue image]: https://www.htmlcsscolor.com/preview/32x32/1e90ff.png
-  [blue]: https://www.htmlcsscolor.com/hex/1e90ff
+  [blue contrast]: https://colourcontrast.cc/0000ff/212529
+  [blue image]: https://www.htmlcsscolor.com/preview/32x32/0000ff.png
+  [blue]: https://www.htmlcsscolor.com/hex/0000ff
+  [deep sky blue contrast]: https://colourcontrast.cc/00bfff/212529
+  [deep sky blue image]: https://www.htmlcsscolor.com/preview/32x32/00bfff.png
+  [deep sky blue]: https://www.htmlcsscolor.com/hex/00bfff
+  [dodger blue contrast]: https://colourcontrast.cc/1e90ff/212529
+  [dodger blue image]: https://www.htmlcsscolor.com/preview/32x32/1e90ff.png
+  [dodger blue]: https://www.htmlcsscolor.com/hex/1e90ff
 </details>
 <details>
   <summary>CYAN</summary>
@@ -779,7 +787,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | ------------------------ | :----------------------------------------------------------------------: | ------------------------------------- | --------- | --------- | -------------------- |
   | HTML aquamarine          |              [![aquamarine][aquamarine image]][aquamarine]               | [12.60][aquamarine contrast]          | 0.75      | `#7fffd4` | `rgb(127, 255, 212)` |
   | HTML medium aquamarine   |    [![medium aquamarine][medium aquamarine image]][medium aquamarine]    | [7.99][medium aquamarine contrast]    | 0.60      | `#66cdaa` | `rgb(102, 205, 170)` |
-  | HTML medium spring green | [![medium spring green][medium spring green image]][medium spring green] | [11.47][medium spring green contrast] | 0.50      | `#00fa9a` | `rgb(0, 250, 154)`   |
+  | HTML medium spring green | [![medium spring green][medium spring green image]][medium spring green] | [11.12][medium spring green contrast] | 0.49      | `#00fa9a` | `rgb(0, 250, 154)`   |
   | HTML spring green        |           [![spring green][spring green image]][spring green]            | [11.47][spring green contrast]        | 0.50      | `#00ff7f` | `rgb(0, 255, 127)`   |
   | HTML teal                |                       [![teal][teal image]][teal]                        | [3.23][teal contrast]                 | 0.25      | `#008080` | `rgb(0, 128, 128)`   |
   | teal 150°                |                [![teal 150°][teal 150° image]][teal 150°]                | [11.47][teal 150° contrast]           | 0.50      | `#00ff80` | `rgb(0, 255, 128)`   |
