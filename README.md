@@ -12,7 +12,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 | ---------- | -------- | :-------------------------------------: | -------- | --------- | -------------------- |
 | black      | GRAY 9   | [![GRAY 9][GRAY 9 image]][GRAY 9]       | 1.00     | `#212529` | `rgb(33, 37, 41)`    |
 | blue       | INDIGO 6 | [![INDIGO 6][INDIGO 6 image]][INDIGO 6] |          | `#4c6ef5` | `rgb(76, 110, 245)`  |
-| cyan       | CYAN 4   | [![CYAN 4][CYAN 4 image]][CYAN 4]       | 7.76     | `#3bc9db` | `rgb(59, 201, 219)`  |
+| cyan       | CYAN 3   | [![CYAN 3][CYAN 3 image]][CYAN 3]       | 9.30     | `#66d9e8` | `rgb(102, 217, 232)` |
 | green      | GREEN 5  | [![GREEN 5][GREEN 5 image]][GREEN 5]    | 7.69     | `#51cf66` | `rgb(81, 207, 102)`  |
 | magenta    | GRAPE 6  | [![GRAPE 6][GRAPE 6 image]][GRAPE 6]    |          | `#be4bdb` | `rgb(190, 75, 219)`  |
 | red        | RED 6    | [![RED 6][RED 6 image]][RED 6]          | 4.70     | `#fa5252` | `rgb(250, 82, 82)`   |
@@ -62,12 +62,12 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Thoughts:
 
-  * **BLUE 5** is the first shade above 4.5 contrast and yet near to HTML
-    dodger blue and blue 210° by contrast, therefore is chosen as the bright
-    blue color
+  * **BLUE 5** is the first shade above 4.5 contrast, near to HTML dodger blue
+    and blue 210° by contrast, therefore is chosen as the bright blue color
   * BLUE 6 is the nearest shade to HTML dodger blue and blue 210° by contrast,
     but the contrast is below 4.5
-  * HTML blue is very dark and does not resemble Open color blue swatches
+  * HTML blue is very dark and does not resemble Open color blue swatches unlike
+    HTML dodger blue
 
   [BLUE 0 contrast]: https://colourcontrast.cc/e7f5ff/212529
   [BLUE 0 image]: https://www.htmlcsscolor.com/preview/32x32/e7f5ff.png
@@ -129,13 +129,18 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Other swatches:
 
-  | Color                 |                             Preview                             | Contrast                          | Lightness | HEX       | RGB                 |
-  | --------------------- | :-------------------------------------------------------------: | --------------------------------- | --------- | --------- | ------------------- |
-  | HTML cyan (aqua)      |                   [![cyan][cyan image]][cyan]                   | [12.30][cyan contrast]            | 0.50      | `#00ffff` | `rgb(0, 255, 255)`  |
-  | HTML dark turquoise   | [![dark turquoise][dark turquoise image]][dark turquoise]       | [7.90][dark turquoise contrast]   | 0.41      | `#00ced1` | `rgb(0, 206, 209)`  |
-  | HTML medium turquoise | [![medium turquoise][medium turquoise image]][medium turquoise] | [8.28][medium turquoise contrast] | 0.55      | `#48d1cc` | `rgb(72, 209, 204)` |
-  | HTML turquoise        |           [![turquoise][turquoise image]][turquoise]            | [9.40][turquoise contrast]        | 0.56      | `#40e0d0` | `rgb(64, 224, 208)` |
-  | cyan 180°             |           [![cyan 180°][cyan 180° image]][cyan 180°]            | [12.30][cyan 180° contrast]       | 0.50      | `#00ffff` | `rgb(0, 255, 255)`  |
+  | Color            |                  Preview                   | Contrast                    | Lightness | HEX       | RGB                 |
+  | ---------------- | :----------------------------------------: | --------------------------- | --------- | --------- | ------------------- |
+  | HTML cyan (aqua) |        [![cyan][cyan image]][cyan]         | [12.30][cyan contrast]      | 0.50      | `#00ffff` | `rgb(0, 255, 255)`  |
+  | HTML turquoise   | [![turquoise][turquoise image]][turquoise] | [9.40][turquoise contrast]  | 0.56      | `#40e0d0` | `rgb(64, 224, 208)` |
+  | cyan 180°        | [![cyan 180°][cyan 180° image]][cyan 180°] | [12.30][cyan 180° contrast] | 0.50      | `#00ffff` | `rgb(0, 255, 255)`  |
+
+  Thoughts:
+
+  * **CYAN 3** is the nearest tint to HTML turquoise by contrast, therefore is
+    chosen as the normal cyan color
+  * HTML cyan (aqua) and cyan 180° are equal, but very bright and do not
+    resemble Open color cyan swatches unlike HTML turquoise
 
   [CYAN 0 contrast]: https://colourcontrast.cc/e3fafc/212529
   [CYAN 0 image]: https://www.htmlcsscolor.com/preview/32x32/e3fafc.png
