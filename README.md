@@ -63,11 +63,11 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   Thoughts:
 
   * **BLUE 5** is the first shade above 4.5 contrast, near to HTML dodger blue
-    and blue 210° by contrast, therefore is chosen as the bright blue color
-  * BLUE 6 is the nearest shade to HTML dodger blue and blue 210° by contrast,
-    but the contrast is below 4.5
-  * HTML blue is very dark and does not resemble Open color blue swatches unlike
-    HTML dodger blue
+    by contrast, therefore is chosen as the bright blue color
+  * BLUE 6 is the nearest shade to HTML dodger blue by contrast, but the
+    contrast is below 4.5
+  * HTML blue is very dark and blue 210° is bright, both do not resemble Open
+    color blue swatches unlike HTML dodger blue
 
   [BLUE 0 contrast]: https://colourcontrast.cc/e7f5ff/212529
   [BLUE 0 image]: https://www.htmlcsscolor.com/preview/32x32/e7f5ff.png
@@ -178,12 +178,6 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [cyan contrast]: https://colourcontrast.cc/00ffff/212529
   [cyan image]: https://www.htmlcsscolor.com/preview/32x32/00ffff.png
   [cyan]: https://www.htmlcsscolor.com/hex/00ffff
-  [dark turquoise contrast]: https://colourcontrast.cc/00ced1/212529
-  [dark turquoise image]: https://www.htmlcsscolor.com/preview/32x32/00ced1.png
-  [dark turquoise]: https://www.htmlcsscolor.com/hex/00ced1
-  [medium turquoise contrast]: https://colourcontrast.cc/48d1cc/212529
-  [medium turquoise image]: https://www.htmlcsscolor.com/preview/32x32/48d1cc.png
-  [medium turquoise]: https://www.htmlcsscolor.com/hex/48d1cc
   [turquoise contrast]: https://colourcontrast.cc/40e0d0/212529
   [turquoise image]: https://www.htmlcsscolor.com/preview/32x32/40e0d0.png
   [turquoise]: https://www.htmlcsscolor.com/hex/40e0d0
@@ -283,30 +277,19 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   | Color           |                    Preview                    | Contrast                     | Lightness | HEX       | RGB                  |
   | --------------- | :-------------------------------------------: | ---------------------------- | --------- | --------- | -------------------- |
-  | HTML dark gray  |  [![dark gray][dark gray image]][dark gray]   | [6.56][dark gray contrast]   | 0.66      | `#d3d3d3` | `rgb(211, 211, 211)` |
   | HTML gray       |          [![gray][gray image]][gray]          | [3.91][gray contrast]        | 0.50      | `#808080` | `rgb(128, 128, 128)` |
   | HTML light gray | [![light gray][light gray image]][light gray] | [10.30][light gray contrast] | 0.83      | `#d3d3d3` | `rgb(211, 211, 211)` |
 
   Thoughts:
 
-  * **GRAY 0** is the lightest tint, therefore is chosen as the foreground color
-    and as the bright white color
-  * **GRAY** 4 is the nearest tint to HTML light gray by contrast, has the same
-    lightness as HTML light gray, therefore is chosen as the normal white color
-
-    * GRAY 3 is darker white than light gray
-    * GRAY 4 is the middle tone and would have low contrast to GRAY 5
-
-  * **GRAY 6** is the nearest shade to HTML gray by contrast and lightness, the
-    first shade above 4.5 contrast, therefore is chosen as the bright black
+  * **GRAY 0** is the lightest tint, therefore is chosen as the bright white
     color
-
-    * GRAY 5 is the middle tone and would have low contrast to GRAY 4
-    * GRAY 7 is unreadable
-    * HTML dark gray is surprisingly lighter than HTML gray
-
-  * **GRAY 9** is the darkest shade, therefore is chosen as the background
-    color and as the normal black color
+  * **GRAY** 4 is the nearest tint to HTML light gray by contrast, therefore is
+    chosen as the normal white color
+  * **GRAY 6** is the nearest shade to HTML gray by contrast, therefore is
+    chosen as the bright black color
+  * **GRAY 9** is the darkest shade, therefore is chosen as the normal black
+    color
 
   [GRAY 0 contrast]: https://colourcontrast.cc/f8f9fa/212529
   [GRAY 0 image]: https://www.htmlcsscolor.com/preview/32x32/f8f9fa.png
@@ -338,9 +321,6 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [GRAY 9 contrast]: https://colourcontrast.cc/212529/212529
   [GRAY 9 image]: https://www.htmlcsscolor.com/preview/32x32/212529.png
   [GRAY 9]: https://www.htmlcsscolor.com/hex/212529
-  [dark gray contrast]: https://colourcontrast.cc/a9a9a9/212529
-  [dark gray image]: https://www.htmlcsscolor.com/preview/32x32/a9a9a9.png
-  [dark gray]: https://www.htmlcsscolor.com/hex/a9a9a9
   [gray contrast]: https://colourcontrast.cc/808080/212529
   [gray image]: https://www.htmlcsscolor.com/preview/32x32/808080.png
   [gray]: https://www.htmlcsscolor.com/hex/808080
@@ -378,11 +358,8 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   * **GREEN 5** is the nearest shade to HTML lime green by contrast, therefore
     is chosen as the normal green color
-
-    * GREEN 4 is lighter green
-    * GREEN 6 is darker green
-    * HTML green is very dark and unreadable while green 120° has very high
-      contrast and is actually HTML lime
+  * HTML green is very dark and green 120° is bright, both do not resemble
+    Open color green swatches unlike HTML lime green
 
   [GREEN 0 contrast]: https://colourcontrast.cc/ebfbee/212529
   [GREEN 0 image]: https://www.htmlcsscolor.com/preview/32x32/ebfbee.png
