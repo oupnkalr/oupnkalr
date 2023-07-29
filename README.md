@@ -12,7 +12,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 | ---------- | -------- | :-------------------------------------: | -------- | --------- | -------------------- |
 | black      | GRAY 9   | [![GRAY 9][GRAY 9 image]][GRAY 9]       | 1.00     | `#212529` | `rgb(33, 37, 41)`    |
 | blue       | INDIGO 6 | [![INDIGO 6][INDIGO 6 image]][INDIGO 6] |          | `#4c6ef5` | `rgb(76, 110, 245)`  |
-| cyan       | CYAN 6   | [![CYAN 6][CYAN 6 image]][CYAN 6]       |          | `#15aabf` | `rgb(21, 170, 191)`  |
+| cyan       | CYAN 4   | [![CYAN 4][CYAN 4 image]][CYAN 4]       | 7.76     | `#3bc9db` | `rgb(59, 201, 219)`  |
 | green      | GREEN 5  | [![GREEN 5][GREEN 5 image]][GREEN 5]    | 7.69     | `#51cf66` | `rgb(81, 207, 102)`  |
 | magenta    | GRAPE 6  | [![GRAPE 6][GRAPE 6 image]][GRAPE 6]    |          | `#be4bdb` | `rgb(190, 75, 219)`  |
 | red        | RED 6    | [![RED 6][RED 6 image]][RED 6]          | 4.70     | `#fa5252` | `rgb(250, 82, 82)`   |
@@ -25,8 +25,8 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 | -------------- | -------- | :-------------------------------------: | -------- | --------- | -------------------- |
 | bright black   | GRAY 6   | [![GRAY 6][GRAY 6 image]][GRAY 6]       | 4.64     | `#868e96` | `rgb(134, 142, 150)` |
 | bright blue    | BLUE 6   | [![BLUE 6][BLUE 6 image]][BLUE 6]       |          | `#228be6` | `rgb(34, 139, 230)`  |
-| bright cyan    | TEAL 6   | [![TEAL 6][TEAL 6 image]][TEAL 6]       |          | `#12b886` | `rgb(18, 184, 134)`  |
-| bright green   | LIME 3   | [![LIME 3][LIME 3 image]][LIME 3]       | 11.30    | `#c0eb75` | `rgb(192, 235, 117)` |
+| bright cyan    | TEAL 4   | [![TEAL 4][TEAL 4 image]][TEAL 4]       | 8.57     | `#38d9a9` | `rgb(56, 217, 169)`  |
+| bright green   | LIME 4   | [![LIME 4][LIME 4 image]][LIME 4]       | 10.12    | `#a9e34b` | `rgb(169, 227, 75)`  |
 | bright magenta | VIOLET 6 | [![VIOLET 6][VIOLET 6 image]][VIOLET 6] |          | `#7950f2` | `rgb(121, 80, 242)`  |
 | bright red     | PINK 5   | [![PINK 5][PINK 5 image]][PINK 5]       | 5.14     | `#f06595` | `rgb(240, 101, 149)` |
 | bright white   | GRAY 0   | [![GRAY 0][GRAY 0 image]][GRAY 0]       | 14.63    | `#f8f9fa` | `rgb(248, 249, 250)` |
@@ -119,6 +119,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   | Color                 |                             Preview                             | Contrast                          | Lightness | HEX       | RGB                 |
   | --------------------- | :-------------------------------------------------------------: | --------------------------------- | --------- | --------- | ------------------- |
   | HTML cyan (aqua)      |                   [![cyan][cyan image]][cyan]                   | [12.30][cyan contrast]            | 0.50      | `#00ffff` | `rgb(0, 255, 255)`  |
+  | HTML dark turquoise   | [![dark turquoise][dark turquoise image]][dark turquoise]       | [7.90][dark turquoise contrast]   | 0.41      | `#00ced1` | `rgb(0, 206, 209)`  |
   | HTML medium turquoise | [![medium turquoise][medium turquoise image]][medium turquoise] | [8.28][medium turquoise contrast] | 0.55      | `#48d1cc` | `rgb(72, 209, 204)` |
   | HTML turquoise        |           [![turquoise][turquoise image]][turquoise]            | [9.40][turquoise contrast]        | 0.56      | `#40e0d0` | `rgb(64, 224, 208)` |
   | cyan 180°             |           [![cyan 180°][cyan 180° image]][cyan 180°]            | [12.30][cyan 180° contrast]       | 0.50      | `#00ffff` | `rgb(0, 255, 255)`  |
@@ -159,6 +160,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [cyan contrast]: https://colourcontrast.cc/00ffff/212529
   [cyan image]: https://www.htmlcsscolor.com/preview/32x32/00ffff.png
   [cyan]: https://www.htmlcsscolor.com/hex/00ffff
+  [dark turquoise contrast]: https://colourcontrast.cc/00ced1/212529
+  [dark turquoise image]: https://www.htmlcsscolor.com/preview/32x32/00ced1.png
+  [dark turquoise]: https://www.htmlcsscolor.com/hex/00ced1
   [medium turquoise contrast]: https://colourcontrast.cc/48d1cc/212529
   [medium turquoise image]: https://www.htmlcsscolor.com/preview/32x32/48d1cc.png
   [medium turquoise]: https://www.htmlcsscolor.com/hex/48d1cc
@@ -478,11 +482,12 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Thoughts:
 
-  * **LIME 3** is the nearest tint to HTML lime by contrast, near to lime 90°
-    by contrast, therefore is chosen as the bright green color
+  * **LIME 4** is the first tint below the contrast of chosen yellow, therefore
+    is chosen as the bright green color
 
-    * LIME 2 is lighter lime
-    * LIME 4 is darker lime
+    * LIME 3 is the nearest tint to HTML lime by contrast, near to lime 90°
+      by contrast, but it is lighter lime
+    * LIME 5 is darker lime
     * HTML lime is actually green 60° while HTML green yellow is lighter and
       HTML yellow green darker lime
 
@@ -770,13 +775,21 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Other swatches:
 
-  | Color                  |                              Preview                               | Contrast                           | Lightness | HEX       | RGB                  |
-  | ---------------------- | :----------------------------------------------------------------: | ---------------------------------- | --------- | --------- | -------------------- |
-  | HTML aquamarine        |           [![aquamarine][aquamarine image]][aquamarine]            | [12.60][aquamarine contrast]       | 0.75      | `#7fffd4` | `rgb(127, 255, 212)` |
-  | HTML medium aquamarine | [![medium aquamarine][medium aquamarine image]][medium aquamarine] | [7.99][medium aquamarine contrast] | 0.60      | `#66cdaa` | `rgb(102, 205, 170)` |
-  | HTML spring green      |        [![spring green][spring green image]][spring green]         | [11.47][spring green contrast]     | 0.50      | `#00ff7f` | `rgb(0, 255, 127)`   |
-  | HTML teal              |                    [![teal][teal image]][teal]                     | [3.23][teal contrast]              | 0.25      | `#008080` | `rgb(0, 128, 128)`   |
-  | teal 150°              |             [![teal 150°][teal 150° image]][teal 150°]             | [11.47][teal 150° contrast]        | 0.50      | `#00ff80` | `rgb(0, 255, 128)`   |
+  | Color                    |                                 Preview                                  | Contrast                              | Lightness | HEX       | RGB                  |
+  | ------------------------ | :----------------------------------------------------------------------: | ------------------------------------- | --------- | --------- | -------------------- |
+  | HTML aquamarine          |              [![aquamarine][aquamarine image]][aquamarine]               | [12.60][aquamarine contrast]          | 0.75      | `#7fffd4` | `rgb(127, 255, 212)` |
+  | HTML medium aquamarine   |    [![medium aquamarine][medium aquamarine image]][medium aquamarine]    | [7.99][medium aquamarine contrast]    | 0.60      | `#66cdaa` | `rgb(102, 205, 170)` |
+  | HTML medium spring green | [![medium spring green][medium spring green image]][medium spring green] | [11.47][medium spring green contrast] | 0.50      | `#00fa9a` | `rgb(0, 250, 154)`   |
+  | HTML spring green        |           [![spring green][spring green image]][spring green]            | [11.47][spring green contrast]        | 0.50      | `#00ff7f` | `rgb(0, 255, 127)`   |
+  | HTML teal                |                       [![teal][teal image]][teal]                        | [3.23][teal contrast]                 | 0.25      | `#008080` | `rgb(0, 128, 128)`   |
+  | teal 150°                |                [![teal 150°][teal 150° image]][teal 150°]                | [11.47][teal 150° contrast]           | 0.50      | `#00ff80` | `rgb(0, 255, 128)`   |
+
+  Thoughts:
+
+  * **TEAL 4**
+
+    * TEAL 3
+    * TEAL 5
 
   [TEAL 0 contrast]: https://colourcontrast.cc/e6fcf5/212529
   [TEAL 0 image]: https://www.htmlcsscolor.com/preview/32x32/e6fcf5.png
@@ -814,6 +827,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [medium aquamarine contrast]: https://colourcontrast.cc/66cdaa/212529
   [medium aquamarine image]: https://www.htmlcsscolor.com/preview/32x32/66cdaa.png
   [medium aquamarine]: https://www.htmlcsscolor.com/hex/66cdaa
+  [medium spring green contrast]: https://colourcontrast.cc/00fa9a/212529
+  [medium spring green image]: https://www.htmlcsscolor.com/preview/32x32/00fa9a.png
+  [medium spring green]: https://www.htmlcsscolor.com/hex/00fa9a
   [spring green contrast]: https://colourcontrast.cc/00ff7f/212529
   [spring green image]: https://www.htmlcsscolor.com/preview/32x32/00ff7f.png
   [spring green]: https://www.htmlcsscolor.com/hex/00ff7f
