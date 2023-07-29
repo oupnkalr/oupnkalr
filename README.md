@@ -14,7 +14,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 | blue       | INDIGO 6 | [![INDIGO 6][INDIGO 6 image]][INDIGO 6] |          | `#4c6ef5` | `rgb(76, 110, 245)`  |
 | cyan       | CYAN 3   | [![CYAN 3][CYAN 3 image]][CYAN 3]       | 9.30     | `#66d9e8` | `rgb(102, 217, 232)` |
 | green      | GREEN 5  | [![GREEN 5][GREEN 5 image]][GREEN 5]    | 7.69     | `#51cf66` | `rgb(81, 207, 102)`  |
-| magenta    | GRAPE 6  | [![GRAPE 6][GRAPE 6 image]][GRAPE 6]    |          | `#be4bdb` | `rgb(190, 75, 219)`  |
+| magenta    | GRAPE 4  | [![GRAPE 4][GRAPE 4 image]][GRAPE 4]    | 5.80     | `#da77f2` | `rgb(218, 119, 242)` |
 | red        | RED 6    | [![RED 6][RED 6 image]][RED 6]          | 4.70     | `#fa5252` | `rgb(250, 82, 82)`   |
 | white      | GRAY 4   | [![GRAY 4][GRAY 4 image]][GRAY 4]       | 10.32    | `#ced4da` | `rgb(206, 212, 218)` |
 | yellow     | YELLOW 4 | [![YELLOW 4][YELLOW 4 image]][YELLOW 4] | 10.82    | `#ffd43b` | `rgb(255, 212, 59)`  |
@@ -139,8 +139,8 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   * **CYAN 3** is the nearest tint to HTML turquoise by contrast, therefore is
     chosen as the normal cyan color
-  * HTML cyan (aqua) and cyan 180° are equal, but very bright and do not
-    resemble Open color cyan swatches unlike HTML turquoise
+  * HTML cyan (aqua) and cyan 180° are equal, but bright and do not resemble
+    Open color cyan swatches unlike HTML turquoise
 
   [CYAN 0 contrast]: https://colourcontrast.cc/e3fafc/212529
   [CYAN 0 image]: https://www.htmlcsscolor.com/preview/32x32/e3fafc.png
@@ -208,10 +208,18 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Other swatches:
 
-  | Color                  |                    Preview                    | Contrast                    | Lightness | HEX       | RGB                |
-  | ---------------------- | :-------------------------------------------: | --------------------------- | --------- | --------- | ------------------ |
-  | HTML magenta (fuchsia) |     [![magenta][magenta image]][magenta]      | [4.92][magenta contrast]    | 0.50      | `#ff00ff` | `rgb(255, 0, 255)` |
-  | grape 300°             | [![grape 300°][grape 300° image]][grape 300°] | [4.92][grape 300° contrast] | 0.50      | `#ff00ff` | `rgb(255, 0, 255)` |
+  | Color                  |                    Preview                    | Contrast                    | Lightness | HEX       | RGB                  |
+  | ---------------------- | :-------------------------------------------: | --------------------------- | --------- | --------- | -------------------- |
+  | HTML magenta (fuchsia) |     [![magenta][magenta image]][magenta]      | [4.92][magenta contrast]    | 0.50      | `#ff00ff` | `rgb(255, 0, 255)`   |
+  | HTML orchid            |     [![orchid][orchid image]][orchid]         | [5.34][orchid contrast]     | 0.65      | `#da70d6` | `rgb(218, 112, 214)` |
+  | grape 300°             | [![grape 300°][grape 300° image]][grape 300°] | [4.92][grape 300° contrast] | 0.50      | `#ff00ff` | `rgb(255, 0, 255)`   |
+
+  Thoughts:
+
+  * **GRAPE 4** is the nearest tint to HTML orchid by contrast, therefore is
+    chosen as the normal magenta color
+  * HTML magenta (fuchsia) and grape 300° are equal, but bright and do not
+    resemble Open color grape swatches unlike HTML orchid
 
   [GRAPE 0 contrast]: https://colourcontrast.cc/f8f0fc/212529
   [GRAPE 0 image]: https://www.htmlcsscolor.com/preview/32x32/f8f0fc.png
@@ -249,6 +257,9 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
   [magenta contrast]: https://colourcontrast.cc/ff00ff/212529
   [magenta image]: https://www.htmlcsscolor.com/preview/32x32/ff00ff.png
   [magenta]: https://www.htmlcsscolor.com/hex/ff00ff
+  [orchid contrast]: https://colourcontrast.cc/da70d6/212529
+  [orchid image]: https://www.htmlcsscolor.com/preview/32x32/da70d6.png
+  [orchid]: https://www.htmlcsscolor.com/hex/da70d6
 </details>
 <details>
   <summary>GRAY</summary>
