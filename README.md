@@ -582,12 +582,10 @@ Criteria:
 
   Thoughts:
 
-  * **ORANGE 5** is the nearest shade to HTML dark orange by contrast, near to
-    orange 30° by contrast, therefore is chosen as the bright yellow color
-
-    * ORANGE 4 is lighter orange
-    * ORANGE 6 is the nearest shade to orange 30° by contrast, but HTML orange
-      ones are a bit lighter
+  * HTML orange do not resemble Open color orange swatches, unlike HTML dark
+    orange and orange 30°
+  * **ORANGE 5** is the nearest shade to HTML dark orange by contrast, therefore
+    is chosen as the bright yellow color
 
   [ORANGE 0 contrast]: https://colourcontrast.cc/fff4e6/212529
   [ORANGE 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff4e6.png
