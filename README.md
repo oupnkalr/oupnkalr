@@ -6,6 +6,14 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
 ## Colors
 
+Criteria:
+
+* HTML web safe colors
+* reciprocal ratio (relationship)
+
+  * https://medium.com/sketch-app-sources/mixing-colours-of-equal-luminance-part-1-41f69518d647
+  * http://www.workwithcolor.com/color-luminance-2233.htm
+
 ### Normal colors
 
 | ANSI Color | Color    | Preview                                 | Contrast | HEX       | RGB                  |
@@ -948,10 +956,10 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 
   Thoughts:
 
+  * HTML yellow and yellow 30° are equal, but both do not resemble Open color
+    yellow swatches, unlike HTML gold
   * **YELLOW 4** is the nearest tint to HTML gold by contrast, therefore is
     chosen as the normal yellow color
-  * HTML yellow and yellow 30° are equal and bright, but both do not resemble
-    Open color yellow swatches unlike HTML gold
 
   [YELLOW 0 contrast]: https://colourcontrast.cc/fff9db/212529
   [YELLOW 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff9db.png
