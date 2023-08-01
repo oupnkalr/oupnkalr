@@ -145,10 +145,10 @@ Criteria:
 
   Thoughts:
 
+  * HTML cyan (aqua) and cyan 180° are equal, but both do not resemble Open
+    color cyan swatches, unlike HTML turquoise
   * **CYAN 3** is the nearest tint to HTML turquoise by contrast, therefore is
     chosen as the normal cyan color
-  * HTML cyan (aqua) and cyan 180° are equal and bright, but both do not
-    resemble Open color cyan swatches unlike HTML turquoise
 
   [CYAN 0 contrast]: https://colourcontrast.cc/e3fafc/212529
   [CYAN 0 image]: https://www.htmlcsscolor.com/preview/32x32/e3fafc.png
