@@ -364,10 +364,10 @@ Criteria:
 
   Thoughts:
 
+  * HTML green and green 120° do not resemble Open color green swatches,
+    unlike HTML lime green
   * **GREEN 5** is the nearest shade to HTML lime green by contrast, therefore
     is chosen as the normal green color
-  * HTML green is very dark and green 120° is bright, but both do not resemble
-    Open color green swatches unlike HTML lime green
 
   [GREEN 0 contrast]: https://colourcontrast.cc/ebfbee/212529
   [GREEN 0 image]: https://www.htmlcsscolor.com/preview/32x32/ebfbee.png
