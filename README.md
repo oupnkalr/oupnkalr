@@ -34,7 +34,7 @@ Criteria:
 | bright black   | GRAY 6   | [![GRAY 6][GRAY 6 image]][GRAY 6]       | 4.64     | `#868e96` | `rgb(134, 142, 150)` |
 | bright blue    | BLUE 5   | [![BLUE 5][BLUE 5 image]][BLUE 5]       | 5.16     | `#339af0` | `rgb(51, 154, 240)`  |
 | bright cyan    | TEAL 4   | [![TEAL 4][TEAL 4 image]][TEAL 4]       | 8.57     | `#38d9a9` | `rgb(56, 217, 169)`  |
-| bright green   | LIME 4   | [![LIME 4][LIME 4 image]][LIME 4]       | 10.12    | `#a9e34b` | `rgb(169, 227, 75)`  |
+| bright green   | LIME 5   | [![LIME 5][LIME 5 image]][LIME 5]       | 8.90     | `#94d82d` | `rgb(148, 216, 45)`  |
 | bright magenta | VIOLET 6 | [![VIOLET 6][VIOLET 6 image]][VIOLET 6] |          | `#7950f2` | `rgb(121, 80, 242)`  |
 | bright red     | PINK 5   | [![PINK 5][PINK 5 image]][PINK 5]       | 5.14     | `#f06595` | `rgb(240, 101, 149)` |
 | bright white   | GRAY 0   | [![GRAY 0][GRAY 0 image]][GRAY 0]       | 14.63    | `#f8f9fa` | `rgb(248, 249, 250)` |
@@ -145,8 +145,8 @@ Criteria:
 
   Thoughts:
 
-  * HTML cyan (aqua) and cyan 180° are equal, but both do not resemble Open
-    color cyan swatches, unlike HTML turquoise
+  * HTML cyan (aqua) and cyan 180° are equal, but do not resemble Open color
+    cyan swatches, unlike HTML turquoise
   * **CYAN 3** is the nearest tint to HTML turquoise by contrast, therefore is
     chosen as the normal cyan color
 
@@ -501,21 +501,18 @@ Criteria:
 
   | Color             |                       Preview                       | Contrast                       | Lightness | HEX       | RGB                 |
   | ----------------- | :-------------------------------------------------: | ------------------------------ | --------- | --------- | ------------------- |
-  | HTML green yellow | [![green yellow][green yellow image]][green yellow] | [12.58][green yellow contrast] | 0.59      | `#adff2f` | `rgb(173, 255, 47)` |
   | HTML lime         |             [![lime][lime image]][lime]             | [11.24][lime contrast]         | 0.50      | `#00ff00` | `rgb(0, 255, 0)`    |
   | HTML yellow green | [![yellow green][yellow green image]][yellow green] | [8.19][yellow green contrast]  | 0.50      | `#9acd32` | `rgb(154, 205, 50)` |
   | lime 90°          |       [![lime 90°][lime 90° image]][lime 90°]       | [11.92][lime 90° contrast]     | 0.50      | `#80ff00` | `rgb(128, 255, 0)`  |
 
   Thoughts:
 
-  * **LIME 4** is the first tint below the contrast of chosen yellow, therefore
-    is chosen as the bright green color
-
-    * LIME 3 is the nearest tint to HTML lime by contrast, near to lime 90°
-      by contrast, but it is lighter lime
-    * LIME 5 is darker lime
-    * HTML lime is actually green 60° while HTML green yellow is lighter and
-      HTML yellow green darker lime
+  * HTML lime and lime 90° do not resemble Open color lime swatches, unlike HTML
+    yellow green
+  * **LIME 5** is the first shade below the contrast of cyan, therefore is
+    chosen as the bright green color
+  * LIME 6 is the nearest shade to HTML yellow green by contrast, but lime is
+    supposed to be lighter
 
   [LIME 0 contrast]: https://colourcontrast.cc/f4fce3/212529
   [LIME 0 image]: https://www.htmlcsscolor.com/preview/32x32/f4fce3.png
@@ -547,9 +544,6 @@ Criteria:
   [LIME 9 contrast]: https://colourcontrast.cc/5c940d/212529
   [LIME 9 image]: https://www.htmlcsscolor.com/preview/32x32/5c940d.png
   [LIME 9]: https://www.htmlcsscolor.com/hex/5c940d
-  [green yellow contrast]: https://colourcontrast.cc/adff2f/212529
-  [green yellow image]: https://www.htmlcsscolor.com/preview/32x32/adff2f.png
-  [green yellow]: https://www.htmlcsscolor.com/hex/adff2f
   [lime 90° contrast]: https://colourcontrast.cc/80ff00/212529
   [lime 90° image]: https://www.htmlcsscolor.com/preview/32x32/80ff00.png
   [lime 90°]: https://www.htmlcsscolor.com/hex/80ff00
@@ -956,8 +950,8 @@ Criteria:
 
   Thoughts:
 
-  * HTML yellow and yellow 30° are equal, but both do not resemble Open color
-    yellow swatches, unlike HTML gold
+  * HTML yellow and yellow 30° are equal, but do not resemble Open color yellow
+    swatches, unlike HTML gold
   * **YELLOW 4** is the nearest tint to HTML gold by contrast, therefore is
     chosen as the normal yellow color
 
