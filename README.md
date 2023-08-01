@@ -795,21 +795,18 @@ Criteria:
 
   Other swatches:
 
-  | Color                    |                                 Preview                                  | Contrast                              | Lightness | HEX       | RGB                  |
-  | ------------------------ | :----------------------------------------------------------------------: | ------------------------------------- | --------- | --------- | -------------------- |
-  | HTML aquamarine          |              [![aquamarine][aquamarine image]][aquamarine]               | [12.60][aquamarine contrast]          | 0.75      | `#7fffd4` | `rgb(127, 255, 212)` |
-  | HTML medium aquamarine   |    [![medium aquamarine][medium aquamarine image]][medium aquamarine]    | [7.99][medium aquamarine contrast]    | 0.60      | `#66cdaa` | `rgb(102, 205, 170)` |
-  | HTML medium spring green | [![medium spring green][medium spring green image]][medium spring green] | [11.12][medium spring green contrast] | 0.49      | `#00fa9a` | `rgb(0, 250, 154)`   |
-  | HTML spring green        |           [![spring green][spring green image]][spring green]            | [11.47][spring green contrast]        | 0.50      | `#00ff7f` | `rgb(0, 255, 127)`   |
-  | HTML teal                |                       [![teal][teal image]][teal]                        | [3.23][teal contrast]                 | 0.25      | `#008080` | `rgb(0, 128, 128)`   |
-  | teal 150°                |                [![teal 150°][teal 150° image]][teal 150°]                | [11.47][teal 150° contrast]           | 0.50      | `#00ff80` | `rgb(0, 255, 128)`   |
+  | Color                  |                              Preview                               | Contrast                           | Lightness | HEX       | RGB                  |
+  | ---------------------- | :----------------------------------------------------------------: | ---------------------------------- | --------- | --------- | -------------------- |
+  | HTML medium aquamarine | [![medium aquamarine][medium aquamarine image]][medium aquamarine] | [7.99][medium aquamarine contrast] | 0.60      | `#66cdaa` | `rgb(102, 205, 170)` |
+  | HTML teal              |                    [![teal][teal image]][teal]                     | [3.23][teal contrast]              | 0.25      | `#008080` | `rgb(0, 128, 128)`   |
+  | teal 150°              |             [![teal 150°][teal 150° image]][teal 150°]             | [11.47][teal 150° contrast]        | 0.50      | `#00ff80` | `rgb(0, 255, 128)`   |
 
   Thoughts:
 
-  * **TEAL 4**
-
-    * TEAL 3
-    * TEAL 5
+  * HTML teal and teal 150° do not resemble Open color teal swatches, unlike
+    HTML medium aquamarine
+  * **TEAL 4** is the nearest tint to HTML medium aquamarine by contrast,
+    therefore is chosen as the bright cyan color
 
   [TEAL 0 contrast]: https://colourcontrast.cc/e6fcf5/212529
   [TEAL 0 image]: https://www.htmlcsscolor.com/preview/32x32/e6fcf5.png
@@ -841,18 +838,9 @@ Criteria:
   [TEAL 9 contrast]: https://colourcontrast.cc/087f5b/212529
   [TEAL 9 image]: https://www.htmlcsscolor.com/preview/32x32/087f5b.png
   [TEAL 9]: https://www.htmlcsscolor.com/hex/087f5b
-  [aquamarine contrast]: https://colourcontrast.cc/7fffd4/212529
-  [aquamarine image]: https://www.htmlcsscolor.com/preview/32x32/7fffd4.png
-  [aquamarine]: https://www.htmlcsscolor.com/hex/7fffd4
   [medium aquamarine contrast]: https://colourcontrast.cc/66cdaa/212529
   [medium aquamarine image]: https://www.htmlcsscolor.com/preview/32x32/66cdaa.png
   [medium aquamarine]: https://www.htmlcsscolor.com/hex/66cdaa
-  [medium spring green contrast]: https://colourcontrast.cc/00fa9a/212529
-  [medium spring green image]: https://www.htmlcsscolor.com/preview/32x32/00fa9a.png
-  [medium spring green]: https://www.htmlcsscolor.com/hex/00fa9a
-  [spring green contrast]: https://colourcontrast.cc/00ff7f/212529
-  [spring green image]: https://www.htmlcsscolor.com/preview/32x32/00ff7f.png
-  [spring green]: https://www.htmlcsscolor.com/hex/00ff7f
   [teal 150° contrast]: https://colourcontrast.cc/00ff80/212529
   [teal 150° image]: https://www.htmlcsscolor.com/preview/32x32/00ff80.png
   [teal 150°]: https://www.htmlcsscolor.com/hex/00ff80
