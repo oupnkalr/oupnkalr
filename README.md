@@ -218,10 +218,10 @@ Criteria:
 
   Thoughts:
 
+  * HTML magenta (fuchsia) and grape 300° are equal, but do not resemble Open
+    color grape swatches unlike HTML orchid
   * **GRAPE 4** is the nearest tint to HTML orchid by contrast, therefore is
     chosen as the normal magenta color
-  * HTML magenta (fuchsia) and grape 300° are equal and bright, but both do not
-    resemble Open color grape swatches unlike HTML orchid
 
   [GRAPE 0 contrast]: https://colourcontrast.cc/f8f0fc/212529
   [GRAPE 0 image]: https://www.htmlcsscolor.com/preview/32x32/f8f0fc.png
@@ -431,7 +431,6 @@ Criteria:
 
   | Color                |                     Preview                      | Contrast                     | Lightness | HEX       | RGB                  |
   | -------------------- | :----------------------------------------------: | ---------------------------- | --------- | --------- | -------------------- |
-  | HTML cornflower blue |  [![royal blue][royal blue image]][royal blue]   | [5.19][royal blue contrast]  | 0.66      | `#6495ed` | `rgb(100, 149, 237)` |
   | HTML indigo          |        [![indigo][indigo image]][indigo]         | [1.80][indigo contrast]      | 0.25      | `#4b0082` | `rgb(75, 0, 130)`    |
   | HTML royal blue      |  [![royal blue][royal blue image]][royal blue]   | [3.18][royal blue contrast]  | 0.57      | `#4169e1` | `rgb(65, 105, 225)`  |
   | indigo 240°          | [![indigo 240°][indigo 240° image]][indigo 240°] | [1.80][indigo 240° contrast] | 0.50      | `#0000ff` | `rgb(0, 0, 255)`     |
@@ -472,9 +471,6 @@ Criteria:
   [indigo contrast]: https://colourcontrast.cc/4b0082/212529
   [indigo image]: https://www.htmlcsscolor.com/preview/32x32/4b0082.png
   [indigo]: https://www.htmlcsscolor.com/hex/4b0082
-  [cornflower blue contrast]: https://colourcontrast.cc/6495ed/212529
-  [cornflower blue image]: https://www.htmlcsscolor.com/preview/32x32/6495ed.png
-  [cornflower blue]: https://www.htmlcsscolor.com/hex/6495ed
   [royal blue contrast]: https://colourcontrast.cc/4169e1/212529
   [royal blue image]: https://www.htmlcsscolor.com/preview/32x32/4169e1.png
   [royal blue]: https://www.htmlcsscolor.com/hex/4169e1
