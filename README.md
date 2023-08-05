@@ -35,7 +35,7 @@ Criteria:
 | bright blue    | BLUE 5   | [![BLUE 5][BLUE 5 image]][BLUE 5]       | 5.16     | `#339af0` | `rgb(51, 154, 240)`  |
 | bright cyan    | TEAL 4   | [![TEAL 4][TEAL 4 image]][TEAL 4]       | 8.57     | `#38d9a9` | `rgb(56, 217, 169)`  |
 | bright green   | LIME 5   | [![LIME 5][LIME 5 image]][LIME 5]       | 8.90     | `#94d82d` | `rgb(148, 216, 45)`  |
-| bright magenta | VIOLET 6 | [![VIOLET 6][VIOLET 6 image]][VIOLET 6] |          | `#7950f2` | `rgb(121, 80, 242)`  |
+| bright magenta | VIOLET 5 | [![VIOLET 5][VIOLET 5 image]][VIOLET 5] | 3.62     | `#845ef7` | `rgb(132, 94, 247)`  |
 | bright red     | PINK 5   | [![PINK 5][PINK 5 image]][PINK 5]       | 5.14     | `#f06595` | `rgb(240, 101, 149)` |
 | bright white   | GRAY 0   | [![GRAY 0][GRAY 0 image]][GRAY 0]       | 14.63    | `#f8f9fa` | `rgb(248, 249, 250)` |
 | bright yellow  | ORANGE 5 | [![ORANGE 5][ORANGE 5 image]][ORANGE 5] | 6.90     | `#ff922b` | `rgb(255, 146, 43)`  |
@@ -47,26 +47,26 @@ Criteria:
 
   Open color swatches:
 
-  | Color  |              Preview              | Contrast                 | Lightness | HEX       | RGB                  |
-  | ------ | :-------------------------------: | ------------------------ | --------- | --------- | -------------------- |
-  | BLUE 0 | [![BLUE 0][BLUE 0 image]][BLUE 0] | [13.89][BLUE 0 contrast] | 0.95      | `#e7f5ff` | `rgb(231, 245, 255)` |
-  | BLUE 1 | [![BLUE 1][BLUE 1 image]][BLUE 1] | [12.49][BLUE 1 contrast] | 0.91      | `#d0ebff` | `rgb(208, 235, 255)` |
-  | BLUE 2 | [![BLUE 2][BLUE 2 image]][BLUE 2] | [10.19][BLUE 2 contrast] | 0.82      | `#a5d8ff` | `rgb(165, 216, 255)` |
-  | BLUE 3 | [![BLUE 3][BLUE 3 image]][BLUE 3] | [7.85][BLUE 3 contrast]  | 0.72      | `#74c0fc` | `rgb(116, 192, 252)` |
-  | BLUE 4 | [![BLUE 4][BLUE 4 image]][BLUE 4] | [6.23][BLUE 4 contrast]  | 0.64      | `#4dabf7` | `rgb(77, 171, 247)`  |
-  | BLUE 5 | [![BLUE 5][BLUE 5 image]][BLUE 5] | [5.16][BLUE 5 contrast]  | 0.57      | `#339af0` | `rgb(51, 154, 240)`  |
-  | BLUE 6 | [![BLUE 6][BLUE 6 image]][BLUE 6] | [4.34][BLUE 6 contrast]  | 0.52      | `#228be6` | `rgb(34, 139, 230)`  |
-  | BLUE 7 | [![BLUE 7][BLUE 7 image]][BLUE 7] | [3.68][BLUE 7 contrast]  | 0.47      | `#1c7ed6` | `rgb(28, 126, 214)`  |
-  | BLUE 8 | [![BLUE 8][BLUE 8 image]][BLUE 8] | [3.07][BLUE 8 contrast]  | 0.43      | `#1971c2` | `rgb(25, 113, 194)`  |
-  | BLUE 9 | [![BLUE 9][BLUE 9 image]][BLUE 9] | [2.53][BLUE 9 contrast]  | 0.38      | `#1864ab` | `rgb(24, 100, 171)`  |
+  | Color  |              Preview              | Contrast                 | HEX       | RGB                  |
+  | ------ | :-------------------------------: | ------------------------ | --------- | -------------------- |
+  | BLUE 0 | [![BLUE 0][BLUE 0 image]][BLUE 0] | [13.89][BLUE 0 contrast] | `#e7f5ff` | `rgb(231, 245, 255)` |
+  | BLUE 1 | [![BLUE 1][BLUE 1 image]][BLUE 1] | [12.49][BLUE 1 contrast] | `#d0ebff` | `rgb(208, 235, 255)` |
+  | BLUE 2 | [![BLUE 2][BLUE 2 image]][BLUE 2] | [10.19][BLUE 2 contrast] | `#a5d8ff` | `rgb(165, 216, 255)` |
+  | BLUE 3 | [![BLUE 3][BLUE 3 image]][BLUE 3] | [7.85][BLUE 3 contrast]  | `#74c0fc` | `rgb(116, 192, 252)` |
+  | BLUE 4 | [![BLUE 4][BLUE 4 image]][BLUE 4] | [6.23][BLUE 4 contrast]  | `#4dabf7` | `rgb(77, 171, 247)`  |
+  | BLUE 5 | [![BLUE 5][BLUE 5 image]][BLUE 5] | [5.16][BLUE 5 contrast]  | `#339af0` | `rgb(51, 154, 240)`  |
+  | BLUE 6 | [![BLUE 6][BLUE 6 image]][BLUE 6] | [4.34][BLUE 6 contrast]  | `#228be6` | `rgb(34, 139, 230)`  |
+  | BLUE 7 | [![BLUE 7][BLUE 7 image]][BLUE 7] | [3.68][BLUE 7 contrast]  | `#1c7ed6` | `rgb(28, 126, 214)`  |
+  | BLUE 8 | [![BLUE 8][BLUE 8 image]][BLUE 8] | [3.07][BLUE 8 contrast]  | `#1971c2` | `rgb(25, 113, 194)`  |
+  | BLUE 9 | [![BLUE 9][BLUE 9 image]][BLUE 9] | [2.53][BLUE 9 contrast]  | `#1864ab` | `rgb(24, 100, 171)`  |
 
   Other swatches:
 
-  | Color              |                        Preview                         | Contrast                       | Lightness | HEX       | RGB                 |
-  | ------------------ | :----------------------------------------------------: | ------------------------------ | --------- | --------- | ------------------- |
-  | HTML blue          |              [![blue][blue image]][blue]               | [1.80][blue contrast]          | 0.50      | `#0000ff` | `rgb(0, 0, 255)`    |
-  | HTML dodger blue   |    [![dodger blue][dodger blue image]][dodger blue]    | [4.77][dodger blue contrast]   | 0.56      | `#1e90ff` | `rgb(30, 144, 255)` |
-  | blue 210°          |       [![blue 210°][blue 210° image]][blue 210°]       | [4.06][blue 210° contrast]     | 0.50      | `#0080ff` | `rgb(0, 128, 255)`  |
+  | Color              |                        Preview                         | Contrast                       | HEX       | RGB                 |
+  | ------------------ | :----------------------------------------------------: | ------------------------------ | --------- | ------------------- |
+  | HTML blue          |              [![blue][blue image]][blue]               | [1.80][blue contrast]          | `#0000ff` | `rgb(0, 0, 255)`    |
+  | HTML dodger blue   |    [![dodger blue][dodger blue image]][dodger blue]    | [4.77][dodger blue contrast]   | `#1e90ff` | `rgb(30, 144, 255)` |
+  | blue 210°          |       [![blue 210°][blue 210° image]][blue 210°]       | [4.06][blue 210° contrast]     | `#0080ff` | `rgb(0, 128, 255)`  |
 
   Thoughts:
 
@@ -120,26 +120,26 @@ Criteria:
 
   Open color swatches:
 
-  | Color  |              Preview              | Contrast                 | Lightness | HEX       | RGB                  |
-  | ------ | :-------------------------------: | ------------------------ | --------- | --------- | -------------------- |
-  | CYAN 0 | [![CYAN 0][CYAN 0 image]][CYAN 0] | [14.21][CYAN 0 contrast] | 0.94      | `#e3fafc` | `rgb(227, 250, 252)` |
-  | CYAN 1 | [![CYAN 1][CYAN 1 image]][CYAN 1] | [13.18][CYAN 1 contrast] | 0.88      | `#c5f6fa` | `rgb(197, 246, 250)` |
-  | CYAN 2 | [![CYAN 2][CYAN 2 image]][CYAN 2] | [11.31][CYAN 2 contrast] | 0.77      | `#99e9f2` | `rgb(153, 233, 242)` |
-  | CYAN 3 | [![CYAN 3][CYAN 3 image]][CYAN 3] | [9.30][CYAN 3 contrast]  | 0.65      | `#66d9e8` | `rgb(102, 217, 232)` |
-  | CYAN 4 | [![CYAN 4][CYAN 4 image]][CYAN 4] | [7.76][CYAN 4 contrast]  | 0.55      | `#3bc9db` | `rgb(59, 201, 219)`  |
-  | CYAN 5 | [![CYAN 5][CYAN 5 image]][CYAN 5] | [6.48][CYAN 5 contrast]  | 0.47      | `#22b8cf` | `rgb(34, 184, 207)`  |
-  | CYAN 6 | [![CYAN 6][CYAN 6 image]][CYAN 6] | [5.53][CYAN 6 contrast]  | 0.42      | `#15aabf` | `rgb(21, 170, 191)`  |
-  | CYAN 7 | [![CYAN 7][CYAN 7 image]][CYAN 7] | [4.49][CYAN 7 contrast]  | 0.37      | `#1098ad` | `rgb(16, 152, 173)`  |
-  | CYAN 8 | [![CYAN 8][CYAN 8 image]][CYAN 8] | [3.55][CYAN 8 contrast]  | 0.32      | `#0c8599` | `rgb(12, 133, 153)`  |
-  | CYAN 9 | [![CYAN 9][CYAN 9 image]][CYAN 9] | [2.76][CYAN 9 contrast]  | 0.28      | `#0b7285` | `rgb(11, 114, 133)`  |
+  | Color  |              Preview              | Contrast                 | HEX       | RGB                  |
+  | ------ | :-------------------------------: | ------------------------ | --------- | -------------------- |
+  | CYAN 0 | [![CYAN 0][CYAN 0 image]][CYAN 0] | [14.21][CYAN 0 contrast] | `#e3fafc` | `rgb(227, 250, 252)` |
+  | CYAN 1 | [![CYAN 1][CYAN 1 image]][CYAN 1] | [13.18][CYAN 1 contrast] | `#c5f6fa` | `rgb(197, 246, 250)` |
+  | CYAN 2 | [![CYAN 2][CYAN 2 image]][CYAN 2] | [11.31][CYAN 2 contrast] | `#99e9f2` | `rgb(153, 233, 242)` |
+  | CYAN 3 | [![CYAN 3][CYAN 3 image]][CYAN 3] | [9.30][CYAN 3 contrast]  | `#66d9e8` | `rgb(102, 217, 232)` |
+  | CYAN 4 | [![CYAN 4][CYAN 4 image]][CYAN 4] | [7.76][CYAN 4 contrast]  | `#3bc9db` | `rgb(59, 201, 219)`  |
+  | CYAN 5 | [![CYAN 5][CYAN 5 image]][CYAN 5] | [6.48][CYAN 5 contrast]  | `#22b8cf` | `rgb(34, 184, 207)`  |
+  | CYAN 6 | [![CYAN 6][CYAN 6 image]][CYAN 6] | [5.53][CYAN 6 contrast]  | `#15aabf` | `rgb(21, 170, 191)`  |
+  | CYAN 7 | [![CYAN 7][CYAN 7 image]][CYAN 7] | [4.49][CYAN 7 contrast]  | `#1098ad` | `rgb(16, 152, 173)`  |
+  | CYAN 8 | [![CYAN 8][CYAN 8 image]][CYAN 8] | [3.55][CYAN 8 contrast]  | `#0c8599` | `rgb(12, 133, 153)`  |
+  | CYAN 9 | [![CYAN 9][CYAN 9 image]][CYAN 9] | [2.76][CYAN 9 contrast]  | `#0b7285` | `rgb(11, 114, 133)`  |
 
   Other swatches:
 
-  | Color            |                  Preview                   | Contrast                    | Lightness | HEX       | RGB                 |
-  | ---------------- | :----------------------------------------: | --------------------------- | --------- | --------- | ------------------- |
-  | HTML cyan (aqua) |        [![cyan][cyan image]][cyan]         | [12.30][cyan contrast]      | 0.50      | `#00ffff` | `rgb(0, 255, 255)`  |
-  | HTML turquoise   | [![turquoise][turquoise image]][turquoise] | [9.40][turquoise contrast]  | 0.56      | `#40e0d0` | `rgb(64, 224, 208)` |
-  | cyan 180°        | [![cyan 180°][cyan 180° image]][cyan 180°] | [12.30][cyan 180° contrast] | 0.50      | `#00ffff` | `rgb(0, 255, 255)`  |
+  | Color            |                  Preview                   | Contrast                    | HEX       | RGB                 |
+  | ---------------- | :----------------------------------------: | --------------------------- | --------- | ------------------- |
+  | HTML cyan (aqua) |        [![cyan][cyan image]][cyan]         | [12.30][cyan contrast]      | `#00ffff` | `rgb(0, 255, 255)`  |
+  | HTML turquoise   | [![turquoise][turquoise image]][turquoise] | [9.40][turquoise contrast]  | `#40e0d0` | `rgb(64, 224, 208)` |
+  | cyan 180°        | [![cyan 180°][cyan 180° image]][cyan 180°] | [12.30][cyan 180° contrast] | `#00ffff` | `rgb(0, 255, 255)`  |
 
   Thoughts:
 
@@ -193,26 +193,26 @@ Criteria:
 
   Open color swatches:
 
-  | Color   |               Preview                | Contrast                  | Lightness | HEX       | RGB                  |
-  | ------- | :----------------------------------: | ------------------------- | --------- | --------- | -------------------- |
-  | GRAPE 0 | [![GRAPE 0][GRAPE 0 image]][GRAPE 0] | [13.85][GRAPE 0 contrast] | 0.96      | `#f8f0fc` | `rgb(248, 240, 252)` |
-  | GRAPE 1 | [![GRAPE 1][GRAPE 1 image]][GRAPE 1] | [11.84][GRAPE 1 contrast] | 0.92      | `#f3d9fa` | `rgb(243, 217, 250)` |
-  | GRAPE 2 | [![GRAPE 2][GRAPE 2 image]][GRAPE 2] | [9.83][GRAPE 2 contrast]  | 0.86      | `#eebefa` | `rgb(238, 190, 250)` |
-  | GRAPE 3 | [![GRAPE 3][GRAPE 3 image]][GRAPE 3] | [7.52][GRAPE 3 contrast]  | 0.78      | `#e599f7` | `rgb(229, 153, 247)` |
-  | GRAPE 4 | [![GRAPE 4][GRAPE 4 image]][GRAPE 4] | [5.80][GRAPE 4 contrast]  | 0.71      | `#da77f2` | `rgb(218, 119, 242)` |
-  | GRAPE 5 | [![GRAPE 5][GRAPE 5 image]][GRAPE 5] | [4.63][GRAPE 5 contrast]  | 0.64      | `#cc5de8` | `rgb(204, 93, 232)`  |
-  | GRAPE 6 | [![GRAPE 6][GRAPE 6 image]][GRAPE 6] | [3.83][GRAPE 6 contrast]  | 0.58      | `#be4bdb` | `rgb(190, 75, 219)`  |
-  | GRAPE 7 | [![GRAPE 7][GRAPE 7 image]][GRAPE 7] | [3.18][GRAPE 7 contrast]  | 0.52      | `#ae3ec9` | `rgb(174, 62, 201)`  |
-  | GRAPE 8 | [![GRAPE 8][GRAPE 8 image]][GRAPE 8] | [2.65][GRAPE 8 contrast]  | 0.46      | `#9c36b5` | `rgb(156, 54, 181)`  |
-  | GRAPE 9 | [![GRAPE 9][GRAPE 9 image]][GRAPE 9] | [2.12][GRAPE 9 contrast]  | 0.40      | `#862e9c` | `rgb(134, 46, 156)`  |
+  | Color   |               Preview                | Contrast                  | HEX       | RGB                  |
+  | ------- | :----------------------------------: | ------------------------- | --------- | -------------------- |
+  | GRAPE 0 | [![GRAPE 0][GRAPE 0 image]][GRAPE 0] | [13.85][GRAPE 0 contrast] | `#f8f0fc` | `rgb(248, 240, 252)` |
+  | GRAPE 1 | [![GRAPE 1][GRAPE 1 image]][GRAPE 1] | [11.84][GRAPE 1 contrast] | `#f3d9fa` | `rgb(243, 217, 250)` |
+  | GRAPE 2 | [![GRAPE 2][GRAPE 2 image]][GRAPE 2] | [9.83][GRAPE 2 contrast]  | `#eebefa` | `rgb(238, 190, 250)` |
+  | GRAPE 3 | [![GRAPE 3][GRAPE 3 image]][GRAPE 3] | [7.52][GRAPE 3 contrast]  | `#e599f7` | `rgb(229, 153, 247)` |
+  | GRAPE 4 | [![GRAPE 4][GRAPE 4 image]][GRAPE 4] | [5.80][GRAPE 4 contrast]  | `#da77f2` | `rgb(218, 119, 242)` |
+  | GRAPE 5 | [![GRAPE 5][GRAPE 5 image]][GRAPE 5] | [4.63][GRAPE 5 contrast]  | `#cc5de8` | `rgb(204, 93, 232)`  |
+  | GRAPE 6 | [![GRAPE 6][GRAPE 6 image]][GRAPE 6] | [3.83][GRAPE 6 contrast]  | `#be4bdb` | `rgb(190, 75, 219)`  |
+  | GRAPE 7 | [![GRAPE 7][GRAPE 7 image]][GRAPE 7] | [3.18][GRAPE 7 contrast]  | `#ae3ec9` | `rgb(174, 62, 201)`  |
+  | GRAPE 8 | [![GRAPE 8][GRAPE 8 image]][GRAPE 8] | [2.65][GRAPE 8 contrast]  | `#9c36b5` | `rgb(156, 54, 181)`  |
+  | GRAPE 9 | [![GRAPE 9][GRAPE 9 image]][GRAPE 9] | [2.12][GRAPE 9 contrast]  | `#862e9c` | `rgb(134, 46, 156)`  |
 
   Other swatches:
 
-  | Color                  |                    Preview                    | Contrast                    | Lightness | HEX       | RGB                  |
-  | ---------------------- | :-------------------------------------------: | --------------------------- | --------- | --------- | -------------------- |
-  | HTML magenta (fuchsia) |     [![magenta][magenta image]][magenta]      | [4.92][magenta contrast]    | 0.50      | `#ff00ff` | `rgb(255, 0, 255)`   |
-  | HTML orchid            |     [![orchid][orchid image]][orchid]         | [5.34][orchid contrast]     | 0.65      | `#da70d6` | `rgb(218, 112, 214)` |
-  | grape 300°             | [![grape 300°][grape 300° image]][grape 300°] | [4.92][grape 300° contrast] | 0.50      | `#ff00ff` | `rgb(255, 0, 255)`   |
+  | Color                  |                    Preview                    | Contrast                    | HEX       | RGB                  |
+  | ---------------------- | :-------------------------------------------: | --------------------------- | --------- | -------------------- |
+  | HTML magenta (fuchsia) |     [![magenta][magenta image]][magenta]      | [4.92][magenta contrast]    | `#ff00ff` | `rgb(255, 0, 255)`   |
+  | HTML orchid            |     [![orchid][orchid image]][orchid]         | [5.34][orchid contrast]     | `#da70d6` | `rgb(218, 112, 214)` |
+  | grape 300°             | [![grape 300°][grape 300° image]][grape 300°] | [4.92][grape 300° contrast] | `#ff00ff` | `rgb(255, 0, 255)`   |
 
   Thoughts:
 
@@ -266,25 +266,25 @@ Criteria:
 
   Open color swatches:
 
-  | Color  |              Preview              | Contrast                 | Lightness | HEX       | RGB                  |
-  | -------| :-------------------------------: | ------------------------ | --------- | --------- | -------------------- |
-  | GRAY 0 | [![GRAY 0][GRAY 0 image]][GRAY 0] | [14.63][GRAY 0 contrast] | 0.98      | `#f8f9fa` | `rgb(248, 249, 250)` |
-  | GRAY 1 | [![GRAY 1][GRAY 1 image]][GRAY 1] | [13.87][GRAY 1 contrast] | 0.95      | `#f1f3f5` | `rgb(241, 243, 245)` |
-  | GRAY 2 | [![GRAY 2][GRAY 2 image]][GRAY 2] | [13.01][GRAY 2 contrast] | 0.93      | `#e9ecef` | `rgb(233, 236, 239)` |
-  | GRAY 3 | [![GRAY 3][GRAY 3 image]][GRAY 3] | [11.85][GRAY 3 contrast] | 0.89      | `#dee2e6` | `rgb(222, 226, 230)` |
-  | GRAY 4 | [![GRAY 4][GRAY 4 image]][GRAY 4] | [10.32][GRAY 4 contrast] | 0.83      | `#ced4da` | `rgb(206, 212, 218)` |
-  | GRAY 5 | [![GRAY 5][GRAY 5 image]][GRAY 5] | [7.43][GRAY 5 contrast]  | 0.71      | `#adb5bd` | `rgb(173, 181, 189)` |
-  | GRAY 6 | [![GRAY 6][GRAY 6 image]][GRAY 6] | [4.64][GRAY 6 contrast]  | 0.56      | `#868e96` | `rgb(134, 142, 150)` |
-  | GRAY 7 | [![GRAY 7][GRAY 7 image]][GRAY 7] | [1.89][GRAY 7 contrast]  | 0.31      | `#495057` | `rgb(73, 80, 87)`    |
-  | GRAY 8 | [![GRAY 8][GRAY 8 image]][GRAY 8] | [1.34][GRAY 8 contrast]  | 0.23      | `#343a40` | `rgb(52, 58, 64)`    |
-  | GRAY 9 | [![GRAY 9][GRAY 9 image]][GRAY 9] | [1.00][GRAY 9 contrast]  | 0.15      | `#212529` | `rgb(33, 37, 41)`    |
+  | Color  |              Preview              | Contrast                 | HEX       | RGB                  |
+  | -------| :-------------------------------: | ------------------------ | --------- | -------------------- |
+  | GRAY 0 | [![GRAY 0][GRAY 0 image]][GRAY 0] | [14.63][GRAY 0 contrast] | `#f8f9fa` | `rgb(248, 249, 250)` |
+  | GRAY 1 | [![GRAY 1][GRAY 1 image]][GRAY 1] | [13.87][GRAY 1 contrast] | `#f1f3f5` | `rgb(241, 243, 245)` |
+  | GRAY 2 | [![GRAY 2][GRAY 2 image]][GRAY 2] | [13.01][GRAY 2 contrast] | `#e9ecef` | `rgb(233, 236, 239)` |
+  | GRAY 3 | [![GRAY 3][GRAY 3 image]][GRAY 3] | [11.85][GRAY 3 contrast] | `#dee2e6` | `rgb(222, 226, 230)` |
+  | GRAY 4 | [![GRAY 4][GRAY 4 image]][GRAY 4] | [10.32][GRAY 4 contrast] | `#ced4da` | `rgb(206, 212, 218)` |
+  | GRAY 5 | [![GRAY 5][GRAY 5 image]][GRAY 5] | [7.43][GRAY 5 contrast]  | `#adb5bd` | `rgb(173, 181, 189)` |
+  | GRAY 6 | [![GRAY 6][GRAY 6 image]][GRAY 6] | [4.64][GRAY 6 contrast]  | `#868e96` | `rgb(134, 142, 150)` |
+  | GRAY 7 | [![GRAY 7][GRAY 7 image]][GRAY 7] | [1.89][GRAY 7 contrast]  | `#495057` | `rgb(73, 80, 87)`    |
+  | GRAY 8 | [![GRAY 8][GRAY 8 image]][GRAY 8] | [1.34][GRAY 8 contrast]  | `#343a40` | `rgb(52, 58, 64)`    |
+  | GRAY 9 | [![GRAY 9][GRAY 9 image]][GRAY 9] | [1.00][GRAY 9 contrast]  | `#212529` | `rgb(33, 37, 41)`    |
 
   Other swatches:
 
-  | Color           |                    Preview                    | Contrast                     | Lightness | HEX       | RGB                  |
-  | --------------- | :-------------------------------------------: | ---------------------------- | --------- | --------- | -------------------- |
-  | HTML gray       |          [![gray][gray image]][gray]          | [3.91][gray contrast]        | 0.50      | `#808080` | `rgb(128, 128, 128)` |
-  | HTML light gray | [![light gray][light gray image]][light gray] | [10.30][light gray contrast] | 0.83      | `#d3d3d3` | `rgb(211, 211, 211)` |
+  | Color           |                    Preview                    | Contrast                     | HEX       | RGB                  |
+  | --------------- | :-------------------------------------------: | ---------------------------- | --------- | -------------------- |
+  | HTML gray       |          [![gray][gray image]][gray]          | [3.91][gray contrast]        | `#808080` | `rgb(128, 128, 128)` |
+  | HTML light gray | [![light gray][light gray image]][light gray] | [10.30][light gray contrast] | `#d3d3d3` | `rgb(211, 211, 211)` |
 
   Thoughts:
 
@@ -339,26 +339,26 @@ Criteria:
 
   Open color swatches:
 
-  | Color   |               Preview                | Contrast                  | Lightness | HEX       | RGB                  |
-  | ------- | :----------------------------------: | ------------------------- | --------- | --------- | -------------------- |
-  | GREEN 0 | [![GREEN 0][GREEN 0 image]][GREEN 0] | [14.37][GREEN 0 contrast] | 0.95      | `#ebfbee` | `rgb(235, 251, 238)` |
-  | GREEN 1 | [![GREEN 1][GREEN 1 image]][GREEN 1] | [13.45][GREEN 1 contrast] | 0.90      | `#d3f9d8` | `rgb(211, 249, 216)` |
-  | GREEN 2 | [![GREEN 2][GREEN 2 image]][GREEN 2] | [11.98][GREEN 2 contrast] | 0.82      | `#b2f2bb` | `rgb(178, 242, 187)` |
-  | GREEN 3 | [![GREEN 3][GREEN 3 image]][GREEN 3] | [10.46][GREEN 3 contrast] | 0.73      | `#8ce99a` | `rgb(140, 233, 154)` |
-  | GREEN 4 | [![GREEN 4][GREEN 4 image]][GREEN 4] | [8.83][GREEN 4 contrast]  | 0.64      | `#69db7c` | `rgb(105, 219, 124)` |
-  | GREEN 5 | [![GREEN 5][GREEN 5 image]][GREEN 5] | [7.69][GREEN 5 contrast]  | 0.56      | `#51cf66` | `rgb(81, 207, 102)`  |
-  | GREEN 6 | [![GREEN 6][GREEN 6 image]][GREEN 6] | [6.53][GREEN 6 contrast]  | 0.50      | `#40c057` | `rgb(64, 192, 87)`   |
-  | GREEN 7 | [![GREEN 7][GREEN 7 image]][GREEN 7] | [5.61][GREEN 7 contrast]  | 0.46      | `#37b24d` | `rgb(55, 178, 77)`   |
-  | GREEN 8 | [![GREEN 8][GREEN 8 image]][GREEN 8] | [4.48][GREEN 8 contrast]  | 0.40      | `#2f9e44` | `rgb(47, 158, 68)`   |
-  | GREEN 9 | [![GREEN 9][GREEN 9 image]][GREEN 9] | [3.53][GREEN 9 contrast]  | 0.35      | `#2b8a3e` | `rgb(43, 138, 62)`   |
+  | Color   |               Preview                | Contrast                  | HEX       | RGB                  |
+  | ------- | :----------------------------------: | ------------------------- | --------- | -------------------- |
+  | GREEN 0 | [![GREEN 0][GREEN 0 image]][GREEN 0] | [14.37][GREEN 0 contrast] | `#ebfbee` | `rgb(235, 251, 238)` |
+  | GREEN 1 | [![GREEN 1][GREEN 1 image]][GREEN 1] | [13.45][GREEN 1 contrast] | `#d3f9d8` | `rgb(211, 249, 216)` |
+  | GREEN 2 | [![GREEN 2][GREEN 2 image]][GREEN 2] | [11.98][GREEN 2 contrast] | `#b2f2bb` | `rgb(178, 242, 187)` |
+  | GREEN 3 | [![GREEN 3][GREEN 3 image]][GREEN 3] | [10.46][GREEN 3 contrast] | `#8ce99a` | `rgb(140, 233, 154)` |
+  | GREEN 4 | [![GREEN 4][GREEN 4 image]][GREEN 4] | [8.83][GREEN 4 contrast]  | `#69db7c` | `rgb(105, 219, 124)` |
+  | GREEN 5 | [![GREEN 5][GREEN 5 image]][GREEN 5] | [7.69][GREEN 5 contrast]  | `#51cf66` | `rgb(81, 207, 102)`  |
+  | GREEN 6 | [![GREEN 6][GREEN 6 image]][GREEN 6] | [6.53][GREEN 6 contrast]  | `#40c057` | `rgb(64, 192, 87)`   |
+  | GREEN 7 | [![GREEN 7][GREEN 7 image]][GREEN 7] | [5.61][GREEN 7 contrast]  | `#37b24d` | `rgb(55, 178, 77)`   |
+  | GREEN 8 | [![GREEN 8][GREEN 8 image]][GREEN 8] | [4.48][GREEN 8 contrast]  | `#2f9e44` | `rgb(47, 158, 68)`   |
+  | GREEN 9 | [![GREEN 9][GREEN 9 image]][GREEN 9] | [3.53][GREEN 9 contrast]  | `#2b8a3e` | `rgb(43, 138, 62)`   |
 
   Other swatches:
 
-  | Color           |                    Preview                    | Contrast                     | Lightness | HEX       | RGB                |
-  | --------------- | :-------------------------------------------: | ---------------------------- | --------- | --------- | ------------------ |
-  | HTML green      |        [![green][green image]][green]         | [3.00][green contrast]       | 0.25      | `#008000` | `rgb(0, 128, 0)`   |
-  | HTML lime green | [![lime green][lime green image]][lime green] | [7.28][lime green contrast]  | 0.50      | `#32cd32` | `rgb(50, 205, 50)` |
-  | green 120°      | [![green 120°][green 120° image]][green 120°] | [11.24][green 120° contrast] | 0.50      | `#00ff00` | `rgb(0, 255, 0)`   |
+  | Color           |                    Preview                    | Contrast                     | HEX       | RGB                |
+  | --------------- | :-------------------------------------------: | ---------------------------- | --------- | ------------------ |
+  | HTML green      |        [![green][green image]][green]         | [3.00][green contrast]       | `#008000` | `rgb(0, 128, 0)`   |
+  | HTML lime green | [![lime green][lime green image]][lime green] | [7.28][lime green contrast]  | `#32cd32` | `rgb(50, 205, 50)` |
+  | green 120°      | [![green 120°][green 120° image]][green 120°] | [11.24][green 120° contrast] | `#00ff00` | `rgb(0, 255, 0)`   |
 
   Thoughts:
 
@@ -412,26 +412,26 @@ Criteria:
 
   Open color swatches:
 
-  | Color    |                 Preview                 | Contrast                   | Lightness | HEX       | RGB                  |
-  | -------- | :-------------------------------------: | -------------------------- | --------- | --------- | -------------------- |
-  | INDIGO 0 | [![INDIGO 0][INDIGO 0 image]][INDIGO 0] | [13.77][INDIGO 0 contrast] | 0.96      | `#edf2ff` | `rgb(237, 242, 255)` |
-  | INDIGO 1 | [![INDIGO 1][INDIGO 1 image]][INDIGO 1] | [12.16][INDIGO 1 contrast] | 0.93      | `#dbe4ff` | `rgb(219, 228, 255)` |
-  | INDIGO 2 | [![INDIGO 2][INDIGO 2 image]][INDIGO 2] | [9.40][INDIGO 2 contrast]  | 0.86      | `#bac8ff` | `rgb(186, 200, 255)` |
-  | INDIGO 3 | [![INDIGO 3][INDIGO 3 image]][INDIGO 3] | [6.74][INDIGO 3 contrast]  | 0.78      | `#91a7ff` | `rgb(145, 167, 255)` |
-  | INDIGO 4 | [![INDIGO 4][INDIGO 4 image]][INDIGO 4] | [5.20][INDIGO 4 contrast]  | 0.72      | `#748ffc` | `rgb(116, 143, 252)` |
-  | INDIGO 5 | [![INDIGO 5][INDIGO 5 image]][INDIGO 5] | [4.20][INDIGO 5 contrast]  | 0.67      | `#5c7cfa` | `rgb(92, 124, 250)`  |
-  | INDIGO 6 | [![INDIGO 6][INDIGO 6 image]][INDIGO 6] | [3.57][INDIGO 6 contrast]  | 0.63      | `#4c6ef5` | `rgb(76, 110, 245)`  |
-  | INDIGO 7 | [![INDIGO 7][INDIGO 7 image]][INDIGO 7] | [3.10][INDIGO 7 contrast]  | 0.59      | `#4263eb` | `rgb(66, 99, 235)`   |
-  | INDIGO 8 | [![INDIGO 8][INDIGO 8 image]][INDIGO 8] | [2.72][INDIGO 8 contrast]  | 0.55      | `#3b5bdb` | `rgb(59, 91, 219)`   |
-  | INDIGO 9 | [![INDIGO 9][INDIGO 9 image]][INDIGO 9] | [2.28][INDIGO 9 contrast]  | 0.50      | `#364fc7` | `rgb(54, 79, 199)`   |
+  | Color    |                 Preview                 | Contrast                   | HEX       | RGB                  |
+  | -------- | :-------------------------------------: | -------------------------- | --------- | -------------------- |
+  | INDIGO 0 | [![INDIGO 0][INDIGO 0 image]][INDIGO 0] | [13.77][INDIGO 0 contrast] | `#edf2ff` | `rgb(237, 242, 255)` |
+  | INDIGO 1 | [![INDIGO 1][INDIGO 1 image]][INDIGO 1] | [12.16][INDIGO 1 contrast] | `#dbe4ff` | `rgb(219, 228, 255)` |
+  | INDIGO 2 | [![INDIGO 2][INDIGO 2 image]][INDIGO 2] | [9.40][INDIGO 2 contrast]  | `#bac8ff` | `rgb(186, 200, 255)` |
+  | INDIGO 3 | [![INDIGO 3][INDIGO 3 image]][INDIGO 3] | [6.74][INDIGO 3 contrast]  | `#91a7ff` | `rgb(145, 167, 255)` |
+  | INDIGO 4 | [![INDIGO 4][INDIGO 4 image]][INDIGO 4] | [5.20][INDIGO 4 contrast]  | `#748ffc` | `rgb(116, 143, 252)` |
+  | INDIGO 5 | [![INDIGO 5][INDIGO 5 image]][INDIGO 5] | [4.20][INDIGO 5 contrast]  | `#5c7cfa` | `rgb(92, 124, 250)`  |
+  | INDIGO 6 | [![INDIGO 6][INDIGO 6 image]][INDIGO 6] | [3.57][INDIGO 6 contrast]  | `#4c6ef5` | `rgb(76, 110, 245)`  |
+  | INDIGO 7 | [![INDIGO 7][INDIGO 7 image]][INDIGO 7] | [3.10][INDIGO 7 contrast]  | `#4263eb` | `rgb(66, 99, 235)`   |
+  | INDIGO 8 | [![INDIGO 8][INDIGO 8 image]][INDIGO 8] | [2.72][INDIGO 8 contrast]  | `#3b5bdb` | `rgb(59, 91, 219)`   |
+  | INDIGO 9 | [![INDIGO 9][INDIGO 9 image]][INDIGO 9] | [2.28][INDIGO 9 contrast]  | `#364fc7` | `rgb(54, 79, 199)`   |
 
   Other swatches:
 
-  | Color                |                     Preview                      | Contrast                     | Lightness | HEX       | RGB                  |
-  | -------------------- | :----------------------------------------------: | ---------------------------- | --------- | --------- | -------------------- |
-  | HTML indigo          |        [![indigo][indigo image]][indigo]         | [1.80][indigo contrast]      | 0.25      | `#4b0082` | `rgb(75, 0, 130)`    |
-  | HTML royal blue      |  [![royal blue][royal blue image]][royal blue]   | [3.18][royal blue contrast]  | 0.57      | `#4169e1` | `rgb(65, 105, 225)`  |
-  | indigo 240°          | [![indigo 240°][indigo 240° image]][indigo 240°] | [1.80][indigo 240° contrast] | 0.50      | `#0000ff` | `rgb(0, 0, 255)`     |
+  | Color                |                     Preview                      | Contrast                     | HEX       | RGB                  |
+  | -------------------- | :----------------------------------------------: | ---------------------------- | --------- | -------------------- |
+  | HTML indigo          |        [![indigo][indigo image]][indigo]         | [1.80][indigo contrast]      | `#4b0082` | `rgb(75, 0, 130)`    |
+  | HTML royal blue      |  [![royal blue][royal blue image]][royal blue]   | [3.18][royal blue contrast]  | `#4169e1` | `rgb(65, 105, 225)`  |
+  | indigo 240°          | [![indigo 240°][indigo 240° image]][indigo 240°] | [1.80][indigo 240° contrast] | `#0000ff` | `rgb(0, 0, 255)`     |
 
   [INDIGO 0 contrast]: https://colourcontrast.cc/edf2ff/212529
   [INDIGO 0 image]: https://www.htmlcsscolor.com/preview/32x32/edf2ff.png
@@ -478,26 +478,26 @@ Criteria:
 
   Open color swatches:
 
-  | Color  |              Preview              | Contrast                 | Lightness | HEX       | RGB                  |
-  | ------ | :-------------------------------: | ------------------------ | --------- | --------- | -------------------- |
-  | LIME 0 | [![LIME 0][LIME 0 image]][LIME 0] | [14.60][LIME 0 contrast] | 0.94      | `#f4fce3` | `rgb(244, 252, 227)` |
-  | LIME 1 | [![LIME 1][LIME 1 image]][LIME 1] | [13.94][LIME 1 contrast] | 0.88      | `#e9fac8` | `rgb(233, 250, 200)` |
-  | LIME 2 | [![LIME 2][LIME 2 image]][LIME 2] | [13.01][LIME 2 contrast] | 0.80      | `#d8f5a2` | `rgb(255, 236, 153)` |
-  | LIME 3 | [![LIME 3][LIME 3 image]][LIME 3] | [11.30][LIME 3 contrast] | 0.69      | `#c0eb75` | `rgb(192, 235, 117)` |
-  | LIME 4 | [![LIME 4][LIME 4 image]][LIME 4] | [10.12][LIME 4 contrast] | 0.59      | `#a9e34b` | `rgb(169, 227, 75)`  |
-  | LIME 5 | [![LIME 5][LIME 5 image]][LIME 5] | [8.90][LIME 5 contrast]  | 0.51      | `#94d82d` | `rgb(148, 216, 45)`  |
-  | LIME 6 | [![LIME 6][LIME 6 image]][LIME 6] | [7.58][LIME 6 contrast]  | 0.45      | `#82c91e` | `rgb(130, 201, 30)`  |
-  | LIME 7 | [![LIME 7][LIME 7 image]][LIME 7] | [6.33][LIME 7 contrast]  | 0.40      | `#74b816` | `rgb(116, 184, 22)`  |
-  | LIME 8 | [![LIME 8][LIME 8 image]][LIME 8] | [5.27][LIME 8 contrast]  | 0.36      | `#66a80f` | `rgb(102, 168, 15)`  |
-  | LIME 9 | [![LIME 9][LIME 9 image]][LIME 9] | [4.18][LIME 9 contrast]  | 0.32      | `#5c940d` | `rgb(92, 148, 13)`   |
+  | Color  |              Preview              | Contrast                 | HEX       | RGB                  |
+  | ------ | :-------------------------------: | ------------------------ | --------- | -------------------- |
+  | LIME 0 | [![LIME 0][LIME 0 image]][LIME 0] | [14.60][LIME 0 contrast] | `#f4fce3` | `rgb(244, 252, 227)` |
+  | LIME 1 | [![LIME 1][LIME 1 image]][LIME 1] | [13.94][LIME 1 contrast] | `#e9fac8` | `rgb(233, 250, 200)` |
+  | LIME 2 | [![LIME 2][LIME 2 image]][LIME 2] | [13.01][LIME 2 contrast] | `#d8f5a2` | `rgb(255, 236, 153)` |
+  | LIME 3 | [![LIME 3][LIME 3 image]][LIME 3] | [11.30][LIME 3 contrast] | `#c0eb75` | `rgb(192, 235, 117)` |
+  | LIME 4 | [![LIME 4][LIME 4 image]][LIME 4] | [10.12][LIME 4 contrast] | `#a9e34b` | `rgb(169, 227, 75)`  |
+  | LIME 5 | [![LIME 5][LIME 5 image]][LIME 5] | [8.90][LIME 5 contrast]  | `#94d82d` | `rgb(148, 216, 45)`  |
+  | LIME 6 | [![LIME 6][LIME 6 image]][LIME 6] | [7.58][LIME 6 contrast]  | `#82c91e` | `rgb(130, 201, 30)`  |
+  | LIME 7 | [![LIME 7][LIME 7 image]][LIME 7] | [6.33][LIME 7 contrast]  | `#74b816` | `rgb(116, 184, 22)`  |
+  | LIME 8 | [![LIME 8][LIME 8 image]][LIME 8] | [5.27][LIME 8 contrast]  | `#66a80f` | `rgb(102, 168, 15)`  |
+  | LIME 9 | [![LIME 9][LIME 9 image]][LIME 9] | [4.18][LIME 9 contrast]  | `#5c940d` | `rgb(92, 148, 13)`   |
 
   Other swatches:
 
-  | Color             |                       Preview                       | Contrast                       | Lightness | HEX       | RGB                 |
-  | ----------------- | :-------------------------------------------------: | ------------------------------ | --------- | --------- | ------------------- |
-  | HTML lime         |             [![lime][lime image]][lime]             | [11.24][lime contrast]         | 0.50      | `#00ff00` | `rgb(0, 255, 0)`    |
-  | HTML yellow green | [![yellow green][yellow green image]][yellow green] | [8.19][yellow green contrast]  | 0.50      | `#9acd32` | `rgb(154, 205, 50)` |
-  | lime 90°          |       [![lime 90°][lime 90° image]][lime 90°]       | [11.92][lime 90° contrast]     | 0.50      | `#80ff00` | `rgb(128, 255, 0)`  |
+  | Color             |                       Preview                       | Contrast                       | HEX       | RGB                 |
+  | ----------------- | :-------------------------------------------------: | ------------------------------ | --------- | ------------------- |
+  | HTML lime         |             [![lime][lime image]][lime]             | [11.24][lime contrast]         | `#00ff00` | `rgb(0, 255, 0)`    |
+  | HTML yellow green | [![yellow green][yellow green image]][yellow green] | [8.19][yellow green contrast]  | `#9acd32` | `rgb(154, 205, 50)` |
+  | lime 90°          |       [![lime 90°][lime 90° image]][lime 90°]       | [11.92][lime 90° contrast]     | `#80ff00` | `rgb(128, 255, 0)`  |
 
   Thoughts:
 
@@ -553,26 +553,26 @@ Criteria:
 
   Open color swatches:
 
-  | Color    |                 Preview                 | Contrast                   | Lightness | HEX       | RGB                  |
-  | -------- | :-------------------------------------: | -------------------------- | --------- | --------- | -------------------- |
-  | ORANGE 0 | [![ORANGE 0][ORANGE 0 image]][ORANGE 0] | [14.20][ORANGE 0 contrast] | 0.95      | `#fff4e6` | `rgb(255, 244, 230)` |
-  | ORANGE 1 | [![ORANGE 1][ORANGE 1 image]][ORANGE 1] | [12.98][ORANGE 1 contrast] | 0.90      | `#ffe8cc` | `rgb(255, 232, 204)` |
-  | ORANGE 2 | [![ORANGE 2][ORANGE 2 image]][ORANGE 2] | [11.49][ORANGE 2 contrast] | 0.83      | `#ffd8a8` | `rgb(255, 216, 168)` |
-  | ORANGE 3 | [![ORANGE 3][ORANGE 3 image]][ORANGE 3] | [9.60][ORANGE 3 contrast]  | 0.74      | `#ffc078` | `rgb(255, 192, 120)` |
-  | ORANGE 4 | [![ORANGE 4][ORANGE 4 image]][ORANGE 4] | [8.11][ORANGE 4 contrast]  | 0.65      | `#ffa94d` | `rgb(255, 169, 77)`  |
-  | ORANGE 5 | [![ORANGE 5][ORANGE 5 image]][ORANGE 5] | [6.90][ORANGE 5 contrast]  | 0.58      | `#ff922b` | `rgb(255, 146, 43)`  |
-  | ORANGE 6 | [![ORANGE 6][ORANGE 6 image]][ORANGE 6] | [6.00][ORANGE 6 contrast]  | 0.54      | `#fd7e14` | `rgb(253, 126, 20)`  |
-  | ORANGE 7 | [![ORANGE 7][ORANGE 7 image]][ORANGE 7] | [5.07][ORANGE 7 contrast]  | 0.50      | `#f76707` | `rgb(247, 103, 7)`   |
-  | ORANGE 8 | [![ORANGE 8][ORANGE 8 image]][ORANGE 8] | [4.31][ORANGE 8 contrast]  | 0.48      | `#e8590c` | `rgb(232, 89, 12)`   |
-  | ORANGE 9 | [![ORANGE 9][ORANGE 9 image]][ORANGE 9] | [3.59][ORANGE 9 contrast]  | 0.45      | `#d9480f` | `rgb(217, 72, 15)`   |
+  | Color    |                 Preview                 | Contrast                   | HEX       | RGB                  |
+  | -------- | :-------------------------------------: | -------------------------- | --------- | -------------------- |
+  | ORANGE 0 | [![ORANGE 0][ORANGE 0 image]][ORANGE 0] | [14.20][ORANGE 0 contrast] | `#fff4e6` | `rgb(255, 244, 230)` |
+  | ORANGE 1 | [![ORANGE 1][ORANGE 1 image]][ORANGE 1] | [12.98][ORANGE 1 contrast] | `#ffe8cc` | `rgb(255, 232, 204)` |
+  | ORANGE 2 | [![ORANGE 2][ORANGE 2 image]][ORANGE 2] | [11.49][ORANGE 2 contrast] | `#ffd8a8` | `rgb(255, 216, 168)` |
+  | ORANGE 3 | [![ORANGE 3][ORANGE 3 image]][ORANGE 3] | [9.60][ORANGE 3 contrast]  | `#ffc078` | `rgb(255, 192, 120)` |
+  | ORANGE 4 | [![ORANGE 4][ORANGE 4 image]][ORANGE 4] | [8.11][ORANGE 4 contrast]  | `#ffa94d` | `rgb(255, 169, 77)`  |
+  | ORANGE 5 | [![ORANGE 5][ORANGE 5 image]][ORANGE 5] | [6.90][ORANGE 5 contrast]  | `#ff922b` | `rgb(255, 146, 43)`  |
+  | ORANGE 6 | [![ORANGE 6][ORANGE 6 image]][ORANGE 6] | [6.00][ORANGE 6 contrast]  | `#fd7e14` | `rgb(253, 126, 20)`  |
+  | ORANGE 7 | [![ORANGE 7][ORANGE 7 image]][ORANGE 7] | [5.07][ORANGE 7 contrast]  | `#f76707` | `rgb(247, 103, 7)`   |
+  | ORANGE 8 | [![ORANGE 8][ORANGE 8 image]][ORANGE 8] | [4.31][ORANGE 8 contrast]  | `#e8590c` | `rgb(232, 89, 12)`   |
+  | ORANGE 9 | [![ORANGE 9][ORANGE 9 image]][ORANGE 9] | [3.59][ORANGE 9 contrast]  | `#d9480f` | `rgb(217, 72, 15)`   |
 
   Other swatches:
 
-  | Color            |                     Preview                      | Contrast                     | Lightness | HEX       | RGB                |
-  | ---------------- | :----------------------------------------------: | ---------------------------- | --------- | --------- | ------------------ |
-  | HTML dark orange | [![dark orange][dark orange image]][dark orange] | [6.61][dark orange contrast] | 0.50      | `#ff8c00` | `rgb(255, 140, 0)` |
-  | HTML orange      |        [![orange][orange image]][orange]         | [7.81][orange contrast]      | 0.50      | `#ffa500` | `rgb(255, 165, 0)` |
-  | orange 30°       |  [![orange 30°][orange 30° image]][orange 30°]   | [6.13][orange 30° contrast]  | 0.50      | `#ff8000` | `rgb(255, 128, 0)` |
+  | Color            |                     Preview                      | Contrast                     | HEX       | RGB                |
+  | ---------------- | :----------------------------------------------: | ---------------------------- | --------- | ------------------ |
+  | HTML dark orange | [![dark orange][dark orange image]][dark orange] | [6.61][dark orange contrast] | `#ff8c00` | `rgb(255, 140, 0)` |
+  | HTML orange      |        [![orange][orange image]][orange]         | [7.81][orange contrast]      | `#ffa500` | `rgb(255, 165, 0)` |
+  | orange 30°       |  [![orange 30°][orange 30° image]][orange 30°]   | [6.13][orange 30° contrast]  | `#ff8000` | `rgb(255, 128, 0)` |
 
   Thoughts:
 
@@ -626,26 +626,26 @@ Criteria:
 
   Open color swatches:
 
-  | Color  |              Preview              | Contrast                 | Lightness | HEX       | RGB                  |
-  | ------ | :-------------------------------: | ------------------------ | --------- | --------- | -------------------- |
-  | PINK 0 | [![PINK 0][PINK 0 image]][PINK 0] | [13.99][PINK 0 contrast] | 0.97      | `#fff0f6` | `rgb(255, 240, 246)` |
-  | PINK 1 | [![PINK 1][PINK 1 image]][PINK 1] | [12.41][PINK 1 contrast] | 0.94      | `#ffdeeb` | `rgb(255, 222, 235)` |
-  | PINK 2 | [![PINK 2][PINK 2 image]][PINK 2] | [10.16][PINK 2 contrast] | 0.87      | `#fcc2d7` | `rgb(252, 194, 215)` |
-  | PINK 3 | [![PINK 3][PINK 3 image]][PINK 3] | [8.08][PINK 3 contrast]  | 0.81      | `#faa2c1` | `rgb(250, 162, 193)` |
-  | PINK 4 | [![PINK 4][PINK 4 image]][PINK 4] | [6.46][PINK 4 contrast]  | 0.74      | `#f783ac` | `rgb(247, 131, 172)` |
-  | PINK 5 | [![PINK 5][PINK 5 image]][PINK 5] | [5.14][PINK 5 contrast]  | 0.67      | `#f06595` | `rgb(240, 101, 149)` |
-  | PINK 6 | [![PINK 6][PINK 6 image]][PINK 6] | [4.14][PINK 6 contrast]  | 0.59      | `#e64980` | `rgb(230, 73, 128)`  |
-  | PINK 7 | [![PINK 7][PINK 7 image]][PINK 7] | [3.34][PINK 7 contrast]  | 0.52      | `#d6336c` | `rgb(214, 51, 108)`  |
-  | PINK 8 | [![PINK 8][PINK 8 image]][PINK 8] | [2.73][PINK 8 contrast]  | 0.45      | `#c2255c` | `rgb(194, 37, 92)`   |
-  | PINK 9 | [![PINK 9][PINK 9 image]][PINK 9] | [2.14][PINK 9 contrast]  | 0.38      | `#a61e4d` | `rgb(166, 30, 77)`   |
+  | Color  |              Preview              | Contrast                 | HEX       | RGB                  |
+  | ------ | :-------------------------------: | ------------------------ | --------- | -------------------- |
+  | PINK 0 | [![PINK 0][PINK 0 image]][PINK 0] | [13.99][PINK 0 contrast] | `#fff0f6` | `rgb(255, 240, 246)` |
+  | PINK 1 | [![PINK 1][PINK 1 image]][PINK 1] | [12.41][PINK 1 contrast] | `#ffdeeb` | `rgb(255, 222, 235)` |
+  | PINK 2 | [![PINK 2][PINK 2 image]][PINK 2] | [10.16][PINK 2 contrast] | `#fcc2d7` | `rgb(252, 194, 215)` |
+  | PINK 3 | [![PINK 3][PINK 3 image]][PINK 3] | [8.08][PINK 3 contrast]  | `#faa2c1` | `rgb(250, 162, 193)` |
+  | PINK 4 | [![PINK 4][PINK 4 image]][PINK 4] | [6.46][PINK 4 contrast]  | `#f783ac` | `rgb(247, 131, 172)` |
+  | PINK 5 | [![PINK 5][PINK 5 image]][PINK 5] | [5.14][PINK 5 contrast]  | `#f06595` | `rgb(240, 101, 149)` |
+  | PINK 6 | [![PINK 6][PINK 6 image]][PINK 6] | [4.14][PINK 6 contrast]  | `#e64980` | `rgb(230, 73, 128)`  |
+  | PINK 7 | [![PINK 7][PINK 7 image]][PINK 7] | [3.34][PINK 7 contrast]  | `#d6336c` | `rgb(214, 51, 108)`  |
+  | PINK 8 | [![PINK 8][PINK 8 image]][PINK 8] | [2.73][PINK 8 contrast]  | `#c2255c` | `rgb(194, 37, 92)`   |
+  | PINK 9 | [![PINK 9][PINK 9 image]][PINK 9] | [2.14][PINK 9 contrast]  | `#a61e4d` | `rgb(166, 30, 77)`   |
 
   Other swatches:
 
-  | Color         |                  Preview                   | Contrast                   | Lightness | HEX       | RGB                  |
-  | ------------- | :----------------------------------------: | -------------------------- | --------- | --------- | -------------------- |
-  | HTML hot pink | [![hot pink][hot pink image]][hot pink]    | [5.83][hot pink contrast]  | 0.54      | `#ff69b4` | `rgb(255, 105, 180)` |
-  | HTML pink     |        [![pink][pink image]][pink]         | [10.03][pink contrast]     | 0.88      | `#ffc0cb` | `rgb(255, 192, 203)` |
-  | pink 330°     | [![pink 330°][pink 330° image]][pink 330°] | [4.09][pink 330° contrast] | 0.50      | `#ff0080` | `rgb(255, 0, 128)`   |
+  | Color         |                  Preview                   | Contrast                   | HEX       | RGB                  |
+  | ------------- | :----------------------------------------: | -------------------------- | --------- | -------------------- |
+  | HTML hot pink | [![hot pink][hot pink image]][hot pink]    | [5.83][hot pink contrast]  | `#ff69b4` | `rgb(255, 105, 180)` |
+  | HTML pink     |        [![pink][pink image]][pink]         | [10.03][pink contrast]     | `#ffc0cb` | `rgb(255, 192, 203)` |
+  | pink 330°     | [![pink 330°][pink 330° image]][pink 330°] | [4.09][pink 330° contrast] | `#ff0080` | `rgb(255, 0, 128)`   |
 
   Thoughts:
 
@@ -701,25 +701,25 @@ Criteria:
 
   Open color swatches:
 
-  | Color |            Preview             | Contrast                | Lightness | HEX       | RGB                  |
-  | ----- | :----------------------------: | ----------------------- | --------- | --------- | -------------------- |
-  | RED 0 | [![RED 0][RED 0 image]][RED 0] | [14.42][RED 0 contrast] | 0.98      | `#fff5f5` | `rgb(255, 245, 245)` |
-  | RED 1 | [![RED 1][RED 1 image]][RED 1] | [12.74][RED 1 contrast] | 0.95      | `#ffe3e3` | `rgb(255, 227, 227)` |
-  | RED 2 | [![RED 2][RED 2 image]][RED 2] | [10.61][RED 2 contrast] | 0.89      | `#ffc9c9` | `rgb(255, 201, 201)` |
-  | RED 3 | [![RED 3][RED 3 image]][RED 3] | [8.39][RED 3 contrast]  | 0.83      | `#ffa8a8` | `rgb(255, 168, 168)` |
-  | RED 4 | [![RED 4][RED 4 image]][RED 4] | [6.66][RED 4 contrast]  | 0.76      | `#ff8787` | `rgb(255, 135, 135)` |
-  | RED 5 | [![RED 5][RED 5 image]][RED 5] | [5.56][RED 5 contrast]  | 0.71      | `#ff6b6b` | `rgb(255, 107, 107)` |
-  | RED 6 | [![RED 6][RED 6 image]][RED 6] | [4.70][RED 6 contrast]  | 0.65      | `#fa5252` | `rgb(250, 82, 82)`   |
-  | RED 7 | [![RED 7][RED 7 image]][RED 7] | [4.01][RED 7 contrast]  | 0.59      | `#f03e3e` | `rgb(240, 62, 62)`   |
-  | RED 8 | [![RED 8][RED 8 image]][RED 8] | [3.42][RED 8 contrast]  | 0.54      | `#e03131` | `rgb(224, 49, 49)`   |
-  | RED 9 | [![RED 9][RED 9 image]][RED 9] | [2.83][RED 9 contrast]  | 0.48      | `#c92a2a` | `rgb(201, 42, 42)`   |
+  | Color |            Preview             | Contrast                | HEX       | RGB                  |
+  | ----- | :----------------------------: | ----------------------- | --------- | -------------------- |
+  | RED 0 | [![RED 0][RED 0 image]][RED 0] | [14.42][RED 0 contrast] | `#fff5f5` | `rgb(255, 245, 245)` |
+  | RED 1 | [![RED 1][RED 1 image]][RED 1] | [12.74][RED 1 contrast] | `#ffe3e3` | `rgb(255, 227, 227)` |
+  | RED 2 | [![RED 2][RED 2 image]][RED 2] | [10.61][RED 2 contrast] | `#ffc9c9` | `rgb(255, 201, 201)` |
+  | RED 3 | [![RED 3][RED 3 image]][RED 3] | [8.39][RED 3 contrast]  | `#ffa8a8` | `rgb(255, 168, 168)` |
+  | RED 4 | [![RED 4][RED 4 image]][RED 4] | [6.66][RED 4 contrast]  | `#ff8787` | `rgb(255, 135, 135)` |
+  | RED 5 | [![RED 5][RED 5 image]][RED 5] | [5.56][RED 5 contrast]  | `#ff6b6b` | `rgb(255, 107, 107)` |
+  | RED 6 | [![RED 6][RED 6 image]][RED 6] | [4.70][RED 6 contrast]  | `#fa5252` | `rgb(250, 82, 82)`   |
+  | RED 7 | [![RED 7][RED 7 image]][RED 7] | [4.01][RED 7 contrast]  | `#f03e3e` | `rgb(240, 62, 62)`   |
+  | RED 8 | [![RED 8][RED 8 image]][RED 8] | [3.42][RED 8 contrast]  | `#e03131` | `rgb(224, 49, 49)`   |
+  | RED 9 | [![RED 9][RED 9 image]][RED 9] | [2.83][RED 9 contrast]  | `#c92a2a` | `rgb(201, 42, 42)`   |
 
   Other swatches:
 
-  | Color    |              Preview              | Contrast                | Lightness | HEX       | RGB              |
-  | -------- | :-------------------------------: | ----------------------- | --------- | --------- | ---------------- |
-  | HTML red |     [![red][red image]][red]      | [3.86][red contrast]    | 0.50      | `#ff0000` | `rgb(255, 0, 0)` |
-  | red 0°   | [![red 0°][red 0° image]][red 0°] | [3.86][red 0° contrast] | 0.50      | `#ff0000` | `rgb(255, 0, 0)` |
+  | Color    |              Preview              | Contrast                | HEX       | RGB              |
+  | -------- | :-------------------------------: | ----------------------- | --------- | ---------------- |
+  | HTML red |     [![red][red image]][red]      | [3.86][red contrast]    | `#ff0000` | `rgb(255, 0, 0)` |
+  | red 0°   | [![red 0°][red 0° image]][red 0°] | [3.86][red 0° contrast] | `#ff0000` | `rgb(255, 0, 0)` |
 
   Thoughts:
 
@@ -769,26 +769,26 @@ Criteria:
 
   Open color swatches:
 
-  | Color  |              Preview              | Contrast                 | Lightness | HEX       | RGB                  |
-  | ------ | :-------------------------------: | ------------------------ | --------- | --------- | -------------------- |
-  | TEAL 0 | [![TEAL 0][TEAL 0 image]][TEAL 0] | [14.40][TEAL 0 contrast] | 0.95      | `#e6fcf5` | `rgb(230, 252, 245)` |
-  | TEAL 1 | [![TEAL 1][TEAL 1 image]][TEAL 1] | [13.34][TEAL 1 contrast] | 0.87      | `#c3fae8` | `rgb(195, 250, 232)` |
-  | TEAL 2 | [![TEAL 2][TEAL 2 image]][TEAL 2] | [11.74][TEAL 2 contrast] | 0.77      | `#96f2d7` | `rgb(150, 242, 215)` |
-  | TEAL 3 | [![TEAL 3][TEAL 3 image]][TEAL 3] | [9.99][TEAL 3 contrast]  | 0.65      | `#63e6be` | `rgb(99, 230, 190)`  |
-  | TEAL 4 | [![TEAL 4][TEAL 4 image]][TEAL 4] | [8.57][TEAL 4 contrast]  | 0.54      | `#38d9a9` | `rgb(56, 217, 169)`  |
-  | TEAL 5 | [![TEAL 5][TEAL 5 image]][TEAL 5] | [7.25][TEAL 5 contrast]  | 0.46      | `#20c997` | `rgb(32, 201, 151)`  |
-  | TEAL 6 | [![TEAL 6][TEAL 6 image]][TEAL 6] | [6.05][TEAL 6 contrast]  | 0.40      | `#12b886` | `rgb(18, 184, 134)`  |
-  | TEAL 7 | [![TEAL 7][TEAL 7 image]][TEAL 7] | [4.95][TEAL 7 contrast]  | 0.35      | `#0ca678` | `rgb(12, 166, 120)`  |
-  | TEAL 8 | [![TEAL 8][TEAL 8 image]][TEAL 8] | [3.91][TEAL 8 contrast]  | 0.30      | `#099268` | `rgb(9, 146, 104)`   |
-  | TEAL 9 | [![TEAL 9][TEAL 9 image]][TEAL 9] | [3.08][TEAL 9 contrast]  | 0.26      | `#087f5b` | `rgb(8, 127, 91)`    |
+  | Color  |              Preview              | Contrast                 | HEX       | RGB                  |
+  | ------ | :-------------------------------: | ------------------------ | --------- | -------------------- |
+  | TEAL 0 | [![TEAL 0][TEAL 0 image]][TEAL 0] | [14.40][TEAL 0 contrast] | `#e6fcf5` | `rgb(230, 252, 245)` |
+  | TEAL 1 | [![TEAL 1][TEAL 1 image]][TEAL 1] | [13.34][TEAL 1 contrast] | `#c3fae8` | `rgb(195, 250, 232)` |
+  | TEAL 2 | [![TEAL 2][TEAL 2 image]][TEAL 2] | [11.74][TEAL 2 contrast] | `#96f2d7` | `rgb(150, 242, 215)` |
+  | TEAL 3 | [![TEAL 3][TEAL 3 image]][TEAL 3] | [9.99][TEAL 3 contrast]  | `#63e6be` | `rgb(99, 230, 190)`  |
+  | TEAL 4 | [![TEAL 4][TEAL 4 image]][TEAL 4] | [8.57][TEAL 4 contrast]  | `#38d9a9` | `rgb(56, 217, 169)`  |
+  | TEAL 5 | [![TEAL 5][TEAL 5 image]][TEAL 5] | [7.25][TEAL 5 contrast]  | `#20c997` | `rgb(32, 201, 151)`  |
+  | TEAL 6 | [![TEAL 6][TEAL 6 image]][TEAL 6] | [6.05][TEAL 6 contrast]  | `#12b886` | `rgb(18, 184, 134)`  |
+  | TEAL 7 | [![TEAL 7][TEAL 7 image]][TEAL 7] | [4.95][TEAL 7 contrast]  | `#0ca678` | `rgb(12, 166, 120)`  |
+  | TEAL 8 | [![TEAL 8][TEAL 8 image]][TEAL 8] | [3.91][TEAL 8 contrast]  | `#099268` | `rgb(9, 146, 104)`   |
+  | TEAL 9 | [![TEAL 9][TEAL 9 image]][TEAL 9] | [3.08][TEAL 9 contrast]  | `#087f5b` | `rgb(8, 127, 91)`    |
 
   Other swatches:
 
-  | Color                  |                              Preview                               | Contrast                           | Lightness | HEX       | RGB                  |
-  | ---------------------- | :----------------------------------------------------------------: | ---------------------------------- | --------- | --------- | -------------------- |
-  | HTML medium aquamarine | [![medium aquamarine][medium aquamarine image]][medium aquamarine] | [7.99][medium aquamarine contrast] | 0.60      | `#66cdaa` | `rgb(102, 205, 170)` |
-  | HTML teal              |                    [![teal][teal image]][teal]                     | [3.23][teal contrast]              | 0.25      | `#008080` | `rgb(0, 128, 128)`   |
-  | teal 150°              |             [![teal 150°][teal 150° image]][teal 150°]             | [11.47][teal 150° contrast]        | 0.50      | `#00ff80` | `rgb(0, 255, 128)`   |
+  | Color                  |                              Preview                               | Contrast                           | HEX       | RGB                  |
+  | ---------------------- | :----------------------------------------------------------------: | ---------------------------------- | --------- | -------------------- |
+  | HTML medium aquamarine | [![medium aquamarine][medium aquamarine image]][medium aquamarine] | [7.99][medium aquamarine contrast] | `#66cdaa` | `rgb(102, 205, 170)` |
+  | HTML teal              |                    [![teal][teal image]][teal]                     | [3.23][teal contrast]              | `#008080` | `rgb(0, 128, 128)`   |
+  | teal 150°              |             [![teal 150°][teal 150° image]][teal 150°]             | [11.47][teal 150° contrast]        | `#00ff80` | `rgb(0, 255, 128)`   |
 
   Thoughts:
 
@@ -842,25 +842,35 @@ Criteria:
 
   Open color swatches:
 
-  | Color    |                 Preview                 | Contrast                   | Lightness | HEX       | RGB                  |
-  | -------- | :-------------------------------------: | -------------------------- | --------- | --------- | -------------------- |
-  | VIOLET 0 | [![VIOLET 0][VIOLET 0 image]][VIOLET 0] | [13.75][VIOLET 0 contrast] | 0.97      | `#f3f0ff` | `rgb(243, 240, 255)` |
-  | VIOLET 1 | [![VIOLET 1][VIOLET 1 image]][VIOLET 1] | [11.69][VIOLET 1 contrast] | 0.93      | `#e5dbff` | `rgb(229, 219, 255)` |
-  | VIOLET 2 | [![VIOLET 2][VIOLET 2 image]][VIOLET 2] | [9.24][VIOLET 2 contrast]  | 0.87      | `#d0bfff` | `rgb(208, 191, 255)` |
-  | VIOLET 3 | [![VIOLET 3][VIOLET 3 image]][VIOLET 3] | [6.39][VIOLET 3 contrast]  | 0.79      | `#b197fc` | `rgb(177, 151, 252)` |
-  | VIOLET 4 | [![VIOLET 4][VIOLET 4 image]][VIOLET 4] | [4.58][VIOLET 4 contrast]  | 0.72      | `#9775fa` | `rgb(151, 117, 250)` |
-  | VIOLET 5 | [![VIOLET 5][VIOLET 5 image]][VIOLET 5] | [3.62][VIOLET 5 contrast]  | 0.67      | `#845ef7` | `rgb(132, 94, 247)`  |
-  | VIOLET 6 | [![VIOLET 6][VIOLET 6 image]][VIOLET 6] | [3.12][VIOLET 6 contrast]  | 0.63      | `#7950f2` | `rgb(121, 80, 242)`  |
-  | VIOLET 7 | [![VIOLET 7][VIOLET 7 image]][VIOLET 7] | [2.78][VIOLET 7 contrast]  | 0.60      | `#7048e8` | `rgb(112, 72, 232)`  |
-  | VIOLET 8 | [![VIOLET 8][VIOLET 8 image]][VIOLET 8] | [2.45][VIOLET 8 contrast]  | 0.55      | `#6741d9` | `rgb(103, 65, 217)`  |
-  | VIOLET 9 | [![VIOLET 9][VIOLET 9 image]][VIOLET 9] | [2.17][VIOLET 9 contrast]  | 0.50      | `#5f3dc4` | `rgb(95, 61, 196)`   |
+  | Color    |                 Preview                 | Contrast                   | HEX       | RGB                  |
+  | -------- | :-------------------------------------: | -------------------------- | --------- | -------------------- |
+  | VIOLET 0 | [![VIOLET 0][VIOLET 0 image]][VIOLET 0] | [13.75][VIOLET 0 contrast] | `#f3f0ff` | `rgb(243, 240, 255)` |
+  | VIOLET 1 | [![VIOLET 1][VIOLET 1 image]][VIOLET 1] | [11.69][VIOLET 1 contrast] | `#e5dbff` | `rgb(229, 219, 255)` |
+  | VIOLET 2 | [![VIOLET 2][VIOLET 2 image]][VIOLET 2] | [9.24][VIOLET 2 contrast]  | `#d0bfff` | `rgb(208, 191, 255)` |
+  | VIOLET 3 | [![VIOLET 3][VIOLET 3 image]][VIOLET 3] | [6.39][VIOLET 3 contrast]  | `#b197fc` | `rgb(177, 151, 252)` |
+  | VIOLET 4 | [![VIOLET 4][VIOLET 4 image]][VIOLET 4] | [4.58][VIOLET 4 contrast]  | `#9775fa` | `rgb(151, 117, 250)` |
+  | VIOLET 5 | [![VIOLET 5][VIOLET 5 image]][VIOLET 5] | [3.62][VIOLET 5 contrast]  | `#845ef7` | `rgb(132, 94, 247)`  |
+  | VIOLET 6 | [![VIOLET 6][VIOLET 6 image]][VIOLET 6] | [3.12][VIOLET 6 contrast]  | `#7950f2` | `rgb(121, 80, 242)`  |
+  | VIOLET 7 | [![VIOLET 7][VIOLET 7 image]][VIOLET 7] | [2.78][VIOLET 7 contrast]  | `#7048e8` | `rgb(112, 72, 232)`  |
+  | VIOLET 8 | [![VIOLET 8][VIOLET 8 image]][VIOLET 8] | [2.45][VIOLET 8 contrast]  | `#6741d9` | `rgb(103, 65, 217)`  |
+  | VIOLET 9 | [![VIOLET 9][VIOLET 9 image]][VIOLET 9] | [2.17][VIOLET 9 contrast]  | `#5f3dc4` | `rgb(95, 61, 196)`   |
 
   Other swatches:
 
-  | Color       |                     Preview                      | Contrast                     | Lightness | HEX       | RGB                |
-  | ----------- | :----------------------------------------------: | ---------------------------- | --------- | --------- | ------------------ |
-  | HTML violet | [![violet][violet image]][violet] | [6.66][violet contrast] | 0.72      | `#ee82ee` | `rgb(128, 0, 255)` |
-  | violet 270° | [![violet 270°][violet 270° image]][violet 270°] | [2.47][violet 270° contrast] | 0.50      | `#8000ff` | `rgb(128, 0, 255)` |
+  | Color              |                        Preview                         | Contrast                       | HEX       | RGB                  |
+  | ------------------ | :----------------------------------------------------: | ------------------------------ | --------- | -------------------- |
+  | HTML medium purple | [![medium purple][medium purple image]][medium purple] | [4.10][medium purple contrast] | `#9370db` | `rgb(147, 112, 219)` |
+  | HTML violet        |           [![violet][violet image]][violet]            | [6.66][violet contrast]        | `#ee82ee` | `rgb(128, 0, 255)`   |
+  | violet 270°        |    [![violet 270°][violet 270° image]][violet 270°]    | [2.47][violet 270° contrast]   | `#8000ff` | `rgb(128, 0, 255)`   |
+
+  Thoughts:
+
+  * HTML violet and violet 270° do not resemble Open color violet swatches,
+    unlike HTML medium purple
+  * VIOLET 4 is the nearest tint to HTML medium purple by contrast, but violet
+    is supposed to be darker
+  * **VIOLET 5** is the nearest shade to HTML medium purple by contrast,
+    therefore is chosen as the bright magenta color
 
   [VIOLET 0 contrast]: https://colourcontrast.cc/f3f0ff/212529
   [VIOLET 0 image]: https://www.htmlcsscolor.com/preview/32x32/f3f0ff.png
@@ -892,6 +902,9 @@ Criteria:
   [VIOLET 9 contrast]: https://colourcontrast.cc/5f3dc4/212529
   [VIOLET 9 image]: https://www.htmlcsscolor.com/preview/32x32/5f3dc4.png
   [VIOLET 9]: https://www.htmlcsscolor.com/hex/5f3dc4
+  [medium purple contrast]: https://colourcontrast.cc/9370db/212529
+  [medium purple image]: https://www.htmlcsscolor.com/preview/32x32/9370db.png
+  [medium purple]: https://www.htmlcsscolor.com/hex/9370db
   [violet 270° contrast]: https://colourcontrast.cc/8000ff/212529
   [violet 270° image]: https://www.htmlcsscolor.com/preview/32x32/8000ff.png
   [violet 270°]: https://www.htmlcsscolor.com/hex/8000ff
@@ -904,26 +917,26 @@ Criteria:
 
   Open color swatches:
 
-  | Color    |                 Preview                 | Contrast                   | Lightness | HEX       | RGB                  |
-  | -------- | :-------------------------------------: | -------------------------- | --------- | --------- | -------------------- |
-  | YELLOW 0 | [![YELLOW 0][YELLOW 0 image]][YELLOW 0] | [14.56][YELLOW 0 contrast] | 0.93      | `#fff9db` | `rgb(255, 249, 219)` |
-  | YELLOW 1 | [![YELLOW 1][YELLOW 1 image]][YELLOW 1] | [13.83][YELLOW 1 contrast] | 0.87      | `#fff3bf` | `rgb(255, 243, 191)` |
-  | YELLOW 2 | [![YELLOW 2][YELLOW 2 image]][YELLOW 2] | [13.01][YELLOW 2 contrast] | 0.80      | `#ffec99` | `rgb(255, 236, 153)` |
-  | YELLOW 3 | [![YELLOW 3][YELLOW 3 image]][YELLOW 3] | [11.83][YELLOW 3 contrast] | 0.70      | `#ffe066` | `rgb(255, 224, 102)` |
-  | YELLOW 4 | [![YELLOW 4][YELLOW 4 image]][YELLOW 4] | [10.82][YELLOW 4 contrast] | 0.62      | `#ffd43b` | `rgb(255, 212, 59)`  |
-  | YELLOW 5 | [![YELLOW 5][YELLOW 5 image]][YELLOW 5] | [9.59][YELLOW 5 contrast]  | 0.54      | `#fcc419` | `rgb(252, 196, 25)`  |
-  | YELLOW 6 | [![YELLOW 6][YELLOW 6 image]][YELLOW 6] | [8.28][YELLOW 6 contrast]  | 0.50      | `#fab005` | `rgb(250, 176, 5)`   |
-  | YELLOW 7 | [![YELLOW 7][YELLOW 7 image]][YELLOW 7] | [7.23][YELLOW 7 contrast]  | 0.48      | `#f59f00` | `rgb(245, 159, 0)`   |
-  | YELLOW 8 | [![YELLOW 8][YELLOW 8 image]][YELLOW 8] | [6.21][YELLOW 8 contrast]  | 0.47      | `#f08c00` | `rgb(240, 140, 0)`   |
-  | YELLOW 9 | [![YELLOW 9][YELLOW 9 image]][YELLOW 9] | [5.14][YELLOW 9 contrast]  | 0.45      | `#e67700` | `rgb(230, 119, 0)`   |
+  | Color    |                 Preview                 | Contrast                   | HEX       | RGB                  |
+  | -------- | :-------------------------------------: | -------------------------- | --------- | -------------------- |
+  | YELLOW 0 | [![YELLOW 0][YELLOW 0 image]][YELLOW 0] | [14.56][YELLOW 0 contrast] | `#fff9db` | `rgb(255, 249, 219)` |
+  | YELLOW 1 | [![YELLOW 1][YELLOW 1 image]][YELLOW 1] | [13.83][YELLOW 1 contrast] | `#fff3bf` | `rgb(255, 243, 191)` |
+  | YELLOW 2 | [![YELLOW 2][YELLOW 2 image]][YELLOW 2] | [13.01][YELLOW 2 contrast] | `#ffec99` | `rgb(255, 236, 153)` |
+  | YELLOW 3 | [![YELLOW 3][YELLOW 3 image]][YELLOW 3] | [11.83][YELLOW 3 contrast] | `#ffe066` | `rgb(255, 224, 102)` |
+  | YELLOW 4 | [![YELLOW 4][YELLOW 4 image]][YELLOW 4] | [10.82][YELLOW 4 contrast] | `#ffd43b` | `rgb(255, 212, 59)`  |
+  | YELLOW 5 | [![YELLOW 5][YELLOW 5 image]][YELLOW 5] | [9.59][YELLOW 5 contrast]  | `#fcc419` | `rgb(252, 196, 25)`  |
+  | YELLOW 6 | [![YELLOW 6][YELLOW 6 image]][YELLOW 6] | [8.28][YELLOW 6 contrast]  | `#fab005` | `rgb(250, 176, 5)`   |
+  | YELLOW 7 | [![YELLOW 7][YELLOW 7 image]][YELLOW 7] | [7.23][YELLOW 7 contrast]  | `#f59f00` | `rgb(245, 159, 0)`   |
+  | YELLOW 8 | [![YELLOW 8][YELLOW 8 image]][YELLOW 8] | [6.21][YELLOW 8 contrast]  | `#f08c00` | `rgb(240, 140, 0)`   |
+  | YELLOW 9 | [![YELLOW 9][YELLOW 9 image]][YELLOW 9] | [5.14][YELLOW 9 contrast]  | `#e67700` | `rgb(230, 119, 0)`   |
 
   Other swatches:
 
-  | Color       |                    Preview                    | Contrast                     | Lightness | HEX       | RGB                |
-  | ----------- | :-------------------------------------------: | ---------------------------- | --------- | --------- | ------------------ |
-  | HTML gold   |          [![gold][gold image]][gold]          | [11.00][gold contrast]       | 0.50      | `#ffd700` | `rgb(255, 215, 0)` |
-  | HTML yellow |       [![yellow][yellow image]][yellow]       | [14.37][yellow contrast]     | 0.50      | `#ffff00` | `rgb(255, 255, 0)` |
-  | yellow 60°  | [![yellow 60°][yellow 60° image]][yellow 60°] | [14.37][yellow 60° contrast] | 0.50      | `#ffff00` | `rgb(255, 255, 0)` |
+  | Color       |                    Preview                    | Contrast                     | HEX       | RGB                |
+  | ----------- | :-------------------------------------------: | ---------------------------- | --------- | ------------------ |
+  | HTML gold   |          [![gold][gold image]][gold]          | [11.00][gold contrast]       | `#ffd700` | `rgb(255, 215, 0)` |
+  | HTML yellow |       [![yellow][yellow image]][yellow]       | [14.37][yellow contrast]     | `#ffff00` | `rgb(255, 255, 0)` |
+  | yellow 60°  | [![yellow 60°][yellow 60° image]][yellow 60°] | [14.37][yellow 60° contrast] | `#ffff00` | `rgb(255, 255, 0)` |
 
   Thoughts:
 
