@@ -70,7 +70,7 @@ Criteria:
 
   Thoughts:
 
-  * HTML blue and blue 210° do not resemble Open color pink swatches, unlike
+  * HTML blue and blue 210° do not resemble Open color blue swatches, unlike
     HTML dodger blue
   * **BLUE 5** is the nearest shade HTML dodger blue by contrast, therefore is
     chosen as the bright blue color
@@ -723,11 +723,9 @@ Criteria:
 
   Thoughts:
 
-  * **RED 6** is the first shade above 4.5 contrast, near to red 0° by contrast,
-    therefore is chosen as the normal red color
-
-    * RED 5 is lighter red
-    * RED 7 is the nearest shade to red 0° by contrast but is unreadable
+  * HTML red and red 0° are equal, but do not resemble Open color red swatches
+  * **RED 6** is the first shade below the contrast of blue, therefore is
+    chosen as the normal red color
 
   [RED 0 contrast]: https://colourcontrast.cc/fff5f5/212529
   [RED 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff5f5.png
