@@ -70,12 +70,10 @@ Criteria:
 
   Thoughts:
 
-  * **BLUE 5** is the first shade above 4.5 contrast, near to HTML dodger blue
-    by contrast, therefore is chosen as the bright blue color
-  * BLUE 6 is the nearest shade to HTML dodger blue by contrast, but the
-    contrast is below 4.5
-  * HTML blue is very dark and blue 210° is bright, but both do not resemble
-    Open color blue swatches unlike HTML dodger blue
+  * HTML blue and blue 210° do not resemble Open color pink swatches, unlike
+    HTML dodger blue
+  * **BLUE 5** is the nearest shade HTML dodger blue by contrast, therefore is
+    chosen as the bright blue color
 
   [BLUE 0 contrast]: https://colourcontrast.cc/e7f5ff/212529
   [BLUE 0 image]: https://www.htmlcsscolor.com/preview/32x32/e7f5ff.png
@@ -656,7 +654,7 @@ Criteria:
   * PINK 4 is the nearest shade to HTML hot pink by contrast, but pink is
     supposed to be darker
   * **PINK 5** is the first shade below the contrast of grape, therefore is
-    chosen as the bright green color
+    chosen as the bright red color
 
   [PINK 0 contrast]: https://colourcontrast.cc/fff0f6/212529
   [PINK 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff0f6.png
