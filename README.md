@@ -9,7 +9,7 @@ OupnKalr /'oʊ·pən kʌl·ər/ is a color scheme derived from the [Open color] 
 Criteria:
 
 * HTML web safe colors
-* reciprocal ratio (relationship)
+* reciprocal ratio (relationship) - visually perceived brightness
 
   * https://medium.com/sketch-app-sources/mixing-colours-of-equal-luminance-part-1-41f69518d647
   * http://www.workwithcolor.com/color-luminance-2233.htm
@@ -643,21 +643,20 @@ Criteria:
 
   Other swatches:
 
-  | Color          |                  Preview                   | Contrast                   | Lightness | HEX       | RGB                  |
-  | -------------- | :----------------------------------------: | -------------------------- | --------- | --------- | -------------------- |
-  | HTML deep pink | [![deep pink][deep pink image]][deep pink] | [4.24][deep pink contrast] | 0.54      | `#ff1493` | `rgb(255, 20, 147)`  |
-  | HTML pink      |        [![pink][pink image]][pink]         | [10.03][pink contrast]     | 0.88      | `#ffc0cb` | `rgb(255, 192, 203)` |
-  | pink 330°      | [![pink 330°][pink 330° image]][pink 330°] | [4.09][pink 330° contrast] | 0.50      | `#ff0080` | `rgb(255, 0, 128)`   |
+  | Color         |                  Preview                   | Contrast                   | Lightness | HEX       | RGB                  |
+  | ------------- | :----------------------------------------: | -------------------------- | --------- | --------- | -------------------- |
+  | HTML hot pink | [![hot pink][hot pink image]][hot pink]    | [5.83][hot pink contrast]  | 0.54      | `#ff69b4` | `rgb(255, 105, 180)` |
+  | HTML pink     |        [![pink][pink image]][pink]         | [10.03][pink contrast]     | 0.88      | `#ffc0cb` | `rgb(255, 192, 203)` |
+  | pink 330°     | [![pink 330°][pink 330° image]][pink 330°] | [4.09][pink 330° contrast] | 0.50      | `#ff0080` | `rgb(255, 0, 128)`   |
 
   Thoughts:
 
-  * **PINK 5** is the first shade above 4.5 contrast, near to pink 330° by
-    contrast, therefore is chosen as the bright red color
-
-    * PINK 4 is lighter pink
-    * PINK 6 is the nearest shade to pink 330° by contrast but unreadable
-    * HTML pink is very light pink unlike HTML deep pink which is near to pink
-      330°
+  * HTML pink and pink 330° do not resemble Open color pink swatches, unlike
+    HTML hot pink
+  * PINK 4 is the nearest shade to HTML hot pink by contrast, but pink is
+    supposed to be darker
+  * **PINK 5** is the first shade below the contrast of grape, therefore is
+    chosen as the bright green color
 
   [PINK 0 contrast]: https://colourcontrast.cc/fff0f6/212529
   [PINK 0 image]: https://www.htmlcsscolor.com/preview/32x32/fff0f6.png
@@ -689,9 +688,9 @@ Criteria:
   [PINK 9 contrast]: https://colourcontrast.cc/a61e4d/212529
   [PINK 9 image]: https://www.htmlcsscolor.com/preview/32x32/a61e4d.png
   [PINK 9]: https://www.htmlcsscolor.com/hex/a61e4d
-  [deep pink contrast]: https://colourcontrast.cc/ff1493/212529
-  [deep pink image]: https://www.htmlcsscolor.com/preview/32x32/ff1493.png
-  [deep pink]: https://www.htmlcsscolor.com/hex/ff1493
+  [hot pink contrast]: https://colourcontrast.cc/ff69b4/212529
+  [hot pink image]: https://www.htmlcsscolor.com/preview/32x32/ff69b4.png
+  [hot pink]: https://www.htmlcsscolor.com/hex/ff69b4
   [pink 330° contrast]: https://colourcontrast.cc/ff0080/212529
   [pink 330° image]: https://www.htmlcsscolor.com/preview/32x32/ff0080.png
   [pink 330°]: https://www.htmlcsscolor.com/hex/ff0080
