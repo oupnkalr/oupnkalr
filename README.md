@@ -19,7 +19,7 @@ Criteria:
 | ANSI Color | Color    | Preview                                 | Contrast | HEX       | RGB                  |
 | ---------- | -------- | :-------------------------------------: | -------- | --------- | -------------------- |
 | black      | GRAY 9   | [![GRAY 9][GRAY 9 image]][GRAY 9]       | 1.00     | `#212529` | `rgb(33, 37, 41)`    |
-| blue       | INDIGO 6 | [![INDIGO 6][INDIGO 6 image]][INDIGO 6] |          | `#4c6ef5` | `rgb(76, 110, 245)`  |
+| blue       | INDIGO 7 | [![INDIGO 7][INDIGO 7 image]][INDIGO 7] | 3.10     | `#4263eb` | `rgb(66, 99, 235)`   |
 | cyan       | CYAN 3   | [![CYAN 3][CYAN 3 image]][CYAN 3]       | 9.30     | `#66d9e8` | `rgb(102, 217, 232)` |
 | green      | GREEN 5  | [![GREEN 5][GREEN 5 image]][GREEN 5]    | 7.69     | `#51cf66` | `rgb(81, 207, 102)`  |
 | magenta    | GRAPE 4  | [![GRAPE 4][GRAPE 4 image]][GRAPE 4]    | 5.80     | `#da77f2` | `rgb(218, 119, 242)` |
@@ -72,8 +72,8 @@ Criteria:
 
   * HTML blue and blue 210° do not resemble Open color blue swatches, unlike
     HTML dodger blue
-  * **BLUE 5** is the nearest shade HTML dodger blue by contrast, therefore is
-    chosen as the bright blue color
+  * **BLUE 5** is the nearest shade to HTML dodger blue by contrast, therefore
+    is chosen as the bright blue color
 
   [BLUE 0 contrast]: https://colourcontrast.cc/e7f5ff/212529
   [BLUE 0 image]: https://www.htmlcsscolor.com/preview/32x32/e7f5ff.png
@@ -432,6 +432,13 @@ Criteria:
   | HTML indigo          |        [![indigo][indigo image]][indigo]         | [1.80][indigo contrast]      | `#4b0082` | `rgb(75, 0, 130)`    |
   | HTML royal blue      |  [![royal blue][royal blue image]][royal blue]   | [3.18][royal blue contrast]  | `#4169e1` | `rgb(65, 105, 225)`  |
   | indigo 240°          | [![indigo 240°][indigo 240° image]][indigo 240°] | [1.80][indigo 240° contrast] | `#0000ff` | `rgb(0, 0, 255)`     |
+
+  Thoughts:
+
+  * HTML indigo and indigo 240° do not resemble Open color indigo swatches,
+    unlike HTML royal blue
+  * **INDIGO 7** is the nearest shade to HTML royal blue by contrast, therefore
+    is chosen as the normal blue color
 
   [INDIGO 0 contrast]: https://colourcontrast.cc/edf2ff/212529
   [INDIGO 0 image]: https://www.htmlcsscolor.com/preview/32x32/edf2ff.png
